@@ -19,7 +19,7 @@
 
 ---
 
-## অধ্যায় १: Docker এর পরিচয়
+## অধ্যায় 1: Docker এর পরিচয়
 
 ### Docker কী?
 
@@ -69,7 +69,7 @@ Size: 10-100 MB | Start Time: Seconds
 
 ---
 
-## অধ্যায় २: Docker Installation
+## অধ্যায় 2: Docker Installation
 
 ### Windows এ ইনস্টলেশন (প্রস্তাবিত: WSL 2)
 
@@ -83,11 +83,9 @@ Size: 10-100 MB | Start Time: Seconds
 # 1. PowerShell (Admin) চালান
 # 2. Docker Desktop ডাউনলোড করুন:
 # https://www.docker.com/products/docker-desktop
-
 # 3. WSL 2 সেটআপ (অপশনাল কিন্তু সুপারিশকৃত)
 wsl --install -d Ubuntu
 wsl --update
-
 # 4. যাচাই করুন
 docker --version
 docker run hello-world
@@ -148,7 +146,7 @@ docker --version
 
 ---
 
-## অধ্যায় ३: Docker এর মূল Concepts
+## অধ্যায় 3: Docker এর মূল Concepts
 
 ### ১. Image (ব্লুপ্রিন্ট)
 
@@ -174,7 +172,7 @@ docker pull python:3.9-slim
 docker pull nginx:latest
 ```
 
-### २. Container (চলমান প্রক্রিয়া)
+### 4. Container (চলমান প্রক্রিয়া)
 
 Container হলো Image এর একটি runtime instance।
 
@@ -189,7 +187,7 @@ docker run -d -p 8080:80 --name webserver nginx
 # nginx = image নাম
 ```
 
-### ३. Dockerfile (Image তৈরির নির্দেশ)
+### 5. Dockerfile (Image তৈরির নির্দেশ)
 
 Dockerfile একটি টেক্সট ফাইল যাতে Image তৈরির ধাপে ধাপে নির্দেশনা থাকে।
 
@@ -204,7 +202,7 @@ EXPOSE 5000                    # Port expose করুন
 CMD ["python", "app.py"]       # Default command
 ```
 
-### ४. Docker Registry (Image repository)
+### 6. Docker Registry (Image repository)
 
 Docker Registry হলো Image সংগ্রহ করার কেন্দ্রীয় জায়গা।
 
@@ -215,7 +213,7 @@ Docker Registry হলো Image সংগ্রহ করার কেন্দ�
 - **Google Container Registry** (GCP)
 - **Azure Container Registry** (Azure)
 
-### ५. Volume (স্থায়ী data storage)
+### 7. Volume (স্থায়ী data storage)
 
 Problem: Container delete হলে সব ডেটা হারিয়ে যায়
 Solution: Volume ব্যবহার করুন
@@ -231,7 +229,7 @@ docker run -v mydata:/data nginx
 docker run -v /home/user/data:/data nginx
 ```
 
-### ६. Network (Container যোগাযোগ)
+### 8. Network (Container যোগাযোগ)
 
 Docker Network container গুলোকে একে অপরের সাথে যোগাযোগ করতে দেয়।
 
@@ -245,7 +243,7 @@ docker run --network mynet myapp
 
 ---
 
-## অধ্যায় ४: Basic Docker Commands
+## অধ্যায় 9: Basic Docker Commands
 
 ### Image সম্পর্কিত কমান্ড
 
@@ -335,7 +333,7 @@ docker system df                # Disk usage breakdown
 
 ---
 
-## অধ্যায় ५: Dockerfile তৈরি
+## অধ্যায় 10: Dockerfile তৈরি
 
 ### পূর্ণ উদাহরণ
 
@@ -355,31 +353,31 @@ ENV APP_HOME=/app \               # Step २: Environment Variables সেট �
 
 WORKDIR $APP_HOME                 # Step ३: কাজের ডিরেক্টরি
 
-# Step ४: System dependencies (কম করে রাখুন)
+# Step 4: System dependencies (কম করে রাখুন)
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     curl \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Step ५: Application dependencies (আলাদা layer - caching এর জন্য)
+# Step 5: Application dependencies (আলাদা layer - caching এর জন্য)
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Step ६: Application code (এটি সবচেয়ে পরে করুন)
+# Step 6: Application code (এটি সবচেয়ে পরে করুন)
 COPY . .
 
-# Step ७: Non-root user (Security)
+# Step 7: Non-root user (Security)
 RUN useradd -m -u 1000 appuser && \
     chown -R appuser:appuser $APP_HOME
 USER appuser
 
-# Step ८: Port এবং Health Check
+# Step 8: Port এবং Health Check
 EXPOSE $PORT
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s \
     CMD curl -f http://localhost:$PORT/health || exit 1
 
-# Step ०९: Entry point এবং Default command
+# Step 9: Entry point এবং Default command
 ENTRYPOINT ["python"]
 CMD ["app.py"]
 ```
@@ -391,7 +389,7 @@ CMD ["app.py"]
 FROM python:3.9-slim
 FROM node:16-alpine
 FROM ubuntu:20.04
-# টিপ: Alpine ব্যবহার করুন - ৫-८ গুণ ছোট!
+# টিপ: Alpine ব্যবহার করুন - ৫-৮ গুণ ছোট!
 
 # LABEL: মেটাডেটা (optional)
 LABEL maintainer="your@email.com"
@@ -480,7 +478,7 @@ docker build --progress=plain -t myapp:1.0 .
 # ✓ ভাল
 FROM python:3.9-alpine              # Alpine ছোট
 COPY requirements.txt .             # Dependencies আগে
-RUN pip install -r requirements.txt  # এটি caching এ সাহায্য করে
+RUN pip install -r requirements.txt # এটি caching এ সাহায্য করে
 COPY . .                            # Code শেষে
 
 # ✗ খারাপ
@@ -513,7 +511,7 @@ README.md
 
 ---
 
-## অধ্যায় ६: Docker Compose
+## অধ্যায় 6: Docker Compose
 
 ### কেন Docker Compose?
 
@@ -526,7 +524,7 @@ README.md
 ### docker-compose.yml ফরম্যাট
 
 ```yaml
-version: '3.9'  # Version (০৩.५ থেকে परपূর্বতা)
+version: '3.9'  # Version (০৩.৫ থেকে পরপূর্বতা)
 
 services:
   # ─────────────────────────────────────────────────
@@ -671,7 +669,7 @@ volumes:
 
 ---
 
-## অধ্যায় ७: Docker Volumes
+## অধ্যায় 7: Docker Volumes
 
 ### Volume কেন প্রয়োজন
 
@@ -737,7 +735,7 @@ docker run --rm \
 
 ---
 
-## অধ্যায় ८: Docker Networking
+## অধ্যায় 7: Docker Networking
 
 ### Network Types
 
@@ -794,7 +792,7 @@ networks:
 
 ---
 
-## অধ্যায় ०९: Advanced Topics
+## অধ্যায় 9: Advanced Topics
 
 ### Multi-stage Builds (Image size কমান)
 
@@ -815,7 +813,7 @@ COPY --from=builder /app/node_modules ./node_modules
 EXPOSE 3000
 CMD ["node", "dist/index.js"]
 
-# Result: ५०० MB → २०० MB!
+# Result: ৫০০ MB → ২০০ MB!
 ```
 
 ### Docker BuildKit (দ্রুত Build)
@@ -832,7 +830,7 @@ docker build -t myapp:latest .
 
 ---
 
-## অধ্যায় १०: Production
+## অধ্যায় ১০: Production
 
 ### Resource Limits সেট করুন
 
@@ -890,4 +888,3 @@ A: একটি app (একটি প্রক্রিয়া)। Multi-conta
 ---
 
 **Happy Coding! 🚀**
-
