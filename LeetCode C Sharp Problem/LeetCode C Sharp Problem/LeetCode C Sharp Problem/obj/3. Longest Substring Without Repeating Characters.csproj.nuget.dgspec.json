@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj": {}
+    "D:\\learning-zone\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj": {}
   },
   "projects": {
-    "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj": {
+    "D:\\learning-zone\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj",
+        "projectUniqueName": "D:\\learning-zone\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj",
         "projectName": "3. Longest Substring Without Repeating Characters",
-        "projectPath": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj",
-        "packagesPath": "C:\\Users\\WALTON\\.nuget\\packages\\",
-        "outputPath": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\obj\\",
+        "projectPath": "D:\\learning-zone\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\3. Longest Substring Without Repeating Characters.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\learning-zone\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\WALTON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
