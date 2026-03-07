@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\bin\Debug\net8.0\Sliding Window.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\bin\Debug\net8.0\Sliding Window.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\bin\Debug\net8.0\Sliding Window.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\bin\Debug\net8.0\Sliding Window.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\bin\Debug\net8.0\Sliding Window.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\refint\Sliding Window.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\Sliding Window.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\obj\Debug\net8.0\ref\Sliding Window.dll

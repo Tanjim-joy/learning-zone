@@ -74,3 +74,25 @@ namespace LeetCodeSolutions
         }
     }
 }
+
+
+/*
+    1. right = 0 ('a'): charIndex {'a':0}, left=0, maxLength=1
+    2. right = 1 ('b'): charIndex {'a':0,'b':1}, left=0, maxLength=2
+    3. right = 2 ('c'): charIndex {'a':0,'b':1,'c':2}, left=0, maxLength=3
+    4. right = 3 ('a'): 'a' আগে দেখা গেছে (index 0) এবং left <= 0
+       left = 0 + 1 = 1
+       charIndex {'a':3,'b':1,'c':2}, maxLength=3
+    5. right = 4 ('b'): 'b' আগে দেখা গেছে (index 1) এবং left <= 1
+       left = 1 + 1 = 2
+       charIndex {'a':3,'b':4,'c':2}, maxLength=3
+    6. right = 5 ('c'): 'c' আগে দেখা গেছে (index 2) এবং left <= 2
+       left = 2 + 1 = 3
+       charIndex {'a':3,'b':4,'c':5}, maxLength=3
+    7. right = 6 ('b'): 'b' আগে দেখা গেছে (index 4) এবং left <= 4
+       left = 4 + 1 = 5
+       charIndex {'a':3,'b':6,'c':5}, maxLength=3
+    8. right = 7 ('b'): 'b' আগে দেখা গেছে (index 6) এবং left <= 6
+       left = 6 + 1 = 7
+       charIndex {'a':3,'b':7,'c':5}, maxLength=3
+*/
