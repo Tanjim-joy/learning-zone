@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\bin\Debug\net8.0\HeightChecker.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\bin\Debug\net8.0\HeightChecker.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\bin\Debug\net8.0\HeightChecker.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\bin\Debug\net8.0\HeightChecker.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\bin\Debug\net8.0\HeightChecker.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\refint\HeightChecker.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\HeightChecker.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\obj\Debug\net8.0\ref\HeightChecker.dll

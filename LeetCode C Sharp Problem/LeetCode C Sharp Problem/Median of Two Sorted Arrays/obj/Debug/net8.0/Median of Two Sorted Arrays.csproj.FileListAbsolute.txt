@@ -13,3 +13,18 @@ D:\learning-zone\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two
 D:\learning-zone\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.pdb
 D:\learning-zone\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.genruntimeconfig.cache
 D:\learning-zone\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\ref\Median of Two Sorted Arrays.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\bin\Debug\net8.0\Median of Two Sorted Arrays.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\bin\Debug\net8.0\Median of Two Sorted Arrays.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\bin\Debug\net8.0\Median of Two Sorted Arrays.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\bin\Debug\net8.0\Median of Two Sorted Arrays.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\bin\Debug\net8.0\Median of Two Sorted Arrays.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\refint\Median of Two Sorted Arrays.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\Median of Two Sorted Arrays.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\obj\Debug\net8.0\ref\Median of Two Sorted Arrays.dll

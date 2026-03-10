@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-/*
+﻿/*
  Pseudocode 
 `
 function মধ্যমা_নির্ণয়(nums1, nums2):
@@ -46,41 +43,46 @@ namespace MedianOfTwoSortedArrays
         {
             Solution solution = new Solution();
             
-            int[] nums1 = { 1, 3 };
-            int[] nums2 = { 2 };
+            int[] nums1 = { 1, 2 };
+            int[] nums2 = { 3,4 };
+
+            Console.WriteLine("Median: " + solution.FindMedianSortedArrays(nums1, nums2));         
         }
     }
 
     public class Solution
     {
-        public double MedianSortedArrays(int[] nums1, int[] nums2)
+        public double FindMedianSortedArrays(int[] nums1, int[] nums2)
         {
-            if (nums1.Length > nums2.Length)
+            if (nums1.Length > nums2.Length) // Always binary search on the smaller array
             {
-                return MedianSortedArrays(nums2, nums1);
+                return FindMedianSortedArrays(nums2, nums1);
             }
             int m = nums1.Length;
             int n = nums2.Length;
             int low = 0;
             int high = m;
             int totalLeft = (m + n + 1) / 2;
+
             while (low <= high)
             {
-                int i = (low + high) / 2;
-                int j = totalLeft - i;
-                int L1 = (i > 0) ? nums1[i - 1] : int.MinValue;
-                int R1 = (i < m) ? nums1[i] : int.MaxValue;
-                int L2 = (j > 0) ? nums2[j - 1] : int.MinValue;
-                int R2 = (j < n) ? nums2[j] : int.MaxValue;
-                if (L1 <= R2 && L2 <= R1)
+                int i = (low + high) / 2;           // nums1 থেকে কতগুলি বামে নেব
+                int j = totalLeft - i;              // nums2 থেকে কতগুলি বামে নেব
+
+                int L1 = (i > 0) ? nums1[i - 1] : int.MinValue; // nums1 এর শেষ বাম এলিমেন্ট
+                int R1 = (i < m) ? nums1[i] : int.MaxValue;     // nums1 এর প্রথম ডান এলিমেন্ট
+                int L2 = (j > 0) ? nums2[j - 1] : int.MinValue; // nums2 এর শেষ বাম এলিমেন্ট
+                int R2 = (j < n) ? nums2[j] : int.MaxValue;     // nums2 এর প্রথম ডান এলিমেন্ট
+
+                if (L1 <= R2 && L2 <= R1) //    সঠিক পার্টিশন পেয়েছি
                 {
-                    if ((m + n) % 2 == 1)
+                    if ((m + n) % 2 == 1) // // যদি মোট এলিমেন্ট বিজোড় হয়
                     {
-                        return Math.Max(L1, L2);
+                        return Math.Max(L1, L2); // বিজোড় হলে বাম পাশের সর্বোচ্চ এলিমেন্টই মধ্যমা হবে
                     }
                     else
                     {
-                        return (Math.Max(L1, L2) + Math.Min(R1, R2)) / 2.0;
+                        return (Math.Max(L1, L2) + Math.Min(R1, R2)) / 2.0; // জোড় হলে বাম পাশের সর্বোচ্চ এবং ডান পাশের সর্বনিম্নের গড় হবে
                     }
                 }
                 else if (L1 > R2)
@@ -92,7 +94,30 @@ namespace MedianOfTwoSortedArrays
                     low = i + 1;
                 }
             }
-            return 0.0; // This line should never be reached if input is valid
+            return 0.0; 
         }
     }
 }
+
+
+/*
+    nums1 = [1, 3]
+    nums2 = [2]
+
+    মার্জ করলে: [1, 2, 3]
+    মিডিয়ান = 2
+
+    কোড যেভাবে কাজ করে:
+    i = 1 (nums1 থেকে 1টা)
+    j = 1 (nums2 থেকে 1টা)
+
+    L1 = 1, R1 = 3
+    L2 = 2, R2 = int.MaxValue
+
+    L1(1) <= R2(Max) ✓
+    L2(2) <= R1(3) ✓
+
+    মোট এলিমেন্ট = 3 (বিজোড়)
+    return Math.Max(1, 2) = 2
+
+*/

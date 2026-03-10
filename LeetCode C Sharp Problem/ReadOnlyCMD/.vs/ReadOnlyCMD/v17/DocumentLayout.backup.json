@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\ReadOnlyCMD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61153405-C365-40E1-A49C-BF89D834B8B9}|ReadOnlyCMD\\ReadOnlyCMD.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\readonlycmd\\readonlycmd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61153405-C365-40E1-A49C-BF89D834B8B9}|ReadOnlyCMD\\ReadOnlyCMD.csproj|solutionrelative:readonlycmd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\ReadOnlyCMD\\ReadOnlyCMD\\Program.cs",
+              "RelativeDocumentMoniker": "ReadOnlyCMD\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\ReadOnlyCMD\\ReadOnlyCMD\\Program.cs",
+              "RelativeToolTip": "ReadOnlyCMD\\Program.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAowI0BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:17:59.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliding Window", "Sliding W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median of Two Sorted Arrays", "Median of Two Sorted Arrays\Median of Two Sorted Arrays.csproj", "{8E590548-06E2-49D3-B476-1F2FF96D8D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeightChecker", "HeightChecker\HeightChecker.csproj", "{C130F952-3967-43BE-B5F2-E6FC4CD739A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic Number Checker", "Palindromic Number Checker\Palindromic Number Checker.csproj", "{A33F44AD-E35A-4CC8-95B3-99C9B12E0D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountAlphanumericCharacters", "CountAlphanumericCharacters\CountAlphanumericCharacters.csproj", "{63FDC510-3D10-400B-8E0C-4A84322E7403}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{8E590548-06E2-49D3-B476-1F2FF96D8D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E590548-06E2-49D3-B476-1F2FF96D8D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E590548-06E2-49D3-B476-1F2FF96D8D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C130F952-3967-43BE-B5F2-E6FC4CD739A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C130F952-3967-43BE-B5F2-E6FC4CD739A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C130F952-3967-43BE-B5F2-E6FC4CD739A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C130F952-3967-43BE-B5F2-E6FC4CD739A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33F44AD-E35A-4CC8-95B3-99C9B12E0D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33F44AD-E35A-4CC8-95B3-99C9B12E0D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33F44AD-E35A-4CC8-95B3-99C9B12E0D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33F44AD-E35A-4CC8-95B3-99C9B12E0D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

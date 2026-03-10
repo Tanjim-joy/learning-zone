@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\bin\Debug\net8.0\Palindromic Number Checker.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\bin\Debug\net8.0\Palindromic Number Checker.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\bin\Debug\net8.0\Palindromic Number Checker.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\bin\Debug\net8.0\Palindromic Number Checker.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\bin\Debug\net8.0\Palindromic Number Checker.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\refint\Palindromic Number Checker.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\Palindromic Number Checker.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\obj\Debug\net8.0\ref\Palindromic Number Checker.dll
