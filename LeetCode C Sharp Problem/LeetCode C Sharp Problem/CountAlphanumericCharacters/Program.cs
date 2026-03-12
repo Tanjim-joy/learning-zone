@@ -1,4 +1,6 @@
-﻿namespace CountAlphanumericCharacters
+﻿using System.Collections.Immutable;
+
+namespace CountAlphanumericCharacters
 {
     class Program
     {
@@ -77,88 +79,119 @@
             Console.WriteLine(str.Length);
 
             // count total Letters, Digits, and Special Characters in a string
-            foreach (char c in str)
+            /*  foreach (char c in str)
+              {
+                  if (char.IsLetter(c) || char.IsDigit(c))
+                  {
+                      if (Count.ContainsKey(c))
+                      {
+                          Count[c]++;
+                      }
+                      else
+                      {
+                          Count[c] = 1;
+                      }
+                  }
+                  else
+                  {
+                      if (Count.ContainsKey(c))
+                      {
+                          Count[c]++;
+                      }
+                      else
+                      {
+                          Count[c] = 1;
+                      }
+                  }
+              }
+
+              foreach (var c in Count)
+              {
+                  Console.WriteLine($"Character: {c.Key}, Count: {c.Value}"); Console.WriteLine(c);
+              }*/
+
+
+            List<string> cities = new List<string>
             {
-                if (char.IsLetter(c) || char.IsDigit(c))
+               "Lisbon", "London", "Liverpool", "Madrid", "Milan", "Munich", "Porto", "Paris"
+            };
+            /*
+                Grouping cities by their first letter and counting the number of cities in each group
+            */
+            cities.Sort(); // Sort the list of cities alphabetically
+            foreach (string city in cities)
+            {
+                Console.WriteLine(city);
+            }
+
+            Dictionary<char, int> cityCount = new Dictionary<char, int>();
+            foreach (string city in cities)
+            {
+                char firstLetter = city[0]; // Get the first letter of the city name
+                if (cityCount.ContainsKey(firstLetter))
                 {
-                    if (Count.ContainsKey(c))
-                    {
-                        Count[c]++;
-                    }
-                    else
-                    {
-                        Count[c] = 1;
-                    }
+                    cityCount[firstLetter]++;
                 }
                 else
                 {
-                    if (Count.ContainsKey(c))
+                    cityCount[firstLetter] = 1;
+                }
+            }
+            foreach (var kvp in cityCount)
+            {
+                Console.WriteLine($"First Letter: {kvp.Key}, Count: {kvp.Value}");
+            }
+        }
+        public class Solution
+        {
+            /*public int CountAlphanumeric(string str)
+            {
+                int count = 0;
+                foreach (char c in str)
+                {
+                    if (char.IsLetterOrDigit(c))
                     {
-                        Count[c]++;
+                        count++;
+                    }
+                }
+                return count;
+            }*/
+
+            public int DomainCount(string domainEmail)
+            {
+                int emailCount = 0;
+                int gmailCount = 0;
+                int yahooCount = 0;
+                int hotmailCount = 0;
+                string[] emails = domainEmail.Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (string email in emails)
+                {
+                    if (email.Contains("@gmail.com"))
+                    {
+                        gmailCount++;
+                    }
+                    else if (email.EndsWith("@yahoo.com"))
+                    {
+                        yahooCount++;
+                    }
+                    else if (email.EndsWith("@hotmail.com"))
+                    {
+                        hotmailCount++;
                     }
                     else
                     {
-                        Count[c] = 1;
+                        emailCount++;
                     }
                 }
-            }
 
-            foreach (var c in Count)
-            {
-                Console.WriteLine($"Character: {c.Key}, Count: {c.Value}"); Console.WriteLine(c);
+                Console.WriteLine($"Total Gmail: {gmailCount++}");
+                Console.WriteLine($"Total Yahoo: {yahooCount++}");
+                Console.WriteLine($"Total Hotmail: {hotmailCount++}");
+
+                return emails.Length; // Total email count
             }
         }
     }
-    public class Solution
-    {
-        /*public int CountAlphanumeric(string str)
-        {
-            int count = 0;
-            foreach (char c in str)
-            {
-                if (char.IsLetterOrDigit(c))
-                {
-                    count++;
-                }
-            }
-            return count;
-        }*/
-
-        public int DomainCount(string domainEmail)
-        {
-            int emailCount = 0;
-            int gmailCount = 0;
-            int yahooCount = 0;
-            int hotmailCount = 0;
-            string[] emails = domainEmail.Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
-            foreach (string email in emails)
-            {
-                if (email.Contains("@gmail.com"))
-                {
-                    gmailCount++;
-                }
-                else if (email.EndsWith("@yahoo.com"))
-                {
-                    yahooCount++;
-                }
-                else if (email.EndsWith("@hotmail.com"))
-                {
-                    hotmailCount++;
-                }
-                else
-                {
-                    emailCount++;
-                }
-            }
-
-            Console.WriteLine($"Total Gmail: {gmailCount++}");
-            Console.WriteLine($"Total Yahoo: {yahooCount++}");
-            Console.WriteLine($"Total Hotmail: {hotmailCount++}");
-
-            return emails.Length; // Total email count
-        }
-    }
-    
 
 }

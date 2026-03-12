@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\bin\Debug\net8.0\C# Fundamentals.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\bin\Debug\net8.0\C# Fundamentals.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\bin\Debug\net8.0\C# Fundamentals.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\bin\Debug\net8.0\C# Fundamentals.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\bin\Debug\net8.0\C# Fundamentals.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\refint\C# Fundamentals.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\C# Fundamentals.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\obj\Debug\net8.0\ref\C# Fundamentals.dll

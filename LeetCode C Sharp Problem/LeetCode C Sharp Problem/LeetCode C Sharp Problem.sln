@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic Number Checker"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountAlphanumericCharacters", "CountAlphanumericCharacters\CountAlphanumericCharacters.csproj", "{63FDC510-3D10-400B-8E0C-4A84322E7403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary C#", "Dictionary C#\Dictionary C#.csproj", "{148BEC21-0EF0-4FDF-8E07-D1889462F5ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Fundamentals", "C# Fundamentals\C# Fundamentals.csproj", "{38449B0D-3F98-4349-A62B-5261888DD276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63FDC510-3D10-400B-8E0C-4A84322E7403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148BEC21-0EF0-4FDF-8E07-D1889462F5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148BEC21-0EF0-4FDF-8E07-D1889462F5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148BEC21-0EF0-4FDF-8E07-D1889462F5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148BEC21-0EF0-4FDF-8E07-D1889462F5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38449B0D-3F98-4349-A62B-5261888DD276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38449B0D-3F98-4349-A62B-5261888DD276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38449B0D-3F98-4349-A62B-5261888DD276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38449B0D-3F98-4349-A62B-5261888DD276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

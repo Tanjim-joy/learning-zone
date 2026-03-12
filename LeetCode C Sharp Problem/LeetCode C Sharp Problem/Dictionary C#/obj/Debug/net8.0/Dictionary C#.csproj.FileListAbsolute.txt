@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\bin\Debug\net8.0\Dictionary C#.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\bin\Debug\net8.0\Dictionary C#.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\bin\Debug\net8.0\Dictionary C#.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\bin\Debug\net8.0\Dictionary C#.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\bin\Debug\net8.0\Dictionary C#.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\refint\Dictionary C#.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\Dictionary C#.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\obj\Debug\net8.0\ref\Dictionary C#.dll

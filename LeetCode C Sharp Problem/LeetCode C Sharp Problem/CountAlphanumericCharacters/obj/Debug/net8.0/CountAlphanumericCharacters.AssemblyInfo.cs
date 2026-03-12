@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountAlphanumericCharacters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8422140bc58daf3349edafef74d76c7d71d18c21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c23daa50c430069ac350fa86e9286ba90e243def")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountAlphanumericCharacters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountAlphanumericCharacters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
