@@ -135,7 +135,7 @@
 
             /* ========================== Prime Number Check ========================== */
 
-            int number = 29;
+            /*int number = 29;
             bool isPrime = true;
             if (number <= 1)
             {
@@ -152,7 +152,96 @@
                     }
                 }
             }
-            Console.WriteLine(isPrime ? $"{number} is a prime number." : $"{number} is not a prime number.");
+            Console.WriteLine(isPrime ? $"{number} is a prime number." : $"{number} is not a prime number.");*/
+
+            /* ========================= Palindrome Check ========================== */
+
+            /*int number = 121;
+            int originalNumber = number;
+            int reversedNumber = 0;
+
+            while (number > 0)
+            {
+                int digit = number % 10; // Get the last digit
+                reversedNumber = (reversedNumber * 10) + digit; // Append the digit to the reversed number
+                number /= 10; // Remove the last digit
+            }
+
+            *//*
+                number = 121 (True, কারণ 121 > 0)
+                Step 1: digit = number % 10
+                        digit = 121 % 10
+                        digit = 1 (ভাগশেষ)
+
+                Step 2: reversedNumber = (reversedNumber * 10) + digit
+                        reversedNumber = (0 * 10) + 1
+                        reversedNumber = 0 + 1
+                        reversedNumber = 1
+
+                Step 3: number /= 10
+                        number = 121 / 10
+                        number = 12 (ইন্টিজার ডিভিশন)
+
+                number = 12 (True, কারণ 12 > 0)
+                Step 1: digit = number % 10
+                        digit = 12 % 10
+                        digit = 2
+
+                Step 2: reversedNumber = (reversedNumber * 10) + digit
+                        reversedNumber = (1 * 10) + 2
+                        reversedNumber = 10 + 2
+                        reversedNumber = 12
+
+                Step 3: number /= 10
+                        number = 12 / 10
+                        number = 1
+
+                number = 1 (True, কারণ 1 > 0)
+                Step 1: digit = number % 10
+                        digit = 1 % 10
+                        digit = 1
+
+                Step 2: reversedNumber = (reversedNumber * 10) + digit
+                        reversedNumber = (12 * 10) + 1
+                        reversedNumber = 120 + 1
+                        reversedNumber = 121
+
+                Step 3: number /= 10
+                        number = 1 / 10
+                        number = 0
+
+                number = 0 (False, লুপ শেষ)
+            *//*
+
+            Console.WriteLine(originalNumber == reversedNumber ? $"{originalNumber} is a palindrome." : $"{originalNumber} is not a palindrome.");
+
+            string str = "madam";
+            string reversedStr = new string(str.Reverse().ToArray());
+            Console.WriteLine(str == reversedStr ? $"{str} is a palindrome." : $"{str} is not a palindrome.");*/
+
+            /* ======================== Factorial of a number =========================== */
+            /*int fact = 5;
+            int result = 1;
+
+            while (fact > 0)
+            {
+                result = result * fact;
+                fact--;
+            }
+            Console.WriteLine($"Factorial of a number result = {result}");*/
+
+            /* ======================= GCD & LCM of two numbers =========================== */
+
+            int a = 12, b = 18;
+
+            while (b != 0)
+            {
+                int temp = b;
+                b = a % b;
+                a = temp;
+            }
+
+            Console.WriteLine("GCD = " + a);
         }
     }
 }
