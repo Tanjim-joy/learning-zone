@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\vari\bin\Debug\vari.exe.config
+E:\IsDB\c#\C# LAB\vari\bin\Debug\vari.exe
+E:\IsDB\c#\C# LAB\vari\bin\Debug\vari.pdb
+E:\IsDB\c#\C# LAB\vari\obj\Debug\vari.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\vari\obj\Debug\vari.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\vari\obj\Debug\vari.exe
+E:\IsDB\c#\C# LAB\vari\obj\Debug\vari.pdb

@@ -1,0 +1,7 @@
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\bin\Debug\Hw19_ClassWork.exe.config
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\bin\Debug\Hw19_ClassWork.exe
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\bin\Debug\Hw19_ClassWork.pdb
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\obj\Debug\Hw19_ClassWork.csproj.AssemblyReference.cache
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\obj\Debug\Hw19_ClassWork.csproj.CoreCompileInputs.cache
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\obj\Debug\Hw19_ClassWork.exe
+E:\Csharp\Hw19_ClassWork\Hw19_ClassWork\obj\Debug\Hw19_ClassWork.pdb

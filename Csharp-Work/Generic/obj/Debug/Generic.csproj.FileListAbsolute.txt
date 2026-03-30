@@ -1,0 +1,2 @@
+E:\IsDB\c#\C# LAB\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache

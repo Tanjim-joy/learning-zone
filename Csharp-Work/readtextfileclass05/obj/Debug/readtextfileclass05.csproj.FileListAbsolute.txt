@@ -1,0 +1,2 @@
+E:\IsDB\c#\C# LAB\readtextfileclass05\obj\Debug\readtextfileclass05.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\readtextfileclass05\obj\Debug\readtextfileclass05.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\ClassWork7date\bin\Debug\ClassWork7date.exe.config
+E:\IsDB\c#\C# LAB\ClassWork7date\bin\Debug\ClassWork7date.exe
+E:\IsDB\c#\C# LAB\ClassWork7date\bin\Debug\ClassWork7date.pdb
+E:\IsDB\c#\C# LAB\ClassWork7date\obj\Debug\ClassWork7date.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\ClassWork7date\obj\Debug\ClassWork7date.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\ClassWork7date\obj\Debug\ClassWork7date.exe
+E:\IsDB\c#\C# LAB\ClassWork7date\obj\Debug\ClassWork7date.pdb

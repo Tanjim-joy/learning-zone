@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\bin\Debug\PropertiesInheritance.exe.config
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\bin\Debug\PropertiesInheritance.exe
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\bin\Debug\PropertiesInheritance.pdb
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\obj\Debug\PropertiesInheritance.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\obj\Debug\PropertiesInheritance.exe
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\obj\Debug\PropertiesInheritance.pdb
+E:\IsDB\c#\C# LAB\class13\PropertiesInheritance\obj\Debug\PropertiesInheritance.csproj.AssemblyReference.cache

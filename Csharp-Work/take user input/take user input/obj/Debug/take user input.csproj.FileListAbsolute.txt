@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\take user input\take user input\bin\Debug\take user input.exe.config
+E:\IsDB\c#\C# LAB\take user input\take user input\bin\Debug\take user input.exe
+E:\IsDB\c#\C# LAB\take user input\take user input\bin\Debug\take user input.pdb
+E:\IsDB\c#\C# LAB\take user input\take user input\obj\Debug\take user input.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\take user input\take user input\obj\Debug\take user input.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\take user input\take user input\obj\Debug\take user input.exe
+E:\IsDB\c#\C# LAB\take user input\take user input\obj\Debug\take user input.pdb

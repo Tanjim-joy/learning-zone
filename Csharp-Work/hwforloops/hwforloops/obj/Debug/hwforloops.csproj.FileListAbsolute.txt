@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\bin\Debug\hwforloops.exe.config
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\bin\Debug\hwforloops.exe
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\bin\Debug\hwforloops.pdb
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\obj\Debug\hwforloops.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\obj\Debug\hwforloops.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\obj\Debug\hwforloops.exe
+E:\IsDB\c#\C# LAB\hwforloops\hwforloops\obj\Debug\hwforloops.pdb

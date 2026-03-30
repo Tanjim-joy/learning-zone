@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\readlinetextfile\obj\Debug\readlinetextfile.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\readlinetextfile\bin\Debug\readlinetextfile.exe.config
+E:\IsDB\c#\C# LAB\readlinetextfile\bin\Debug\readlinetextfile.exe
+E:\IsDB\c#\C# LAB\readlinetextfile\bin\Debug\readlinetextfile.pdb
+E:\IsDB\c#\C# LAB\readlinetextfile\obj\Debug\readlinetextfile.exe
+E:\IsDB\c#\C# LAB\readlinetextfile\obj\Debug\readlinetextfile.pdb
+E:\IsDB\c#\C# LAB\readlinetextfile\obj\Debug\readlinetextfile.csproj.AssemblyReference.cache

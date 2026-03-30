@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\bin\Debug\Class_05WORKOUT.exe.config
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\bin\Debug\Class_05WORKOUT.exe
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\bin\Debug\Class_05WORKOUT.pdb
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\obj\Debug\Class_05WORKOUT.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\obj\Debug\Class_05WORKOUT.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\obj\Debug\Class_05WORKOUT.exe
+E:\IsDB\c#\C# LAB\Class_05WORKOUT\obj\Debug\Class_05WORKOUT.pdb

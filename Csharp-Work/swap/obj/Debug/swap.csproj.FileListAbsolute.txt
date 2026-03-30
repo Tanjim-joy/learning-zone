@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\swap\bin\Debug\swap.exe.config
+E:\IsDB\c#\C# LAB\swap\bin\Debug\swap.exe
+E:\IsDB\c#\C# LAB\swap\bin\Debug\swap.pdb
+E:\IsDB\c#\C# LAB\swap\obj\Debug\swap.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\swap\obj\Debug\swap.exe
+E:\IsDB\c#\C# LAB\swap\obj\Debug\swap.pdb

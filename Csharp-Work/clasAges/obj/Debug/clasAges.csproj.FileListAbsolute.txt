@@ -1,0 +1,2 @@
+E:\IsDB\c#\C# LAB\clasAges\obj\Debug\clasAges.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\clasAges\obj\Debug\clasAges.csproj.CoreCompileInputs.cache

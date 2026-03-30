@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\obj\Debug\forloo_whileloop.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\obj\Debug\forloo_whileloop.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\bin\Debug\forloo_whileloop.exe.config
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\bin\Debug\forloo_whileloop.exe
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\bin\Debug\forloo_whileloop.pdb
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\obj\Debug\forloo_whileloop.exe
+E:\IsDB\c#\C# LAB\forloo_whileloop\forloo_whileloop\obj\Debug\forloo_whileloop.pdb

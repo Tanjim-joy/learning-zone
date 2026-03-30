@@ -1,0 +1,6 @@
+E:\IsDB\c#\C# LAB\class05workout1\bin\Debug\class05workout1.exe.config
+E:\IsDB\c#\C# LAB\class05workout1\bin\Debug\class05workout1.exe
+E:\IsDB\c#\C# LAB\class05workout1\bin\Debug\class05workout1.pdb
+E:\IsDB\c#\C# LAB\class05workout1\obj\Debug\Age claculate.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\class05workout1\obj\Debug\class05workout1.exe
+E:\IsDB\c#\C# LAB\class05workout1\obj\Debug\class05workout1.pdb

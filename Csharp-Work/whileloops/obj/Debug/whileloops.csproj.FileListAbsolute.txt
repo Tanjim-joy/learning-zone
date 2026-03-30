@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\whileloops\obj\Debug\whileloops.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\whileloops\obj\Debug\whileloops.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\whileloops\bin\Debug\whileloops.exe.config
+E:\IsDB\c#\C# LAB\whileloops\bin\Debug\whileloops.exe
+E:\IsDB\c#\C# LAB\whileloops\bin\Debug\whileloops.pdb
+E:\IsDB\c#\C# LAB\whileloops\obj\Debug\whileloops.exe
+E:\IsDB\c#\C# LAB\whileloops\obj\Debug\whileloops.pdb

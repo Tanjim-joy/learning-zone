@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\reloop\obj\Debug\reloop.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\reloop\bin\Debug\reloop.exe.config
+E:\IsDB\c#\C# LAB\reloop\bin\Debug\reloop.exe
+E:\IsDB\c#\C# LAB\reloop\bin\Debug\reloop.pdb
+E:\IsDB\c#\C# LAB\reloop\obj\Debug\reloop.exe
+E:\IsDB\c#\C# LAB\reloop\obj\Debug\reloop.pdb
+E:\IsDB\c#\C# LAB\reloop\obj\Debug\reloop.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\class7.2\obj\Debug\class7.2.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\class7.2\obj\Debug\class7.2.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\class7.2\bin\Debug\class7.2.exe.config
+E:\IsDB\c#\C# LAB\class7.2\bin\Debug\class7.2.exe
+E:\IsDB\c#\C# LAB\class7.2\bin\Debug\class7.2.pdb
+E:\IsDB\c#\C# LAB\class7.2\obj\Debug\class7.2.exe
+E:\IsDB\c#\C# LAB\class7.2\obj\Debug\class7.2.pdb

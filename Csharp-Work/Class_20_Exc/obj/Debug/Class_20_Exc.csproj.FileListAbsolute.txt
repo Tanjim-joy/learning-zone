@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\Class_20_Exc\obj\Debug\Class_20_Exc.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Class_20_Exc\obj\Debug\Class_20_Exc.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\Class_20_Exc\bin\Debug\Class_20_Exc.exe.config
+E:\IsDB\c#\C# LAB\Class_20_Exc\bin\Debug\Class_20_Exc.exe
+E:\IsDB\c#\C# LAB\Class_20_Exc\bin\Debug\Class_20_Exc.pdb
+E:\IsDB\c#\C# LAB\Class_20_Exc\obj\Debug\Class_20_Exc.exe
+E:\IsDB\c#\C# LAB\Class_20_Exc\obj\Debug\Class_20_Exc.pdb

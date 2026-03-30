@@ -1,0 +1,6 @@
+E:\IsDB\c#\C# LAB\taksjk\bin\Debug\taksjk.exe.config
+E:\IsDB\c#\C# LAB\taksjk\bin\Debug\taksjk.exe
+E:\IsDB\c#\C# LAB\taksjk\bin\Debug\taksjk.pdb
+E:\IsDB\c#\C# LAB\taksjk\obj\Debug\taksjk.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\taksjk\obj\Debug\taksjk.exe
+E:\IsDB\c#\C# LAB\taksjk\obj\Debug\taksjk.pdb

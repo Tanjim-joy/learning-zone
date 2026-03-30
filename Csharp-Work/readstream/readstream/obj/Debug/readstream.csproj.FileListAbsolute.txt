@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\readstream\readstream\obj\Debug\readstream.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\readstream\readstream\obj\Debug\readstream.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\readstream\readstream\bin\Debug\readstream.exe.config
+E:\IsDB\c#\C# LAB\readstream\readstream\bin\Debug\readstream.exe
+E:\IsDB\c#\C# LAB\readstream\readstream\bin\Debug\readstream.pdb
+E:\IsDB\c#\C# LAB\readstream\readstream\obj\Debug\readstream.exe
+E:\IsDB\c#\C# LAB\readstream\readstream\obj\Debug\readstream.pdb

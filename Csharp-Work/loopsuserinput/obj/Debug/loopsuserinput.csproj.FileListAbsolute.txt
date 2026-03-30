@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\loopsuserinput\bin\Debug\loopsuserinput.exe.config
+E:\IsDB\c#\C# LAB\loopsuserinput\bin\Debug\loopsuserinput.exe
+E:\IsDB\c#\C# LAB\loopsuserinput\bin\Debug\loopsuserinput.pdb
+E:\IsDB\c#\C# LAB\loopsuserinput\obj\Debug\loopsuserinput.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\loopsuserinput\obj\Debug\loopsuserinput.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\loopsuserinput\obj\Debug\loopsuserinput.exe
+E:\IsDB\c#\C# LAB\loopsuserinput\obj\Debug\loopsuserinput.pdb

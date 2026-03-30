@@ -1,0 +1,6 @@
+E:\IsDB\c#\C# LAB\item1variable\bin\Debug\item1variable.exe.config
+E:\IsDB\c#\C# LAB\item1variable\bin\Debug\item1variable.exe
+E:\IsDB\c#\C# LAB\item1variable\bin\Debug\item1variable.pdb
+E:\IsDB\c#\C# LAB\item1variable\obj\Debug\item1variable.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\item1variable\obj\Debug\item1variable.exe
+E:\IsDB\c#\C# LAB\item1variable\obj\Debug\item1variable.pdb

@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\class13\triangle\bin\Debug\triangle.exe.config
+E:\IsDB\c#\C# LAB\class13\triangle\bin\Debug\triangle.exe
+E:\IsDB\c#\C# LAB\class13\triangle\bin\Debug\triangle.pdb
+E:\IsDB\c#\C# LAB\class13\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\class13\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\class13\triangle\obj\Debug\triangle.exe
+E:\IsDB\c#\C# LAB\class13\triangle\obj\Debug\triangle.pdb

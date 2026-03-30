@@ -1,0 +1,16 @@
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\hlwwrold.exe
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\hlwwrold.deps.json
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\hlwwrold.runtimeconfig.json
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\hlwwrold.runtimeconfig.dev.json
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\hlwwrold.dll
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\ref\hlwwrold.dll
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\bin\Debug\net5.0\hlwwrold.pdb
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.GeneratedMSBuildEditorConfig.editorconfig
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.AssemblyInfoInputs.cache
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.AssemblyInfo.cs
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.dll
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\ref\hlwwrold.dll
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.pdb
+E:\IsDB\c#\C# LAB\hlwwrold\hlwwrold\obj\Debug\net5.0\hlwwrold.genruntimeconfig.cache

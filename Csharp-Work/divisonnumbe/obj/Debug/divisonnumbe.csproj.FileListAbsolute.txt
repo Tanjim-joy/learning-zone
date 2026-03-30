@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\divisonnumbe\bin\Debug\divisonnumbe.exe.config
+E:\IsDB\c#\C# LAB\divisonnumbe\bin\Debug\divisonnumbe.exe
+E:\IsDB\c#\C# LAB\divisonnumbe\bin\Debug\divisonnumbe.pdb
+E:\IsDB\c#\C# LAB\divisonnumbe\obj\Debug\divisonnumbe.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\divisonnumbe\obj\Debug\divisonnumbe.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\divisonnumbe\obj\Debug\divisonnumbe.exe
+E:\IsDB\c#\C# LAB\divisonnumbe\obj\Debug\divisonnumbe.pdb

@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\Class_22_m3\bin\Debug\Class_22_m3.exe.config
+E:\IsDB\c#\C# LAB\Class_22_m3\bin\Debug\Class_22_m3.exe
+E:\IsDB\c#\C# LAB\Class_22_m3\bin\Debug\Class_22_m3.pdb
+E:\IsDB\c#\C# LAB\Class_22_m3\obj\Debug\Class_22_m3.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Class_22_m3\obj\Debug\Class_22_m3.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\Class_22_m3\obj\Debug\Class_22_m3.exe
+E:\IsDB\c#\C# LAB\Class_22_m3\obj\Debug\Class_22_m3.pdb

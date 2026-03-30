@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\ccccls\obj\Debug\ccccls.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\ccccls\obj\Debug\ccccls.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\ccccls\bin\Debug\ccccls.exe.config
+E:\IsDB\c#\C# LAB\ccccls\bin\Debug\ccccls.exe
+E:\IsDB\c#\C# LAB\ccccls\bin\Debug\ccccls.pdb
+E:\IsDB\c#\C# LAB\ccccls\obj\Debug\ccccls.exe
+E:\IsDB\c#\C# LAB\ccccls\obj\Debug\ccccls.pdb

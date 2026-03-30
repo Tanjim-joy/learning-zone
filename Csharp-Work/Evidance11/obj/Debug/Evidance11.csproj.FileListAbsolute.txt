@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\Evidance11\bin\Debug\Evidance11.exe.config
+E:\IsDB\c#\C# LAB\Evidance11\bin\Debug\Evidance11.exe
+E:\IsDB\c#\C# LAB\Evidance11\bin\Debug\Evidance11.pdb
+E:\IsDB\c#\C# LAB\Evidance11\obj\Debug\Evidance11.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Evidance11\obj\Debug\Evidance11.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\Evidance11\obj\Debug\Evidance11.exe
+E:\IsDB\c#\C# LAB\Evidance11\obj\Debug\Evidance11.pdb

@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\forl\obj\Debug\forl.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\forl\obj\Debug\forl.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\forl\bin\Debug\forl.exe.config
+E:\IsDB\c#\C# LAB\forl\bin\Debug\forl.exe
+E:\IsDB\c#\C# LAB\forl\bin\Debug\forl.pdb
+E:\IsDB\c#\C# LAB\forl\obj\Debug\forl.exe
+E:\IsDB\c#\C# LAB\forl\obj\Debug\forl.pdb

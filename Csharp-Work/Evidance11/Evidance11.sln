@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evidance11", "Evidance11.csproj", "{70323A58-4689-454C-A36E-A9F549477087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70323A58-4689-454C-A36E-A9F549477087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70323A58-4689-454C-A36E-A9F549477087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70323A58-4689-454C-A36E-A9F549477087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70323A58-4689-454C-A36E-A9F549477087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F1D3551-2FEE-4665-88D1-9B7C4B1B9F91}
+	EndGlobalSection
+EndGlobal

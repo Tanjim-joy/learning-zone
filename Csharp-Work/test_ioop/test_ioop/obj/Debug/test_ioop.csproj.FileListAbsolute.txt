@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\obj\Debug\test_ioop.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\obj\Debug\test_ioop.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\bin\Debug\test_ioop.exe.config
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\bin\Debug\test_ioop.exe
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\bin\Debug\test_ioop.pdb
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\obj\Debug\test_ioop.exe
+E:\IsDB\c#\C# LAB\test_ioop\test_ioop\obj\Debug\test_ioop.pdb

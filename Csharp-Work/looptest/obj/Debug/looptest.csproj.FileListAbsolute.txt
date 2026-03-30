@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\looptest\bin\Debug\looptest.exe.config
+E:\IsDB\c#\C# LAB\looptest\bin\Debug\looptest.exe
+E:\IsDB\c#\C# LAB\looptest\bin\Debug\looptest.pdb
+E:\IsDB\c#\C# LAB\looptest\obj\Debug\looptest.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\looptest\obj\Debug\looptest.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\looptest\obj\Debug\looptest.exe
+E:\IsDB\c#\C# LAB\looptest\obj\Debug\looptest.pdb

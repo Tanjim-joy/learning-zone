@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\class13\cls123\bin\Debug\cls123.exe.config
+E:\IsDB\c#\C# LAB\class13\cls123\bin\Debug\cls123.exe
+E:\IsDB\c#\C# LAB\class13\cls123\bin\Debug\cls123.pdb
+E:\IsDB\c#\C# LAB\class13\cls123\obj\Debug\cls123.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\class13\cls123\obj\Debug\cls123.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\class13\cls123\obj\Debug\cls123.exe
+E:\IsDB\c#\C# LAB\class13\cls123\obj\Debug\cls123.pdb

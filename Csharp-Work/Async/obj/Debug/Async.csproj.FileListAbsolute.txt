@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\Async\bin\Debug\Async.exe.config
+E:\IsDB\c#\C# LAB\Async\bin\Debug\Async.exe
+E:\IsDB\c#\C# LAB\Async\bin\Debug\Async.pdb
+E:\IsDB\c#\C# LAB\Async\obj\Debug\Async.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\Async\obj\Debug\Async.exe
+E:\IsDB\c#\C# LAB\Async\obj\Debug\Async.pdb

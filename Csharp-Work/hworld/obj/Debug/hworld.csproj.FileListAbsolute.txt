@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\hworld\bin\Debug\hworld.exe.config
+E:\IsDB\c#\C# LAB\hworld\bin\Debug\hworld.exe
+E:\IsDB\c#\C# LAB\hworld\bin\Debug\hworld.pdb
+E:\IsDB\c#\C# LAB\hworld\obj\Debug\hworld.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\hworld\obj\Debug\hworld.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\hworld\obj\Debug\hworld.exe
+E:\IsDB\c#\C# LAB\hworld\obj\Debug\hworld.pdb

@@ -1,0 +1,5 @@
+E:\IsDB\c#\C# LAB\Encapsulation form\Encapsulation form\obj\Debug\Encapsulation form.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\Encapsulation form\Encapsulation form\obj\Debug\Encapsulation_form.EmpForm.resources
+E:\IsDB\c#\C# LAB\Encapsulation form\Encapsulation form\obj\Debug\Encapsulation_form.Form1.resources
+E:\IsDB\c#\C# LAB\Encapsulation form\Encapsulation form\obj\Debug\Encapsulation form.csproj.GenerateResource.cache
+E:\IsDB\c#\C# LAB\Encapsulation form\Encapsulation form\obj\Debug\Encapsulation form.csproj.CoreCompileInputs.cache

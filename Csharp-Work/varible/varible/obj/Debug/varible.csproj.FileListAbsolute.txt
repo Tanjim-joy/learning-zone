@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\varible\varible\bin\Debug\varible.exe.config
+E:\IsDB\c#\C# LAB\varible\varible\bin\Debug\varible.exe
+E:\IsDB\c#\C# LAB\varible\varible\bin\Debug\varible.pdb
+E:\IsDB\c#\C# LAB\varible\varible\obj\Debug\varible.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\varible\varible\obj\Debug\varible.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\varible\varible\obj\Debug\varible.exe
+E:\IsDB\c#\C# LAB\varible\varible\obj\Debug\varible.pdb

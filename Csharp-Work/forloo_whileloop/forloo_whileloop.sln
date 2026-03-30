@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forloo_whileloop", "forloo_whileloop\forloo_whileloop.csproj", "{AF986B68-5ED9-4FAA-AFC7-EAA141013399}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reloop", "..\reloop\reloop.csproj", "{DE8D1641-C243-4065-AE45-E0754505A023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF986B68-5ED9-4FAA-AFC7-EAA141013399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF986B68-5ED9-4FAA-AFC7-EAA141013399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF986B68-5ED9-4FAA-AFC7-EAA141013399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF986B68-5ED9-4FAA-AFC7-EAA141013399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8D1641-C243-4065-AE45-E0754505A023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8D1641-C243-4065-AE45-E0754505A023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8D1641-C243-4065-AE45-E0754505A023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8D1641-C243-4065-AE45-E0754505A023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9256007F-1461-4E9D-AC6D-C0CDE0822CBA}
+	EndGlobalSection
+EndGlobal

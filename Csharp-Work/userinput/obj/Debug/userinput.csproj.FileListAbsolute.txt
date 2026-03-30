@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\userinput\bin\Debug\userinput.exe.config
+E:\IsDB\c#\C# LAB\userinput\bin\Debug\userinput.exe
+E:\IsDB\c#\C# LAB\userinput\bin\Debug\userinput.pdb
+E:\IsDB\c#\C# LAB\userinput\obj\Debug\userinput.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\userinput\obj\Debug\userinput.exe
+E:\IsDB\c#\C# LAB\userinput\obj\Debug\userinput.pdb
+E:\IsDB\c#\C# LAB\userinput\obj\Debug\userinput.csproj.AssemblyReference.cache

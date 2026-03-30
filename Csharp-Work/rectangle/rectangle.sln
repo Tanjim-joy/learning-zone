@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectangle", "rectangle.csproj", "{5B66F8EC-21B4-4C6D-8297-96B85056A6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B66F8EC-21B4-4C6D-8297-96B85056A6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B66F8EC-21B4-4C6D-8297-96B85056A6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B66F8EC-21B4-4C6D-8297-96B85056A6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B66F8EC-21B4-4C6D-8297-96B85056A6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5951AC32-2DEA-48D6-957E-D43032B1D0A4}
+	EndGlobalSection
+EndGlobal

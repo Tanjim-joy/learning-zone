@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\try4141451\try4141451\bin\Debug\try4141451.exe.config
+E:\IsDB\c#\C# LAB\try4141451\try4141451\bin\Debug\try4141451.exe
+E:\IsDB\c#\C# LAB\try4141451\try4141451\bin\Debug\try4141451.pdb
+E:\IsDB\c#\C# LAB\try4141451\try4141451\obj\Debug\try4141451.csprojAssemblyReference.cache
+E:\IsDB\c#\C# LAB\try4141451\try4141451\obj\Debug\try4141451.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\try4141451\try4141451\obj\Debug\try4141451.exe
+E:\IsDB\c#\C# LAB\try4141451\try4141451\obj\Debug\try4141451.pdb

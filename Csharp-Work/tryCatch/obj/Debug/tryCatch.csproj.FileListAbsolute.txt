@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\tryCatch\bin\Debug\tryCatch.exe.config
+E:\IsDB\c#\C# LAB\tryCatch\bin\Debug\tryCatch.exe
+E:\IsDB\c#\C# LAB\tryCatch\bin\Debug\tryCatch.pdb
+E:\IsDB\c#\C# LAB\tryCatch\obj\Debug\tryCatch.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\tryCatch\obj\Debug\tryCatch.exe
+E:\IsDB\c#\C# LAB\tryCatch\obj\Debug\tryCatch.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_20_Exc", "Class_20_Exc.csproj", "{80E86444-AA8D-45BE-AC43-4EF55C3F30A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taksjk", "..\taksjk\taksjk.csproj", "{3C1ED753-B203-453C-B363-6401C793BEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E86444-AA8D-45BE-AC43-4EF55C3F30A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E86444-AA8D-45BE-AC43-4EF55C3F30A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E86444-AA8D-45BE-AC43-4EF55C3F30A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E86444-AA8D-45BE-AC43-4EF55C3F30A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1ED753-B203-453C-B363-6401C793BEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1ED753-B203-453C-B363-6401C793BEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1ED753-B203-453C-B363-6401C793BEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1ED753-B203-453C-B363-6401C793BEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F08842-BC7A-46DB-ACEA-EECCEAABECD2}
+	EndGlobalSection
+EndGlobal

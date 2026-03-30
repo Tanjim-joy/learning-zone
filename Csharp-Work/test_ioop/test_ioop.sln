@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_ioop", "test_ioop\test_ioop.csproj", "{CB09B70C-BC1B-4683-9FD4-2E0C998690DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divisonnumbe", "..\divisonnumbe\divisonnumbe.csproj", "{896C11CE-8807-48FB-A12E-78241E891CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clasAges", "..\clasAges\clasAges.csproj", "{9C6E8207-5FF1-4DCB-A30D-B285F45358AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB09B70C-BC1B-4683-9FD4-2E0C998690DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB09B70C-BC1B-4683-9FD4-2E0C998690DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB09B70C-BC1B-4683-9FD4-2E0C998690DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB09B70C-BC1B-4683-9FD4-2E0C998690DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896C11CE-8807-48FB-A12E-78241E891CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896C11CE-8807-48FB-A12E-78241E891CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896C11CE-8807-48FB-A12E-78241E891CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896C11CE-8807-48FB-A12E-78241E891CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6E8207-5FF1-4DCB-A30D-B285F45358AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6E8207-5FF1-4DCB-A30D-B285F45358AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6E8207-5FF1-4DCB-A30D-B285F45358AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6E8207-5FF1-4DCB-A30D-B285F45358AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9DECA19-EAFA-480C-BB15-98DC346449F4}
+	EndGlobalSection
+EndGlobal

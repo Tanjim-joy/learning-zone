@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\methods1\bin\Debug\methods1.exe.config
+E:\IsDB\c#\C# LAB\methods1\bin\Debug\methods1.exe
+E:\IsDB\c#\C# LAB\methods1\bin\Debug\methods1.pdb
+E:\IsDB\c#\C# LAB\methods1\obj\Debug\methods1.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\methods1\obj\Debug\methods1.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\methods1\obj\Debug\methods1.exe
+E:\IsDB\c#\C# LAB\methods1\obj\Debug\methods1.pdb

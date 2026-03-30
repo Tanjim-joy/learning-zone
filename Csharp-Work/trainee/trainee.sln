@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trainee", "trainee.csproj", "{9FDFB9CE-FFA3-48F3-875D-F7300E942405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewWorks1", "..\NewWorks1\NewWorks1.csproj", "{BF837C74-4B6F-4607-A470-8B5EBEA6D791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDFB9CE-FFA3-48F3-875D-F7300E942405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDFB9CE-FFA3-48F3-875D-F7300E942405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDFB9CE-FFA3-48F3-875D-F7300E942405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDFB9CE-FFA3-48F3-875D-F7300E942405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF837C74-4B6F-4607-A470-8B5EBEA6D791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF837C74-4B6F-4607-A470-8B5EBEA6D791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF837C74-4B6F-4607-A470-8B5EBEA6D791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF837C74-4B6F-4607-A470-8B5EBEA6D791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D59D3FF4-1F7C-4DF4-AA4D-B120E2D74B46}
+	EndGlobalSection
+EndGlobal

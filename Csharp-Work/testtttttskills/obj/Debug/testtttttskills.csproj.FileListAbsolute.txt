@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\testtttttskills\bin\Debug\testtttttskills.exe.config
+E:\IsDB\c#\C# LAB\testtttttskills\bin\Debug\testtttttskills.exe
+E:\IsDB\c#\C# LAB\testtttttskills\bin\Debug\testtttttskills.pdb
+E:\IsDB\c#\C# LAB\testtttttskills\obj\Debug\testtttttskills.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\testtttttskills\obj\Debug\testtttttskills.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\testtttttskills\obj\Debug\testtttttskills.exe
+E:\IsDB\c#\C# LAB\testtttttskills\obj\Debug\testtttttskills.pdb

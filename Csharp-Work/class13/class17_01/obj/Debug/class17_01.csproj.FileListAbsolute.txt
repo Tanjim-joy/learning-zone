@@ -1,0 +1,7 @@
+E:\IsDB\c#\C# LAB\class13\class17_01\bin\Debug\class17_01.exe.config
+E:\IsDB\c#\C# LAB\class13\class17_01\bin\Debug\class17_01.exe
+E:\IsDB\c#\C# LAB\class13\class17_01\bin\Debug\class17_01.pdb
+E:\IsDB\c#\C# LAB\class13\class17_01\obj\Debug\class17_01.csproj.AssemblyReference.cache
+E:\IsDB\c#\C# LAB\class13\class17_01\obj\Debug\class17_01.csproj.CoreCompileInputs.cache
+E:\IsDB\c#\C# LAB\class13\class17_01\obj\Debug\class17_01.exe
+E:\IsDB\c#\C# LAB\class13\class17_01\obj\Debug\class17_01.pdb
