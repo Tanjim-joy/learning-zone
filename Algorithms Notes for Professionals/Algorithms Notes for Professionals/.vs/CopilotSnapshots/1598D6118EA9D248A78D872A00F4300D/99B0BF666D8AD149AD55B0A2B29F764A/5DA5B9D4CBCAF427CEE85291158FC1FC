@@ -1,0 +1,52 @@
+﻿using System;
+using System.IO;
+using System.Threading.Tasks;
+
+static class Program
+{
+    public static void Main()
+    {        
+        int[] data = { 43, 27, 45, 24, 35};
+        SelectionSort.Sort(data);
+        Console.WriteLine("Sorted Array: " + string.Join(", ", data));
+    }
+    public class SelectionSort
+    {
+        // 1. Make Function using Synthesis
+        public static void Sort(int[] input)
+        {
+            int n = input.Length; // Get the length of the array
+
+            // Use iteration loop
+            for (int i = 0; i < n - 1; i++)
+            {
+                int min_Id = i;
+
+                // nested loop to find the minimum element in the unsorted part of the array
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (input[j] < input[min_Id])
+                    {
+                        min_Id = j;
+                    }
+                }
+                // Swap the found minimum element with the first element
+                int temp = input[min_Id];
+                input[min_Id] = input[i];
+                input[i] = temp;
+            }
+        }
+    }
+}
+
+/*
+    সিন্থেসিস (Synthesis) কী?
+    ছোট ছোট লজিক্যাল ইউনিটগুলোকে (যেমন: loops, conditionals, variables) মিলিয়ে একটি জটিল সমস্যার মার্জিত সমাধান তৈরি করার প্রক্রিয়াই হলো সিন্থেসিস
+
+    সিন্থেসিস কীভাবে কাজ করে? 
+    সিন্থেসিস প্রক্রিয়ায় আমরা চারটি প্রধান উপাদানকে একত্রিত করি
+    ->  Variables: তথ্য জমা রাখার জন্য।
+    ->  Iteration (Loops): বারবার কোনো কাজ করার জন্য।
+    ->  Conditionals (If-Else): সিদ্ধান্তের ভিত্তিতে কাজ করার জন্য।
+    ->  Functions: নির্দিষ্ট কাজকে একটি ব্লকের মধ্যে বন্দি করে পুনরায় ব্যবহারের জন্য।
+*/

@@ -7,9 +7,9 @@
             Solution solution = new Solution();
             
             int number = 1331;
-            string str ="aXLba";
+            string str = "babad";
             //Console.WriteLine("Is Palindrome: " + solution.IsPalindrome(number));
-            Console.WriteLine("Reversed String: " + solution.ReverseString(str));
+            Console.WriteLine("Reversed String: " + solution.LongestPalindrome(str));
         }
     }
     public class Solution
@@ -55,6 +55,41 @@
             else
             {
                 return new string(charArray) + " isn't a palindrome.";
+            }
+        }
+
+        // For leetcode problem 5: Longest Palindromic Substring
+        public string LongestPalindrome(string s)
+        {
+            if (string.IsNullOrEmpty(s) || s.Length < 2)
+            {
+                return s;
+            }
+
+            int start = 0;
+            int maxlength = 1;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+                // Odd length palindromes
+                ExpandAroundCenter(s, i, i, ref start, ref maxlength);
+                // Even length palindromes
+                ExpandAroundCenter(s, i, i + 1, ref start, ref maxlength);
+            }
+            return s.Substring(start, maxlength);
+        }
+        private void ExpandAroundCenter(string s, int left, int right, ref int start, ref int maxlength)
+        {
+            while (left >= 0 && right < s.Length && s[left] == s[right])
+            {
+                left--;
+                right++;
+            }
+            int length = right - left - 1;
+            if (length > maxlength)
+            {
+                start = left + 1; 
+                maxlength = length; 
             }
         }
     }

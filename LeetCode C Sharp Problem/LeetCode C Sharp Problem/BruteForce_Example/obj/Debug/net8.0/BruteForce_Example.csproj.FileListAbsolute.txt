@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\bin\Debug\net8.0\BruteForce_Example.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\bin\Debug\net8.0\BruteForce_Example.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\bin\Debug\net8.0\BruteForce_Example.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\bin\Debug\net8.0\BruteForce_Example.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\bin\Debug\net8.0\BruteForce_Example.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\refint\BruteForce_Example.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\BruteForce_Example.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\obj\Debug\net8.0\ref\BruteForce_Example.dll

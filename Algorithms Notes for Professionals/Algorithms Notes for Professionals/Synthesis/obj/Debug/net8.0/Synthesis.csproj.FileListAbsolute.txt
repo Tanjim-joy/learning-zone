@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\bin\Debug\net8.0\Synthesis.exe
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\bin\Debug\net8.0\Synthesis.deps.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\bin\Debug\net8.0\Synthesis.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\bin\Debug\net8.0\Synthesis.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\bin\Debug\net8.0\Synthesis.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\refint\Synthesis.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\Synthesis.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\obj\Debug\net8.0\ref\Synthesis.dll

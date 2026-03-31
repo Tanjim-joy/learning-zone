@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Palindromic Number Checker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c23daa50c430069ac350fa86e9286ba90e243def")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7cc34c221ed5f86016f3ebef9fe920590be4af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Palindromic Number Checker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Palindromic Number Checker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
