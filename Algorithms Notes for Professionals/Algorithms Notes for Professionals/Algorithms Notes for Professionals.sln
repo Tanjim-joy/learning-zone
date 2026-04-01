@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37012.4 d17.14
+VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms Notes for Professionals", "Algorithms Notes for Professionals\Algorithms Notes for Professionals.csproj", "{F1D8F35F-1643-4052-936A-B59561080423}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synthesis", "Synthesis\Synthesis.csproj", "{EDDE8C28-A535-43AC-B582-8FDAC91D7CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module - 1", "Module - 1\Module - 1.csproj", "{B2474D20-A1A6-4F08-A2E9-816C3E659D51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EDDE8C28-A535-43AC-B582-8FDAC91D7CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDDE8C28-A535-43AC-B582-8FDAC91D7CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDDE8C28-A535-43AC-B582-8FDAC91D7CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

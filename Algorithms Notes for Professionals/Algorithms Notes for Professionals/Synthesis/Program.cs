@@ -9,6 +9,8 @@ static class Program
         int[] data = { 43, 27, 45, 24, 35};
         SelectionSort.Sort(data);   
         Console.WriteLine("Sorted Array: " + string.Join(", ", data));
+        SelectionSort.Xsort(data);
+        Console.WriteLine("Sorted Array: " + string.Join(", ", data));
     }
     public class SelectionSort
     {
@@ -35,6 +37,26 @@ static class Program
                 input[min_Id] = input[i];
                 input[i] = temp;
             }
+        }
+        public static void Xsort(int[] input)
+        {
+            int n = input.Length; 
+            for (int i = 0; i < n - 1; i++)
+            {
+                int max_Id = i; // Assume the minimum is the first element
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (input[j] > input[max_Id])
+                    {
+                        max_Id = j; // Update the index of the minimum element
+                    }
+                }
+                // Swap the found minimum element with the first element
+                int temp = input[max_Id];
+                input[max_Id] = input[i];
+                input[i] = temp;
+            }
+
         }
     }
 }
