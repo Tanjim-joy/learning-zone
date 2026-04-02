@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\bin\Debug\net8.0\Module - 2 Linear Data Structures.exe
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\bin\Debug\net8.0\Module - 2 Linear Data Structures.deps.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\bin\Debug\net8.0\Module - 2 Linear Data Structures.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\bin\Debug\net8.0\Module - 2 Linear Data Structures.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\bin\Debug\net8.0\Module - 2 Linear Data Structures.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\refint\Module - 2 Linear Data Structures.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\Module - 2 Linear Data Structures.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\obj\Debug\net8.0\ref\Module - 2 Linear Data Structures.dll

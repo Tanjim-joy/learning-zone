@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synthesis", "Synthesis\Synt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module - 1", "Module - 1\Module - 1.csproj", "{B2474D20-A1A6-4F08-A2E9-816C3E659D51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module - 2 Linear Data Structures", "Module - 2 Linear Data Structures\Module - 2 Linear Data Structures.csproj", "{740891C1-0F0F-4C19-99C8-CFC22B63921D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2474D20-A1A6-4F08-A2E9-816C3E659D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740891C1-0F0F-4C19-99C8-CFC22B63921D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740891C1-0F0F-4C19-99C8-CFC22B63921D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740891C1-0F0F-4C19-99C8-CFC22B63921D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740891C1-0F0F-4C19-99C8-CFC22B63921D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
