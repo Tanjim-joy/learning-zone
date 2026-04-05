@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 2 linear data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|solutionrelative:module - 2 linear data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1D8F35F-1643-4052-936A-B59561080423}|Algorithms Notes for Professionals\\Algorithms Notes for Professionals.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\algorithms notes for professionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D8F35F-1643-4052-936A-B59561080423}|Algorithms Notes for Professionals\\Algorithms Notes for Professionals.csproj|solutionrelative:algorithms notes for professionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDDE8C28-A535-43AC-B582-8FDAC91D7CE5}|Synthesis\\Synthesis.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\synthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDDE8C28-A535-43AC-B582-8FDAC91D7CE5}|Synthesis\\Synthesis.csproj|solutionrelative:synthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2474D20-A1A6-4F08-A2E9-816C3E659D51}|Module - 1\\Module - 1.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2474D20-A1A6-4F08-A2E9-816C3E659D51}|Module - 1\\Module - 1.csproj|solutionrelative:module - 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,47 +28,9 @@
               "RelativeDocumentMoniker": "Module - 2 Linear Data Structures\\Program.cs",
               "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\Program.cs",
               "RelativeToolTip": "Module - 2 Linear Data Structures\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwCcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv38AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T09:19:10.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 1\\Program.cs",
-              "RelativeDocumentMoniker": "Module - 1\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 1\\Program.cs",
-              "RelativeToolTip": "Module - 1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T05:28:22.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Program.cs",
-              "RelativeDocumentMoniker": "Algorithms Notes for Professionals\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Program.cs",
-              "RelativeToolTip": "Algorithms Notes for Professionals\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T05:22:29.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Synthesis\\Program.cs",
-              "RelativeDocumentMoniker": "Synthesis\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Synthesis\\Program.cs",
-              "RelativeToolTip": "Synthesis\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T09:05:01.016Z",
               "EditorCaption": ""
             }
           ]

@@ -46,7 +46,7 @@ namespace LinearDataStructures
     }
 
     // Stack Implementation
-    class SimpleStack : IEnumerable
+    class SimpleStack
     {
         private int[] items;
         private int top;
@@ -58,7 +58,7 @@ namespace LinearDataStructures
         }
 
         // push creations 
-        public void Push(int item)
+        public void Push (int item)
         {
             if (top < items.Length - 1)
             {
@@ -84,15 +84,6 @@ namespace LinearDataStructures
                 Console.WriteLine("Stack is empty. Cannot pop item.");
                 return -1; // স্ট্যাক খালি থাকলে -1 রিটার্ন করা হচ্ছে
             }
-        }       
-
-        // Implement IEnumerable
-        public IEnumerator GetEnumerator()
-        {
-            for (int i = 0; i <= top; i++)
-            {
-                yield return items[i];   // স্ট্যাকের প্রতিটি আইটেম রিটার্ন করা হচ্ছে
-            }
         }
     }
 
@@ -102,12 +93,6 @@ namespace LinearDataStructures
         private ArrayList List;
         private int f_index = -1;
         private int r_index = -1;
-
-        public CQueue()
-        {
-            List = new ArrayList();
-        }
-
         public void enqueue(object item)
         {
             List.Add(item);
@@ -232,7 +217,7 @@ namespace LinearDataStructures
             {
                 Console.WriteLine(item); // প্রতিটি আইটেম প্রিন্ট করা হচ্ছে
             }
-            
+
 
             //    // Example usage of Queue
             //    CQueue queue = new CQueue();
@@ -241,7 +226,7 @@ namespace LinearDataStructures
             //    queue.enqueue(3);
             //    Console.WriteLine(queue.dequeue()); // Output: 1
 
-                //Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
         }
     }
 }
