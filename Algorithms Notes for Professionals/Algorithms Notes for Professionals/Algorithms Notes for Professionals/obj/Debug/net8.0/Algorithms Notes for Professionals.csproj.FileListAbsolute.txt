@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\bin\Debug\net8.0\Algorithms Notes for Professionals.exe
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\bin\Debug\net8.0\Algorithms Notes for Professionals.deps.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\bin\Debug\net8.0\Algorithms Notes for Professionals.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\bin\Debug\net8.0\Algorithms Notes for Professionals.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\bin\Debug\net8.0\Algorithms Notes for Professionals.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\refint\Algorithms Notes for Professionals.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\Algorithms Notes for Professionals.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\obj\Debug\net8.0\ref\Algorithms Notes for Professionals.dll

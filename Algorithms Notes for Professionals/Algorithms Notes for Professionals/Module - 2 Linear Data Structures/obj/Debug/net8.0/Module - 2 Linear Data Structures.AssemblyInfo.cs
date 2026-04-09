@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Module - 2 Linear Data Structures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7763243cf540aee4f54c499cff4380bebb175fa1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2dc627eefcaf4ffec70c8c4340061e6a45154f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Module - 2 Linear Data Structures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Module - 2 Linear Data Structures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

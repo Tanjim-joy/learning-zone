@@ -1,0 +1,5 @@
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\Module - 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\Module - 1.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\Module - 1.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\Module - 1.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\Module - 1.sourcelink.json

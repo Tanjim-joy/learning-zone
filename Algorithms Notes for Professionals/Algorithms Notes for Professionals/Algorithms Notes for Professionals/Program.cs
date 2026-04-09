@@ -24,6 +24,9 @@ Console.WriteLine("Hello, World!");
 মডিউল ২: লিনিয়ার ডেটা স্ট্রাকচার (Linear Data Structures) 
     অধ্যায় ৪: অ্যারে ও লিস্ট (Arrays & Lists): স্ট্যাটিক অ্যারে, ডায়নামিক অ্যারে (ArrayList) এবং লিঙ্কড লিস্ট (সেন্টিনেল নোডসহ)।
     অধ্যায় ৫: স্ট্যাক ও কিউ (Stacks & Queues): LIFO এবং FIFO নীতি, এদের ইমপ্লিমেন্টেশন এবং গাণিতিক এক্সপ্রেশন (Infix, Prefix, Postfix) মূল্যায়নে এদের ব্যবহার।
+
+
+
 মডিউল ৩: অনুসন্ধান ও হ্যাশিং (Searching & Hashing)
     অধ্যায় ৬: সার্চিং অ্যালগরিদম: লিনিয়ার সার্চ (Linear Search) এবং বাইনারি সার্চ (Binary Search)।
     অধ্যায় ৭: হ্যাশ টেবিল (Hash Tables): হ্যাশ ফাংশন, কলিশন রেজোলিউশন (Open Addressing, Chaining)।

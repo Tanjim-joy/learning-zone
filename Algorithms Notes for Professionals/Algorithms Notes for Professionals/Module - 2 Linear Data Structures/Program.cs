@@ -26,8 +26,10 @@
     অসুবিধা: সীমিত অ্যাক্সেস (শুধুমাত্র ফ্রন্ট এবং রিয়ার এলিমেন্ট) ।
 */
 
+using Module___2_Linear_Data_Structures;
 using System;
 using System.Collections;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace LinearDataStructures
 {
@@ -44,57 +46,7 @@ namespace LinearDataStructures
             Link = null;
         }
     }
-
-    // Stack Implementation
-    class SimpleStack : IEnumerable
-    {
-        private int[] items;
-        private int top;
-
-        public SimpleStack(int size)
-        {
-            items = new int[size];
-            top = -1; // স্ট্যাক খালি অবস্থায় top -1 থাকে
-        }
-
-        // push creations 
-        public void Push(int item)
-        {
-            if (top < items.Length - 1)
-            {
-                top++;
-                items[top] = item; // নতুন আইটেম স্ট্যাকের টপ পজিশনে রাখা হচ্ছে
-            }
-            else
-            {
-                Console.WriteLine("Stack is full. Cannot push new item.");
-            }
-        }
-        // pop creations
-        public int Pop()
-        {
-            if (top >= 0)
-            {
-                int item = items[top]; // টপ আইটেম স্ট্যাক থেকে নেওয়া হচ্ছে
-                top--; // টপ পজিশন এক ধাপ নিচে সরানো হচ্ছে
-                return item; // পপ করা আইটেম রিটার্ন করা হচ্ছে
-            }
-            else
-            {
-                Console.WriteLine("Stack is empty. Cannot pop item.");
-                return -1; // স্ট্যাক খালি থাকলে -1 রিটার্ন করা হচ্ছে
-            }
-        }       
-
-        // Implement IEnumerable
-        public IEnumerator GetEnumerator()
-        {
-            for (int i = 0; i <= top; i++)
-            {
-                yield return items[i];   // স্ট্যাকের প্রতিটি আইটেম রিটার্ন করা হচ্ছে
-            }
-        }
-    }
+    
 
     // Queue Implementation
     public class CQueue
@@ -126,11 +78,36 @@ namespace LinearDataStructures
     {
         static void Main(string[] args)
         {
-            //// Example usage of Linked List
-            Node head = new Node(10);
-            head.Link = new Node(20);
-            head.Link.Link = new Node(30);
-            head.Link.Link.Link = new Node(40);
+            // stack implementation
+
+            numberSystemConversion numberSystemConversion = new numberSystemConversion();
+            Console.WriteLine(numberSystemConversion.convertToBinary(15)); // Output: 1111
+            Console.WriteLine(numberSystemConversion.convertToOctal(15)); // Output: 17
+            Console.WriteLine(numberSystemConversion.convertToHexadecimal(94)); // Output: F
+
+            // Blanced Brackets
+            //balancedBrackets<char> balancedBrackets = new balancedBrackets<char>();
+            //balancedBrackets.isBalancedBracketsData("({[]})".ToCharArray()); // Output: Balanced
+            //balancedBrackets.isBalancedBracketsData("([{}])".ToCharArray());
+
+
+            //reverseString<char> reverse = new reverseString<char>();
+            //string input = "hello";
+            //Console.WriteLine(reverse.reverse(input.ToCharArray()));
+
+            //questions_1 ques01 = new questions_1();
+            //ques01.stackOperations();
+
+
+            //LearnStack<char> learnStack = new LearnStack<char>();
+            //string text = "madam";
+            //Console.WriteLine(learnStack.Ispalindrome(text.ToCharArray()));
+
+            // Example usage of Linked List
+            //Node head = new Node(10);
+            //head.Link = new Node(20);
+            //head.Link.Link = new Node(30);
+            //head.Link.Link.Link = new Node(40);
 
             //// Beginning of the linked list Insert
             //Node newNode = new Node(5);
@@ -212,58 +189,36 @@ namespace LinearDataStructures
             //midlleNode.Link = null; // middle node এর লিঙ্ক null করা হচ্ছে, যা middle node কে লিঙ্কড লিস্ট থেকে বিচ্ছিন্ন করে দেয়
 
             ////midlleNode.Link = null;
-            Node currentNode = head; // লিঙ্কড লিস্টের শুরু থেকে শুরু করা হচ্ছে
-            while (currentNode != null)
-            {
-                Console.WriteLine(currentNode.Element); // প্রতিটি নোডের ডেটা প্রিন্ট করা হচ্ছে
-                currentNode = currentNode.Link; // পরবর্তী নোডে যাওয়া হচ্ছে                
-            }
+            //Node currentNode = head; // লিঙ্কড লিস্টের শুরু থেকে শুরু করা হচ্ছে
+            //while (currentNode != null)
+            //{
+            //    Console.WriteLine(currentNode.Element); // প্রতিটি নোডের ডেটা প্রিন্ট করা হচ্ছে
+            //    currentNode = currentNode.Link; // পরবর্তী নোডে যাওয়া হচ্ছে                
+            //}
 
             // revrse linked list
             // last node of the linked list
             //Node lastNode = head;
-            Node prev = null;
-            Node current = head;
-            Node next = null;
+            //Node prev = null;
+            //Node current = head;
+            //Node next = null;
 
-            while (current != null) 
-            {
-                next = current.Link;
-                current.Link = prev;
-                prev = current;
-                current = next;
-            }
-            head = prev;
-            Console.WriteLine($"--------Reversed Linked List----");
-
-            while (head != null)
-            {
-                Console.WriteLine(head.Element); // প্রতিটি নোডের ডেটা প্রিন্ট করা হচ্ছে
-                head = head.Link; // পরবর্তী নোডে যাওয়া হচ্ছে
-            }
-
-            
-
-
-            // Example usage of Stack
-            //SimpleStack stack = new SimpleStack(5);
-            //stack.Push(10);
-            //stack.Push(20);
-            //stack.Push(30);
-            //Console.WriteLine(stack.Pop()); // Output: 30.
-            //// show all push values
-            //foreach (var item in stack)
+            //while (current != null) 
             //{
-            //    Console.WriteLine(item); // প্রতিটি আইটেম প্রিন্ট করা হচ্ছে
+            //    next = current.Link;
+            //    current.Link = prev;
+            //    prev = current;
+            //    current = next;
+            //}
+            //head = prev;
+            //Console.WriteLine($"--------Reversed Linked List----");
+
+            //while (head != null)
+            //{
+            //    Console.WriteLine(head.Element); // প্রতিটি নোডের ডেটা প্রিন্ট করা হচ্ছে
+            //    head = head.Link; // পরবর্তী নোডে যাওয়া হচ্ছে
             //}
 
-
-            //    // Example usage of Queue
-            //    CQueue queue = new CQueue();
-            //    queue.enqueue(1);
-            //    queue.enqueue(2);
-            //    queue.enqueue(3);
-            //    Console.WriteLine(queue.dequeue()); // Output: 1
 
             //Console.WriteLine("Hello, World!");
         }
