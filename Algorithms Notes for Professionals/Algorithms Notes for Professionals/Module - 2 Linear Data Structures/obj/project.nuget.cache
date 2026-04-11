@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/QLWO1BgFt0=",
+  "dgSpecHash": "5QCoaGgcxn4=",
   "success": true,
   "projectFilePath": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

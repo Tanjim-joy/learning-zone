@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Baseline/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "ImTools": "4.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Baseline.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/Baseline.dll": {}
+        }
+      },
+      "ImTools/4.0.0": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/any/any/_._": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Baseline/4.1.0": {
+      "sha512": "uM4EJYhrn9OmjLOTI0nJuT6WwqsH/+ZM+d8uwLS1o/SX8MRp5xj/83Zoms7ffwi8D3AMK+qDyUJ4cx4jgVY9gg==",
+      "type": "package",
+      "path": "baseline/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "baseline.4.1.0.nupkg.sha512",
+        "baseline.nuspec",
+        "lib/net5.0/Baseline.dll",
+        "lib/net6.0/Baseline.dll",
+        "lib/net7.0/Baseline.dll",
+        "lib/netstandard2.0/Baseline.dll"
+      ]
+    },
+    "ImTools/4.0.0": {
+      "sha512": "dms0JfLKC9AQbQX/EdpRjn59EjEvaCxIgv1z9YxbEQb5SiOVoo7vlIKdEySeEwUkWhN05rZnNpUpG+aw5VqPVQ==",
+      "type": "package",
+      "path": "imtools/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ImTools.snk",
+        "LICENSE.txt",
+        "content/net45/ImTools/ImTools.cs",
+        "contentFiles/cs/net45/ImTools/ImTools.cs",
+        "contentFiles/cs/netstandard2.0/ImTools/ImTools.cs",
+        "imtools.4.0.0.nupkg.sha512",
+        "imtools.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Baseline >= 4.1.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\WALTON\\.nuget\\packages\\": {},
@@ -57,6 +114,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "Baseline": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

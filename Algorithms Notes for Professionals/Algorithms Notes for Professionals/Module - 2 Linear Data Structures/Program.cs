@@ -78,12 +78,17 @@ namespace LinearDataStructures
     {
         static void Main(string[] args)
         {
+            // Queue implementation
+            LearnQueue learnQueue = new LearnQueue();
+            learnQueue.potatoGame();
+
+
             // stack implementation
 
-            numberSystemConversion numberSystemConversion = new numberSystemConversion();
-            Console.WriteLine(numberSystemConversion.convertToBinary(15)); // Output: 1111
-            Console.WriteLine(numberSystemConversion.convertToOctal(15)); // Output: 17
-            Console.WriteLine(numberSystemConversion.convertToHexadecimal(94)); // Output: F
+            //numberSystemConversion numberSystemConversion = new numberSystemConversion();
+            //Console.WriteLine(numberSystemConversion.convertToBinary(15)); // Output: 1111
+            //Console.WriteLine(numberSystemConversion.convertToOctal(15)); // Output: 17
+            //Console.WriteLine(numberSystemConversion.convertToHexadecimal(94)); // Output: F
 
             // Blanced Brackets
             //balancedBrackets<char> balancedBrackets = new balancedBrackets<char>();

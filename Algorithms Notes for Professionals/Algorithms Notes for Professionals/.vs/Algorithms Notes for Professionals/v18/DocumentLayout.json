@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 2 linear data structures\\learnstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|solutionrelative:module - 2 linear data structures\\learnstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 2 linear data structures\\learnqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|solutionrelative:module - 2 linear data structures\\learnqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 2 linear data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T03:29:42.436Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -45,14 +44,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LearnStack.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\LearnStack.cs",
-              "RelativeDocumentMoniker": "Module - 2 Linear Data Structures\\LearnStack.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\LearnStack.cs",
-              "RelativeToolTip": "Module - 2 Linear Data Structures\\LearnStack.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Title": "LearnQueue.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\LearnQueue.cs",
+              "RelativeDocumentMoniker": "Module - 2 Linear Data Structures\\LearnQueue.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\LearnQueue.cs",
+              "RelativeToolTip": "Module - 2 Linear Data Structures\\LearnQueue.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T04:46:17.6Z",
+              "WhenOpened": "2026-04-11T03:53:18.566Z",
               "EditorCaption": ""
             },
             {
@@ -63,7 +62,7 @@
               "RelativeDocumentMoniker": "Module - 2 Linear Data Structures\\Program.cs",
               "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\Program.cs",
               "RelativeToolTip": "Module - 2 Linear Data Structures\\Program.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFUAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAALsAAAAAAAAAAAAlwOUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T10:58:29.194Z",
               "EditorCaption": ""
