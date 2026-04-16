@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 2 linear data structures\\learnqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|solutionrelative:module - 2 linear data structures\\learnqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}|Module - 3 Searching \u0026 Hashing\\Module - 3 Searching \u0026 Hashing.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 3 searching \u0026 hashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}|Module - 3 Searching \u0026 Hashing\\Module - 3 Searching \u0026 Hashing.csproj|solutionrelative:module - 3 searching \u0026 hashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 2 linear data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{740891C1-0F0F-4C19-99C8-CFC22B63921D}|Module - 2 Linear Data Structures\\Module - 2 Linear Data Structures.csproj|solutionrelative:module - 2 linear data structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}|Module - 3 Searching \u0026 Hashing\\Module - 3 Searching \u0026 Hashing.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 3 searching \u0026 hashing\\searchingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}|Module - 3 Searching \u0026 Hashing\\Module - 3 Searching \u0026 Hashing.csproj|solutionrelative:module - 3 searching \u0026 hashing\\searchingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1D8F35F-1643-4052-936A-B59561080423}|Algorithms Notes for Professionals\\Algorithms Notes for Professionals.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\algorithms notes for professionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -32,10 +32,24 @@
               "RelativeDocumentMoniker": "Algorithms Notes for Professionals\\Program.cs",
               "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Program.cs",
               "RelativeToolTip": "Algorithms Notes for Professionals\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T03:29:42.436Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchingAlgorithms.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
+              "RelativeDocumentMoniker": "Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
+              "RelativeToolTip": "Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:23:16.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -44,27 +58,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LearnQueue.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\LearnQueue.cs",
-              "RelativeDocumentMoniker": "Module - 2 Linear Data Structures\\LearnQueue.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\LearnQueue.cs",
-              "RelativeToolTip": "Module - 2 Linear Data Structures\\LearnQueue.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T03:53:18.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\Program.cs",
-              "RelativeDocumentMoniker": "Module - 2 Linear Data Structures\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 2 Linear Data Structures\\Program.cs",
-              "RelativeToolTip": "Module - 2 Linear Data Structures\\Program.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAlwOUAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\Program.cs",
+              "RelativeDocumentMoniker": "Module - 3 Searching \u0026 Hashing\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\Program.cs",
+              "RelativeToolTip": "Module - 3 Searching \u0026 Hashing\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T10:58:29.194Z",
+              "WhenOpened": "2026-04-15T09:21:37.348Z",
               "EditorCaption": ""
             }
           ]
