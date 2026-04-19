@@ -4,8 +4,45 @@ using System.Text;
 
 namespace Module___3_Searching___Hashing
 {
+    public class BinarySearch
+    {
+        public bool binarySearch(int[] number, int target)
+        {
+            int left = 0;
+            int right = number.Length - 1;
+            int countstep = 0;
+
+            while (left <= right)
+            {
+                countstep++;
+                int mid = left + (right - left) / 2; // Calculate the middle index to avoid potential overflow
+                if (number[mid] == target)
+                {
+                    Console.WriteLine($"{target} -> Number found in the list & total steps: {countstep}");
+                    return true;
+                }
+                else if (number[mid] < target)
+                {
+                    left = mid + 1;
+                }
+                else
+                {                  
+                   right = mid - 1;
+                }
+            }
+            Console.WriteLine($"{target} -> Number not found in the list");
+            return false;
+        }
+        
+    }
+
+    public class HashSlotCalculator
+    {
+
+    }
     public class SearchingAlgorithms
     {
+
         public class UnsortedList
         {
             private List<int> list = new List<int>();
@@ -36,7 +73,6 @@ namespace Module___3_Searching___Hashing
 
                 খুব ভালো প্রশ্ন 👍
     এই constructor টা **না দিলে কেন সমস্যা হচ্ছিল**, সেটা আমি একদম **root-level** থেকে ধাপে ধাপে বুঝাচ্ছি।
-
     ---
 
     ## 🔹 মূল কোডটা আবার দেখি

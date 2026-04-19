@@ -32,11 +32,15 @@
               "RelativeDocumentMoniker": "Algorithms Notes for Professionals\\Program.cs",
               "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Program.cs",
               "RelativeToolTip": "Algorithms Notes for Professionals\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T03:29:42.436Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -46,14 +50,10 @@
               "RelativeDocumentMoniker": "Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
               "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
               "RelativeToolTip": "Module - 3 Searching \u0026 Hashing\\SearchingAlgorithms.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T06:23:16.547Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -61,9 +61,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\Program.cs",
               "RelativeDocumentMoniker": "Module - 3 Searching \u0026 Hashing\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\Program.cs",
-              "RelativeToolTip": "Module - 3 Searching \u0026 Hashing\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching \u0026 Hashing\\Program.cs*",
+              "RelativeToolTip": "Module - 3 Searching \u0026 Hashing\\Program.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T09:21:37.348Z",
               "EditorCaption": ""

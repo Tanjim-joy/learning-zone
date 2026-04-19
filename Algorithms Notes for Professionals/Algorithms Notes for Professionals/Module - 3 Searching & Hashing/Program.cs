@@ -43,15 +43,23 @@
 using Module___3_Searching___Hashing;
 
 
-int[] number = { 52, 14, 7, 23, 5 };
-foreach (int item in number)
+int[] number = { 52, 14, 7, 23, 5 , 18};
+
+Array.Sort(number);
+
+List<int> list = new List<int>();
+for (int i = 0; i <= 100; i++)
 {
-    Console.WriteLine(item);
+    list.Add(i);
 }
-SearchingAlgorithms.UnsortedList unsortedList = new SearchingAlgorithms.UnsortedList(number);
+int[] number2 = list.ToArray();
 
-Console.WriteLine("=======================");
-unsortedList.linearSearch(5);
-unsortedList.linearSearch(10);
+BinarySearch binarySearch = new BinarySearch();
+binarySearch.binarySearch(number2, 18);
+//SearchingAlgorithms.UnsortedList unsortedList = new SearchingAlgorithms.UnsortedList(number);
 
-Console.WriteLine("=======================");
+//Console.WriteLine("=======================");
+//unsortedList.linearSearch(5);
+//unsortedList.linearSearch(10);
+
+//Console.WriteLine("=======================");
