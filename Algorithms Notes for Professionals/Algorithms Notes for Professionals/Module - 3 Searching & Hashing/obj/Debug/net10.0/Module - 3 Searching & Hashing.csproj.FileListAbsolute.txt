@@ -13,3 +13,12 @@ E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms N
 E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\obj\Debug\net10.0\Module - 3 Searching & Hashing.pdb
 E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\obj\Debug\net10.0\Module - 3 Searching & Hashing.genruntimeconfig.cache
 E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\obj\Debug\net10.0\ref\Module - 3 Searching & Hashing.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\Stripe.net.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\obj\Debug\net10.0\Module - 3 Searching & Hashing.csproj.AssemblyReference.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\obj\Debug\net10.0\Module -.83CA5707.Up2Date

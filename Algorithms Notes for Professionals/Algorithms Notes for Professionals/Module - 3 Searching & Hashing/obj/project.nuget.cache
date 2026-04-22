@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "U3RUaVceyAE=",
+  "dgSpecHash": "5vuRMfflQIw=",
   "success": true,
   "projectFilePath": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 3 Searching & Hashing\\Module - 3 Searching & Hashing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTON\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\stripe.net\\51.0.1\\stripe.net.51.0.1.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\WALTON\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

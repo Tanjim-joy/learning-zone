@@ -1,9 +1,147 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using System.Security;
 using System.Text;
 
 namespace Module___3_Searching___Hashing
 {
+    public class HashFunction()
+    {
+
+        /*
+আশা করি ভালো আছেন। আমি আজ আপনার **গণিত ও প্রোগ্রামিংয়ের শিক্ষক** হিসেবে কথা বলব। চলুন, **হ্যাশ টেবিল** বিষয়টা খুব সোজা ভাষায়, গল্পের ছলে, আর C# উদাহরণসহ বুঝি।
+
+---
+
+## ১. হ্যাশ টেবিল কী? (সহজ কথায়)
+
+মনে করুন, আপনার কাছে ১০০ জন ছাত্রের রোল নম্বর ও নাম আছে।  
+আপনি চান, যে কোনো রোল নম্বর দিলেই যেন সঙ্গে সঙ্গে নাম বলে দিতে পারেন।
+
+আপনি যদি **অ্যারে** ব্যবহার করেন, তাহলে `student[roll] = name` লিখে দিলেই হয়। কিন্তু সমস্যা হলো, রোল নম্বর যদি ১০০ না হয়ে ১০০০০০০ হয়? তাহলে এত বড় অ্যারে বানাতে গেলে মেমোরি নষ্ট হবে।
+
+**হ্যাশ টেবিল** এখানে বাঁচায়। এটি একটি কী (যেমন রোল) নেয়, সেটাকে গাণিতিক ফাংশনের মাধ্যমে ছোট ইনডেক্সে রূপান্তর করে, আর সেই ইনডেক্সে মান সংরক্ষণ করে।
+
+> **হ্যাশ টেবিল = কী → হ্যাশ ফাংশন → ইনডেক্স → মান**
+
+---
+
+## ২. হ্যাশ ফাংশন (Hash Function)
+
+এটা একটা মেশিন। আপনি কী দেবেন (যেমন `"101"` বা `101`), মেশিনটি সেটাকে ০ থেকে N-1 এর মধ্যে কোনো সংখ্যায় রূপান্তর করবে।
+
+এখানে `"101"` কী-এর ASCII যোগফল 49+48+49 = 146। টেবল সাইজ যদি ১০ হয়, তাহলে `146 % 10 = 6` ইনডেক্সে ডাটা পড়বে।
+
+    ## ৩. কলিশন (Collision) কী?
+
+    দুটি ভিন্ন কী-র জন্য হ্যাশ ফাংশন যদি একই ইনডেক্স বের করে, তাকে কলিশন বলে।
+        যেমন `"101"` ও `"110"` উভয়ের ASCII যোগফল 146 হতে পারে (না-ও হতে পারে, কিন্তু ধরে নিলাম), 
+        তাহলে দুজনেই চাইবে ৬ নম্বর জায়গায় বসতে — এটাই কলিশন।
+
+    **কলিশন রেজোলিউশন** মানে এই সমস্যার সমাধান করার পদ্ধতি।
+
+    ---
+
+## ৪. কলিশন রেজোলিউশনের দুই পদ্ধতি
+
+### ক) চেইনিং (Chaining)
+
+একই ইনডেক্সে **লিংকড লিস্ট** বা অন্য কোনো কালেকশন রাখা হয়। অনেক মান এক জায়গায় সংরক্ষণ হয়, কিন্তু খুঁজতে গেলে লিস্টটা সার্চ করতে হয়।
+
+**C# উদাহরণ (চেইনিং)**
+
+C# তে `Dictionary<TKey, TValue>` ইন্টারনালি চেইনিং ব্যবহার করে। নিচে নিজের মতো সরল বাস্তবায়ন দেখছি:
+
+### খ) ওপেন অ্যাড্রেসিং (Open Addressing)
+
+একই অ্যারেতেই অন্য ফাঁকা জায়গা খোঁজা হয়।  
+যেমন লিনিয়ার প্রোবিং: `(hash+i)%size` চেক করো যতক্ষণ না ফাঁকা পাচ্ছ।
+
+**C# উদাহরণ (লিনিয়ার প্রোবিং)**
+---
+
+## ৫. C#-এর বিল্ট-ইন হ্যাশ টেবিল
+
+C# তে আমরা সাধারণত `Dictionary<TKey, TValue>` ব্যবহার করি, যা ইন্টারনালি চেইনিং করে এবং খুবই দ্রুত।
+
+```csharp
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+   static void Main()
+   {
+       Dictionary<int, string> students = new Dictionary<int, string>();
+
+       students.Add(101, "Rahim");
+       students.Add(102, "Karim");
+       students[103] = "Fatema";  // আরেক পদ্ধতি
+
+       Console.WriteLine(students[101]);  // আউটপুট: Rahim
+
+       // কলিশন হলে Dictionary নিজেই সামলায়, আমাদের টেনশন নাই
+       students.Add(101, "New Rahim"); // Exception দিবে (duplicate key)
+   }
+}
+```
+
+---
+
+## শিক্ষকের শেষ কথা
+
+- **হ্যাশ ফাংশন** কী-কে ইনডেক্স বানায়  
+- **কলিশন** হয় যখন দুই কী-র ইনডেক্স একই হয়  
+- **চেইনিং** = এক জায়গায় লিস্ট বানিয়ে রাখা  
+- **ওপেন অ্যাড্রেসিং** = অন্য ফাঁকা জায়গা খোঁজা  
+- **C# Dictionary** ব্যবহার করলেই অধিকাংশ কাজ শেষ, কিন্তু ভিতরে কী হচ্ছে সেটা জানা জরুরি
+
+আপনি যদি চান, আমি এই দুই পদ্ধতির **পারফরম্যান্স তুলনা** বা **রিহ্যাশিং** নিয়ে আরেক ক্লাস নিতে পারি। বলবেন।
+
+ততদিন পর্যন্ত, হ্যাপি কোডিং! 😊
+*/
+        public int simpleHash(string key, int tablesize)
+        {
+            int hash = 0;
+            foreach(char c in key)
+            {
+                hash += c; // Summing ASCII values of characters
+            }
+            Console.WriteLine($"{key} -> Hash value: {hash}");
+            return hash % tablesize; // Modulo operation to fit hash into table size
+        }
+
+        public class chainingHashing<TKey, TValue>
+        {
+            private List<KeyValuePair<TKey, TValue>>[] table; // Array of lists to handle collisions
+
+            public chainingHashing(int size)
+            {
+                table = new List<KeyValuePair<TKey, TValue>>[size]; // Initialize the array of lists
+                for (int i = 0; i < size; i++)
+                {
+                    table[i] = new List<KeyValuePair<TKey, TValue>>(); // Initialize each list
+                }
+            }
+            private int gethash(TKey key) => key.GetHashCode() % table.Length; // Hash function to get index
+
+            public void Add(TKey key, TValue value)
+            {
+                int index = gethash(key);
+                var bucket = table[index];
+                foreach (var kvp in bucket)
+                {
+                    if (kvp.Key.Equals(key))
+                    {
+                        throw new ArgumentException("Duplicate key");
+                    }
+                }
+                bucket.Add(new KeyValuePair<TKey, TValue>(key, value)); // Add key-value pair to the bucket
+                Console.WriteLine($"{key} -> Added to hash table at index {index}");
+            }
+        }
+    }
     public class BinarySearch
     {
         public bool binarySearch(int[] number, int target)
@@ -34,12 +172,7 @@ namespace Module___3_Searching___Hashing
             return false;
         }
         
-    }
-
-    public class HashSlotCalculator
-    {
-
-    }
+    }    
     public class SearchingAlgorithms
     {
 

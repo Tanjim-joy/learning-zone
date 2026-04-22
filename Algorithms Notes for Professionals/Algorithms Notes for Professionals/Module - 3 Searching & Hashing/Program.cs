@@ -43,19 +43,43 @@
 using Module___3_Searching___Hashing;
 
 
-int[] number = { 52, 14, 7, 23, 5 , 18};
+ConcurrentDictionaryLeraning concurrentDictionaryLeraning = new ConcurrentDictionaryLeraning();
+//concurrentDictionaryLeraning.ConcurrentDictionaryLearning();
+ConcurrentDictionaryLeraning bankdata = new ConcurrentDictionaryLeraning();
 
-Array.Sort(number);
-
-List<int> list = new List<int>();
-for (int i = 0; i <= 100; i++)
+var bank = new Bank();
+bank.Deposit("account1", 1000);
+Parallel.For(0, 1000, i =>
 {
-    list.Add(i);
-}
-int[] number2 = list.ToArray();
+    //bank.Deposit("account1", 10); 
+    bank.Withdraw("account1", 5);
+});
 
-BinarySearch binarySearch = new BinarySearch();
-binarySearch.binarySearch(number2, 18);
+
+Console.WriteLine(bank.GetBalance("account1")); // 1000 + 10000 = 11000
+Console.WriteLine($"Total Balance: {bank.GetBalance("account1")}");
+
+//HashFunction hashFunction = new HashFunction();
+//hashFunction.simpleHash("Hello world", 10);
+//hashFunction.simpleHash("Hello world e", 101);
+
+//Console.WriteLine(hashFunction.simpleHash("Hello world demo", 101));
+
+
+
+//int[] number = { 52, 14, 7, 23, 5 , 18};
+
+//Array.Sort(number);
+
+//List<int> list = new List<int>();
+//for (int i = 0; i <= 100; i++)
+//{
+//    list.Add(i);
+//}
+//int[] number2 = list.ToArray();
+
+//BinarySearch binarySearch = new BinarySearch();
+//binarySearch.binarySearch(number2, 18);
 //SearchingAlgorithms.UnsortedList unsortedList = new SearchingAlgorithms.UnsortedList(number);
 
 //Console.WriteLine("=======================");
