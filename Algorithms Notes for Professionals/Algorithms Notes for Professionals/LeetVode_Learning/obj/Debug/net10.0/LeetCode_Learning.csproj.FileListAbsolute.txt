@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\bin\Debug\net10.0\LeetCode_Learning.exe
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\bin\Debug\net10.0\LeetCode_Learning.deps.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\bin\Debug\net10.0\LeetCode_Learning.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\bin\Debug\net10.0\LeetCode_Learning.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\bin\Debug\net10.0\LeetCode_Learning.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\refint\LeetCode_Learning.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\LeetCode_Learning.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\obj\Debug\net10.0\ref\LeetCode_Learning.dll

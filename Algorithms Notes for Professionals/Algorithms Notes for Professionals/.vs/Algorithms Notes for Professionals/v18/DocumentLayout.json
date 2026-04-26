@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FCC6702-3331-491D-9DC2-07D295763697}|Module - 4 Sorting Algorithms\\Module - 4 Sorting Algorithms.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 4 sorting algorithms\\sorting_algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6702-3331-491D-9DC2-07D295763697}|Module - 4 Sorting Algorithms\\Module - 4 Sorting Algorithms.csproj|solutionrelative:module - 4 sorting algorithms\\sorting_algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{409DB80F-8D4B-4EDD-B21A-3A0B0C3C4851}|LeetVode_Learning\\LeetCode_Learning.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\leetvode_learning\\problemsol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409DB80F-8D4B-4EDD-B21A-3A0B0C3C4851}|LeetVode_Learning\\LeetCode_Learning.csproj|solutionrelative:leetvode_learning\\problemsol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCC6702-3331-491D-9DC2-07D295763697}|Module - 4 Sorting Algorithms\\Module - 4 Sorting Algorithms.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\module - 4 sorting algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6702-3331-491D-9DC2-07D295763697}|Module - 4 Sorting Algorithms\\Module - 4 Sorting Algorithms.csproj|solutionrelative:module - 4 sorting algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1D8F35F-1643-4052-936A-B59561080423}|Algorithms Notes for Professionals\\Algorithms Notes for Professionals.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\algorithms notes for professionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D8F35F-1643-4052-936A-B59561080423}|Algorithms Notes for Professionals\\Algorithms Notes for Professionals.csproj|solutionrelative:algorithms notes for professionals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{409DB80F-8D4B-4EDD-B21A-3A0B0C3C4851}|LeetVode_Learning\\LeetCode_Learning.csproj|e:\\ply_ground\\learing zone notes\\algorithms notes for professionals\\algorithms notes for professionals\\leetvode_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409DB80F-8D4B-4EDD-B21A-3A0B0C3C4851}|LeetVode_Learning\\LeetCode_Learning.csproj|solutionrelative:leetvode_learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +18,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Program.cs",
-              "RelativeDocumentMoniker": "Algorithms Notes for Professionals\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Program.cs",
-              "RelativeToolTip": "Algorithms Notes for Professionals\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T03:29:42.436Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 4 Sorting Algorithms\\Program.cs",
-              "RelativeDocumentMoniker": "Module - 4 Sorting Algorithms\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 4 Sorting Algorithms\\Program.cs",
-              "RelativeToolTip": "Module - 4 Sorting Algorithms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProblemSol.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\LeetVode_Learning\\ProblemSol.cs",
+              "RelativeDocumentMoniker": "LeetVode_Learning\\ProblemSol.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\LeetVode_Learning\\ProblemSol.cs",
+              "RelativeToolTip": "LeetVode_Learning\\ProblemSol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T03:45:40.493Z",
+              "WhenOpened": "2026-04-26T11:12:49.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sorting_Algo.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 4 Sorting Algorithms\\Sorting_Algo.cs",
-              "RelativeDocumentMoniker": "Module - 4 Sorting Algorithms\\Sorting_Algo.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\Module - 4 Sorting Algorithms\\Sorting_Algo.cs",
-              "RelativeToolTip": "Module - 4 Sorting Algorithms\\Sorting_Algo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwK4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\LeetVode_Learning\\Program.cs",
+              "RelativeDocumentMoniker": "LeetVode_Learning\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\Algorithms Notes for Professionals\\Algorithms Notes for Professionals\\LeetVode_Learning\\Program.cs",
+              "RelativeToolTip": "LeetVode_Learning\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:14:19.488Z",
+              "WhenOpened": "2026-04-26T11:12:48.269Z",
               "EditorCaption": ""
             }
           ]
