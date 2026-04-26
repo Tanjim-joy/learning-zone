@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\bin\Debug\net10.0\Module - 4 Sorting Algorithms.exe
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\bin\Debug\net10.0\Module - 4 Sorting Algorithms.deps.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\bin\Debug\net10.0\Module - 4 Sorting Algorithms.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\bin\Debug\net10.0\Module - 4 Sorting Algorithms.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\bin\Debug\net10.0\Module - 4 Sorting Algorithms.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\refint\Module - 4 Sorting Algorithms.dll
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.pdb
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\Module - 4 Sorting Algorithms.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\obj\Debug\net10.0\ref\Module - 4 Sorting Algorithms.dll

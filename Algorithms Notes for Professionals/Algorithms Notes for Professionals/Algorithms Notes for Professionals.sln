@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.4.11626.88 stable
+VisualStudioVersion = 18.4.11626.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms Notes for Professionals", "Algorithms Notes for Professionals\Algorithms Notes for Professionals.csproj", "{F1D8F35F-1643-4052-936A-B59561080423}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module - 2 Linear Data Structures", "Module - 2 Linear Data Structures\Module - 2 Linear Data Structures.csproj", "{740891C1-0F0F-4C19-99C8-CFC22B63921D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module - 3 Searching & Hashing", "Module - 3 Searching & Hashing\Module - 3 Searching & Hashing.csproj", "{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module - 4 Sorting Algorithms", "Module - 4 Sorting Algorithms\Module - 4 Sorting Algorithms.csproj", "{4FCC6702-3331-491D-9DC2-07D295763697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B0DA0AF-0C58-476E-87D5-5F7A30CAFF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FCC6702-3331-491D-9DC2-07D295763697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCC6702-3331-491D-9DC2-07D295763697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCC6702-3331-491D-9DC2-07D295763697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCC6702-3331-491D-9DC2-07D295763697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
