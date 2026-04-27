@@ -6,7 +6,122 @@ namespace LeetCode_Learning
 {
     public class Solution
     {
-        public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
+        public bool IsValid(string s)
+        {
+            Stack<char> stack = new Stack<char>();
+            Dictionary<char, char> map = new Dictionary<char, char>();
+            map.Add(')', '(');
+            map.Add('}', '{');
+            map.Add(']', '[');
+            foreach (char c in s)
+            {
+                if (map.ContainsKey(c))
+                {
+                    char topElement = stack.Count == 0 ? '#' : stack.Pop();
+                    if (topElement != map[c])
+                    {
+                        Console.WriteLine($"{s} is not valid");
+                        return false;
+                    }
+                }
+                else
+                {
+                    stack.Push(c);
+                }
+            }
+            Console.WriteLine($"{s} is {(stack.Count == 0 ? "valid" : "not valid")}");
+            return stack.Count == 0;
+        }
+
+        /*public string LongestCommonPrefix(string[] strs)
+        {
+            if (strs == null || strs.Length == 0)
+            {
+                return "";
+            }
+            string prefix = strs[0];
+            for (int i = 1; i < strs.Length; i++)
+            {
+                while (strs[i].IndexOf(prefix) != 0)
+                {
+                    prefix = prefix.Substring(0, prefix.Length - 1);
+                    if (string.IsNullOrEmpty(prefix))
+                    {
+                        return "";
+                    }
+                }
+            }
+            Console.WriteLine($"Longest common prefix: {prefix}");
+            return prefix;
+        }*/
+
+        /*public int RomanToInt(string s)
+        {
+            Dictionary<char, int> romanMap = new Dictionary<char, int>();
+            romanMap.Add('I', 1);
+            romanMap.Add('V', 5);
+            romanMap.Add('X', 10);
+            romanMap.Add('L', 50);
+            romanMap.Add('C', 100);
+            romanMap.Add('D', 500);
+            romanMap.Add('M', 1000);
+
+            int result = 0;
+            for (int i = 0; i < s.Length; i++)
+            {
+                char current = s[i];
+                if (i < s.Length - 1 && romanMap[current] < romanMap[s[i + 1]]) { 
+                    result -= romanMap[current];
+                }
+                else
+                {
+                    result += romanMap[current];
+                }
+            }
+            Console.WriteLine(result);
+            return result;
+
+        }*/
+        /*public bool IsPalindrome(int x)
+        {
+            if (x < 0)
+            {
+                return false;
+            }
+            if (x > 1)
+            {
+                string original = x.ToString();
+                char[] charArray = original.ToCharArray();
+                Array.Reverse(charArray);
+                string reversed = new string(charArray);
+                Console.WriteLine($"{original} is {(original == reversed ? "" : "not ")}a palindrome");
+                return original == reversed;
+            }
+            return true;
+        }*/
+        /*public bool IsPalindrome(int x)
+        {
+            if (x < 0)
+            {
+                return false;
+            }
+            if (x > 1)
+            {
+                int original = x;
+                int reversed = 0;
+                while (x > 0)
+                {
+                    int digit = x % 10;
+                    reversed = reversed * 10 + digit; 
+                    x /= 10;
+                }
+                Console.WriteLine($"{original} is {(original == reversed ? "" : "not ")}a palindrome");
+                return original == reversed;
+            }
+            return true;
+        }*/
+
+        /*public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
             ListNode dummyHead = new ListNode(0);
             ListNode curr = dummyHead;
@@ -31,7 +146,7 @@ namespace LeetCode_Learning
             }
             
             return dummyHead.next;
-        }
+        }*/
 
         /*public int[] TwoSum(int[] nums, int target)
         {
