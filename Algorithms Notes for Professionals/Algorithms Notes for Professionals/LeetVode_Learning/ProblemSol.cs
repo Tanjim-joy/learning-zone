@@ -6,7 +6,37 @@ namespace LeetCode_Learning
 {
     public class Solution
     {
-        public bool IsValid(string s)
+        public ListNode MergeTwoLists(ListNode l1, ListNode l2)
+        {
+            ListNode dummyHead = new ListNode(0); // Dummy head to simplify edge cases
+            ListNode current = dummyHead;
+
+            while (l1 != null && l2 != null)
+            {
+                if (l1.val <= l2.val)
+                {
+                    current.next = l1;
+                    l1 = l1.next;
+                }
+                else
+                {
+                    current.next = l2;
+                    l2 = l2.next;
+                }
+                current = current.next;
+            }
+            if (l1 != null)
+            {
+                current.next = l1;
+            }
+            if (l2 != null)
+            {
+                current.next = l2;
+            }
+            return dummyHead.next;
+        }
+
+        /*public bool IsValid(string s)
         {
             Stack<char> stack = new Stack<char>();
             Dictionary<char, char> map = new Dictionary<char, char>();
@@ -31,7 +61,7 @@ namespace LeetCode_Learning
             }
             Console.WriteLine($"{s} is {(stack.Count == 0 ? "valid" : "not valid")}");
             return stack.Count == 0;
-        }
+        }*/
 
         /*public string LongestCommonPrefix(string[] strs)
         {
@@ -169,12 +199,24 @@ namespace LeetCode_Learning
         }*/
     }
 }
+
 public class ListNode
 {
     public int val;
     public ListNode next;
-    public ListNode(int x) { val = x; }
+    public ListNode(int val = 0, ListNode next = null)
+    {
+        this.val = val;
+        this.next = next;
+    }
 }
+
+//public class ListNode
+//{
+//    public int val;
+//    public ListNode next;
+//    public ListNode(int x) { val = x; }
+//}
 /*
  2.  Add Two Numbers
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order,
