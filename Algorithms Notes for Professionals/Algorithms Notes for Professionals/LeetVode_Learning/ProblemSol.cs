@@ -6,7 +6,166 @@ namespace LeetCode_Learning
 {
     public class Solution
     {
-        public ListNode MergeTwoLists(ListNode l1, ListNode l2)
+        public int[] PlusOne(int[] digits)
+        {
+            if(digits == null || digits.Length == 0)
+            {
+                return new int[] { 1 };
+            }
+
+            List<int> digitList = digits.ToList();
+            int carry = 1;
+
+            for (int i= digitList.Count -1; i >= 0 && carry > 0; i--  )
+            {
+                int sum = digitList[i] + carry;
+                digitList[i] = sum % 10;
+                carry = sum / 10;
+            }
+            if (carry > 0)
+            {
+                digitList.Insert(0, carry);
+            }
+            return digitList.ToArray();
+
+        }
+
+    
+        /*public int LengthOfLastWord(string s)
+        {
+            if (string.IsNullOrEmpty(s))
+            {
+                return 0;
+            }
+            // 2. স্ট্রিংকে স্পেস দিয়ে ভাগ করে শব্দগুলোর অ্যারে বানানো
+            // StringSplitOptions.RemoveEmptyEntries - খালি এন্ট্রি বাদ দেয়
+            string[] words = s.Split(' ', StringSplitOptions.RemoveEmptyEntries); // Split the string into words, removing empty entries
+            return words.Length == 0 ? 0 : words[words.Length - 1].Length; // Return the length of the last word, or 0 if there are no words
+            //return words.Length == 0 ? 0 : words[^1].Length; // Return the length of the last word, or 0 if there are no words
+        }*/
+
+        /*public int SearchInsert(int[] nums, int target)
+        {
+            if (nums == null || nums.Length == 0)
+                return 0;
+
+            int left = 0;
+            int right = nums.Length - 1; ;
+
+            while (left <= right)
+            {
+                int mid = left + (right - left) / 2;
+
+                if (nums[mid] < target) 
+                {
+                    left = mid + 1;
+                } 
+                else if (nums[mid] > target) 
+                {
+                    right = mid - 1;
+                }
+                else 
+                {
+                   Console.WriteLine(mid);
+                   return mid;
+                }
+            }
+            Console.WriteLine(left);
+            return left;
+        }*/
+
+        /*public int StrStr(string haystack, string needle) 
+        { 
+            if (needle == "")
+            {
+                return 0;
+            }
+            if (haystack.Length < needle.Length)
+            {
+                return -1;
+            }
+            for (int i = 0; i < haystack.Length - needle.Length + 1; i++)
+            {
+                if (haystack.Substring(i, needle.Length) == needle)
+                {
+                    return i;
+                }
+            }            
+            return -1;
+        }*/
+
+        /*public int RemoveElement(int[] nums, int val)
+        {
+            if (nums == null || nums.Length == 0)
+            {
+                return 0;
+            }
+
+            int count = 0;
+            for (int  i= 0; i < nums.Length; i++) 
+            {
+                if (nums[i] != val)
+                {
+                    nums[count] = nums[i];
+                    count++;
+                }    
+            }
+            Console.Write($"{count} , num =[ ");
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (i < count)
+                {
+                    Console.Write(nums[i]);
+                }
+                else
+                {
+                    Console.Write("_");
+                }
+                if (i < nums.Length - 1)
+                {
+                    Console.Write(",");
+                }
+            }
+            Console.Write("]");
+            return count;
+        }*/
+
+        /*public int RemoveDuplicates(int[] nums)
+        {
+            if (nums.Length == 0)
+            {
+                return 0;
+            }
+            int uniqueCount = 1;
+            for (int i = 1; i < nums.Length; i++)
+            {
+                if (nums[i] != nums[uniqueCount - 1])
+                {
+                    nums[uniqueCount] = nums[i];
+                    uniqueCount++;
+                }
+                
+            }
+            Console.Write($"{uniqueCount} nums = [");
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (i < uniqueCount)
+                {
+                    Console.Write(nums[i]);
+                }
+                else
+                {
+                    Console.Write("_");
+                }
+                if (i < nums.Length - 1)
+                {
+                    Console.Write(",");
+                }
+            }
+            Console.Write("]");
+            return uniqueCount;
+        }*/
+        /*public ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
             ListNode dummyHead = new ListNode(0); // Dummy head to simplify edge cases
             ListNode current = dummyHead;
@@ -34,7 +193,7 @@ namespace LeetCode_Learning
                 current.next = l2;
             }
             return dummyHead.next;
-        }
+        }*/
 
         /*public bool IsValid(string s)
         {
@@ -200,7 +359,7 @@ namespace LeetCode_Learning
     }
 }
 
-public class ListNode
+/*public class ListNode
 {
     public int val;
     public ListNode next;
@@ -209,7 +368,7 @@ public class ListNode
         this.val = val;
         this.next = next;
     }
-}
+}*/
 
 //public class ListNode
 //{
