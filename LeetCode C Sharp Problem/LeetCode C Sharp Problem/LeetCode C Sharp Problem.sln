@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4
+# Visual Studio Version 18
+VisualStudioVersion = 18.8.12023.21
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "LeetCode C Sharp Problem\3. Longest Substring Without Repeating Characters.csproj", "{ECF7CF03-5D2E-4F90-BCFC-AB8CB11B935D}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Fundamentals", "C# Fundamentals\C# Fundamentals.csproj", "{38449B0D-3F98-4349-A62B-5261888DD276}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForce_Example", "BruteForce_Example\BruteForce_Example.csproj", "{DFCFA01E-49EF-495A-A3CF-6BA3E16BEA06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283MoveZeroes", "283 Move Zeroes\283MoveZeroes.csproj", "{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{DFCFA01E-49EF-495A-A3CF-6BA3E16BEA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFCFA01E-49EF-495A-A3CF-6BA3E16BEA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFCFA01E-49EF-495A-A3CF-6BA3E16BEA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

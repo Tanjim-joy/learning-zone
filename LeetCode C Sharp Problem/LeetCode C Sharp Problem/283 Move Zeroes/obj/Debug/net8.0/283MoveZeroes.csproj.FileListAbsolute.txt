@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\bin\Debug\net8.0\283MoveZeroes.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\bin\Debug\net8.0\283MoveZeroes.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\bin\Debug\net8.0\283MoveZeroes.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\bin\Debug\net8.0\283MoveZeroes.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\bin\Debug\net8.0\283MoveZeroes.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\refint\283MoveZeroes.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\283MoveZeroes.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\obj\Debug\net8.0\ref\283MoveZeroes.dll
