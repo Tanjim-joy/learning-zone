@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BruteForce_Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b4aa9db6494f839872969de202622b240162dd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a578cd86711a0c37028665e4cc018bf80aef59de")]
 [assembly: System.Reflection.AssemblyProductAttribute("BruteForce_Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BruteForce_Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
