@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\bin\Debug\net10.0\123BestTimetoBuySellStockIII.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\bin\Debug\net10.0\123BestTimetoBuySellStockIII.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\bin\Debug\net10.0\123BestTimetoBuySellStockIII.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\bin\Debug\net10.0\123BestTimetoBuySellStockIII.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\bin\Debug\net10.0\123BestTimetoBuySellStockIII.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\refint\123BestTimetoBuySellStockIII.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\123BestTimetoBuySellStockIII.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\obj\Debug\net10.0\ref\123BestTimetoBuySellStockIII.dll

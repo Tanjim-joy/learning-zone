@@ -20,6 +20,7 @@ public class Solution
         {
             nums[i] = rotated[i];
         }
+
         /*
         
         এখন দেখি লুপটি কীভাবে কাজ করে:

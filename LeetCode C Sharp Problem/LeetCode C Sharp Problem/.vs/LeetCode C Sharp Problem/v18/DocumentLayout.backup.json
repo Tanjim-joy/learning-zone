@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0111D35-308A-4C25-A47F-E9076A2EF875}|448.FindAllNumbersDisappearedinanArray\\448.FindAllNumbersDisappearedinanArray.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\leetcode c sharp problem\\448.findallnumbersdisappearedinanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0111D35-308A-4C25-A47F-E9076A2EF875}|448.FindAllNumbersDisappearedinanArray\\448.FindAllNumbersDisappearedinanArray.csproj|solutionrelative:448.findallnumbersdisappearedinanarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238AAAF7-AAA8-4218-981F-BC5CFA0C12FF}|88.MergeSortedArray\\88.MergeSortedArray.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\leetcode c sharp problem\\88.mergesortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238AAAF7-AAA8-4218-981F-BC5CFA0C12FF}|88.MergeSortedArray\\88.MergeSortedArray.csproj|solutionrelative:88.mergesortedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C52D8E3-3641-4579-8C11-1201540FB103}|189RotateArray\\189RotateArray.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\leetcode c sharp problem\\189rotatearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C52D8E3-3641-4579-8C11-1201540FB103}|189RotateArray\\189RotateArray.csproj|solutionrelative:189rotatearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}|283 Move Zeroes\\283MoveZeroes.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\leetcode c sharp problem\\283 move zeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EFA7B78-CA09-44B5-A50A-E932A5D81DFE}|283 Move Zeroes\\283MoveZeroes.csproj|solutionrelative:283 move zeroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6308E123-0086-4162-942F-425B06F2D49A}|121BestTimetoBuyandSellStock\\121BestTimetoBuyandSellStock.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\leetcode c sharp problem\\121besttimetobuyandsellstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6308E123-0086-4162-942F-425B06F2D49A}|121BestTimetoBuyandSellStock\\121BestTimetoBuyandSellStock.csproj|solutionrelative:121besttimetobuyandsellstock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662F5F43-04E4-40DE-95D3-0A7BF62113F9}|123BestTimetoBuySellStockIII\\123BestTimetoBuySellStockIII.csproj|e:\\ply_ground\\learing zone notes\\leetcode c sharp problem\\leetcode c sharp problem\\123besttimetobuysellstockiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662F5F43-04E4-40DE-95D3-0A7BF62113F9}|123BestTimetoBuySellStockIII\\123BestTimetoBuySellStockIII.csproj|solutionrelative:123besttimetobuysellstockiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +40,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\189RotateArray\\Program.cs",
-              "RelativeDocumentMoniker": "189RotateArray\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\189RotateArray\\Program.cs*",
-              "RelativeToolTip": "189RotateArray\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\448.FindAllNumbersDisappearedinanArray\\Program.cs",
+              "RelativeDocumentMoniker": "448.FindAllNumbersDisappearedinanArray\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\448.FindAllNumbersDisappearedinanArray\\Program.cs",
+              "RelativeToolTip": "448.FindAllNumbersDisappearedinanArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T09:23:25.488Z",
+              "WhenOpened": "2026-08-19T04:58:57.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\283 Move Zeroes\\Program.cs",
-              "RelativeDocumentMoniker": "283 Move Zeroes\\Program.cs",
-              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\283 Move Zeroes\\Program.cs",
-              "RelativeToolTip": "283 Move Zeroes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\88.MergeSortedArray\\Program.cs",
+              "RelativeDocumentMoniker": "88.MergeSortedArray\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\88.MergeSortedArray\\Program.cs",
+              "RelativeToolTip": "88.MergeSortedArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T08:56:05.85Z",
+              "WhenOpened": "2026-08-18T09:11:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\189RotateArray\\Program.cs",
+              "RelativeDocumentMoniker": "189RotateArray\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\189RotateArray\\Program.cs",
+              "RelativeToolTip": "189RotateArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:09:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\123BestTimetoBuySellStockIII\\Program.cs",
+              "RelativeDocumentMoniker": "123BestTimetoBuySellStockIII\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\123BestTimetoBuySellStockIII\\Program.cs",
+              "RelativeToolTip": "123BestTimetoBuySellStockIII\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:52:35.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\121BestTimetoBuyandSellStock\\Program.cs",
+              "RelativeDocumentMoniker": "121BestTimetoBuyandSellStock\\Program.cs",
+              "ToolTip": "E:\\Ply_ground\\Learing Zone Notes\\LeetCode C Sharp Problem\\LeetCode C Sharp Problem\\121BestTimetoBuyandSellStock\\Program.cs",
+              "RelativeToolTip": "121BestTimetoBuyandSellStock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:34:54.179Z",
               "EditorCaption": ""
             }
           ]

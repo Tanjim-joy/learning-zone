@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\bin\Debug\net10.0\189.RotateArray.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\bin\Debug\net10.0\189.RotateArray.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\bin\Debug\net10.0\189.RotateArray.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\bin\Debug\net10.0\189.RotateArray.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\bin\Debug\net10.0\189.RotateArray.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\refint\189.RotateArray.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\189.RotateArray.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\obj\Debug\net10.0\ref\189.RotateArray.dll
