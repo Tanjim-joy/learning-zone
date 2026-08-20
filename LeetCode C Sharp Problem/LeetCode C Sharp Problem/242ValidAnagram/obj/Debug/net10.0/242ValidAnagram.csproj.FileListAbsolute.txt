@@ -1,0 +1,15 @@
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\bin\Debug\net10.0\242ValidAnagram.exe
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\bin\Debug\net10.0\242ValidAnagram.deps.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\bin\Debug\net10.0\242ValidAnagram.runtimeconfig.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\bin\Debug\net10.0\242ValidAnagram.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\bin\Debug\net10.0\242ValidAnagram.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.AssemblyInfoInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.AssemblyInfo.cs
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.csproj.CoreCompileInputs.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.sourcelink.json
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\refint\242ValidAnagram.dll
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.pdb
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\242ValidAnagram.genruntimeconfig.cache
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\obj\Debug\net10.0\ref\242ValidAnagram.dll
