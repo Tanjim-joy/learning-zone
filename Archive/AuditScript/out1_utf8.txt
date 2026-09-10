@@ -1,0 +1,69 @@
+﻿=== EXTENSION SUMMARY (excluding .git) ===
+.cs|602|0.61 MB
+.cache|475|1.06 MB
+.pdb|224|3.95 MB
+.exe|222|10.12 MB
+.config|191|0.03 MB
+.json|170|0.82 MB
+.dll|151|25.53 MB
+.csproj|141|0.27 MB
+.txt|120|0.12 MB
+.suo|71|2.87 MB
+.sln|67|0.1 MB
+.editorconfig|36|0.03 MB
+.props|34|0.04 MB
+.targets|34|0.01 MB
+.BuildWithSkipAnalyzers|29|0 MB
+|20|1.01 MB
+.so|18|25.25 MB
+.md|15|0.12 MB
+.vsidx|12|0.18 MB
+.resx|9|0.13 MB
+.lock|9|0 MB
+.bin|9|1.23 MB
+.ide|9|1.77 MB
+.db|8|0.88 MB
+.v2|8|0.77 MB
+.ide-shm|6|0.19 MB
+.a|6|29.88 MB
+.ide-wal|6|9.29 MB
+.dylib|4|6.42 MB
+.mpack|3|0.01 MB
+.Up2Date|3|0 MB
+.zip|2|0.09 MB
+.html|2|0 MB
+.db-wal|2|7.82 MB
+.manifest|2|0 MB
+.testlog|2|0 MB
+.gitignore|2|0.01 MB
+.db-shm|2|0.06 MB
+.resources|2|0 MB
+.settings|2|0 MB
+.sqlite|1|0.2 MB
+.user|1|0 MB
+.go|1|0 MB
+.pdf|1|0.26 MB
+.gitattributes|1|0 MB
+
+=== FILE CATEGORY SUMMARY ===
+SOURCE_CODE|605|0.61 MB
+NOTES_DOCS|136|0.5 MB
+PROJECT_CFG|608|1.26 MB
+BUILD_CACHE|2031|129.6 MB
+
+=== ALL NOTES (.md) files ===
+E:\Ply_ground\Learing Zone Notes\README.md|2169 bytes
+E:\Ply_ground\Learing Zone Notes\01-CSharp\README.md|1119 bytes
+E:\Ply_ground\Learing Zone Notes\02-WPF\README.md|502 bytes
+E:\Ply_ground\Learing Zone Notes\02-WPF\WPF-Tutorial.md|28016 bytes
+E:\Ply_ground\Learing Zone Notes\03-Algorithms\Algorithm_learing.md|7045 bytes
+E:\Ply_ground\Learing Zone Notes\03-Algorithms\README.md|1079 bytes
+E:\Ply_ground\Learing Zone Notes\04-LeetCode\README.md|1445 bytes
+E:\Ply_ground\Learing Zone Notes\05-Interview-Prep\README.md|750 bytes
+E:\Ply_ground\Learing Zone Notes\06-Go\README.md|431 bytes
+E:\Ply_ground\Learing Zone Notes\07-Docker-DevOps\docker_tutorial_bangla.md|69384 bytes
+E:\Ply_ground\Learing Zone Notes\07-Docker-DevOps\README.md|552 bytes
+E:\Ply_ground\Learing Zone Notes\08-Git\Git.md|10074 bytes
+E:\Ply_ground\Learing Zone Notes\08-Git\README.md|259 bytes
+E:\Ply_ground\Learing Zone Notes\Archive\Old-README.md|3665 bytes
+E:\Ply_ground\Learing Zone Notes\Archive\README.md|1561 bytes

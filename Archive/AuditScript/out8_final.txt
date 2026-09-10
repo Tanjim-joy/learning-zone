@@ -1,0 +1,9 @@
+﻿%V% | files=7 | src.cs=1 | build/cache=5 | size=0.04 MB
+.vs | files=8 | src.cs=0 | build/cache=8 | size=0.01 MB
+Algorithms Notes for Professionals | files=250 | src.cs=14 | build/cache=228 | size=18.79 MB
+csharp-linq-practice | files=32 | src.cs=6 | build/cache=21 | size=0.25 MB
+Csharp-Work | files=1562 | src.cs=288 | build/cache=995 | size=20.19 MB
+Go-Lang | files=3 | src.cs=0 | build/cache=0 | size=0 MB
+interview-preparation | files=100 | src.cs=18 | build/cache=61 | size=0.45 MB
+LeetCode C Sharp Problem | files=757 | src.cs=21 | build/cache=713 | size=91.29 MB
+ROOT standalone files | 5

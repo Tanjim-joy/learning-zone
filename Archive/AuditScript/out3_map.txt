@@ -1,0 +1,146 @@
+﻿DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222  [Program.cs(1058)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\11  [Program.cs(2631)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm  [Car.cs(670), FourWheeler.cs(521), IExteriorFeature.cs(281), IInteriorFeature.cs(281), motorcycle.cs(3479), motorcycle.Designer.cs(10470), motorcycle1.cs(672), Program.cs(2142), TwoWheeler.cs(476), Vehicle.cs(1616), VehicleType.cs(73), VehicleType1.cs(255)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623.zip  |49695
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01  [Program.cs(654)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2  [Program.cs(727)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract  [Program.cs(273)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\age claculator  []
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async  [Program.cs(1219)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#  [Car.cs(670), FourWheeler.cs(521), IExteriorFeature.cs(281), IInteriorFeature.cs(281), motorcycle.cs(3479), motorcycle.Designer.cs(10470), motorcycle1.cs(672), Program.cs(2142), TwoWheeler.cs(476), Vehicle.cs(1616), VehicleType.cs(73), VehicleType1.cs(255)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623.zip  |49695
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls  [Class1.cs(1182), Program.cs(1090)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges  [Program.cs(963)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_  [Program.cs(1024)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT  [Program.cs(782)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work  [Program.cs(914)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc  [Employee.cs(1173), Enum.cs(211), iRole.cs(274), person.cs(468), Program.cs(1146)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02  [Program.cs(254)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3  [Circle.cs(1225), Form1.cs(392), Form1.Designer.cs(1410), Program.cs(739)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03  [Program.cs(325)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1  [Program.cs(1039)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\App.config  |189
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122  [Program.cs(248)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class13.csproj  |2364
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class13.sln  |1119
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01  [Program.cs(1691)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03  [Program.cs(589)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork  [Program.cs(1157)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary  [Program.cs(1029), quary.cs(463)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123  [Program.cs(1111)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss  [Program.cs(742)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141  [Program.cs(792)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Program.cs  |1127
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance  [Program.cs(715)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle  [Program.cs(1371)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1  [Class1.cs(192), Class2.cs(192), Form1.cs(397), Form1.Designer.cs(1248), Program.cs(539)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23  [Form1.cs(398), Form1.Designer.cs(4019), Program.cs(540)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works  [Program.cs(1067)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14  [pre.cs(918), Program.cs(490)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork  [Program.cs(280)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface  [Program.cs(257)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2  [primeclass.cs(1630), Program.cs(1004)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9  [Program.cs(841)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran  [Program.cs(249)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads  [abstrs.cs(1186), Program.cs(646), shape.cs(1131)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss  [cricle.cs(191), Program.cs(255)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work  [Program.cs(1861)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork  [circle.cs(566), Program.cs(550)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14  [Class1.cs(187), person.cs(691), personBase.cs(75), Program.cs(508)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date  [Program.cs(1481)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss  [Circle.cs(843), Program.cs(964)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1  [employee.cs(501), Program.cs(247)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02  [Program.cs(245)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02.sln  |1114
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1  [Program.cs(594)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2  [Program.cs(858)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction  [Book.cs(570), Program.cs(509)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe  [Program.cs(1516)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp  [Designation.cs(359), Enum.cs(211), Program.cs(3607)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable  [Employee.cs(1042), Enum1.cs(245), IRole.cs(268), Person.cs(509), Program.cs(1667)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form  [EmpForm.cs(518), EmpForm.Designer.cs(4310), Employee.cs(392), Form1.cs(1297), Form1.Designer.cs(6859), Program.cs(258)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance  [Program.cs(248)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11  [Product.cs(500), Program.cs(2988)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl  [Program.cs(2875)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\App.config  |189
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\for loop  [Program.cs(1985)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\App.config  |189
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\for loop  [Program.cs(1985)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\forloo_whileloop.csproj  |2391
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\Program.cs  |1985
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop.csproj  |2382
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop.sln  |1622
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\Program.cs  |1985
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1  [Program.cs(1177)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring  [Program.cs(904)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game  [Program.cs(1107)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\App.config  |189
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen  [Animal.cs(605), const.cs(337), GenericBehavior.cs(1036), Interface1.cs(257), ISpecificBehavior.cs(249), SpecificBehavior.cs(821)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Generic.csproj  |2643
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Program.cs  |667
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters  [Movie.cs(887), Program.cs(566)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\gyfytd  []
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold\hlwwrold  [Program.cs(196)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold\hlwwrold.sln  |1130
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops  [Program.cs(2695)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops.sln  |1129
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld  [Program.cs(336)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable  [Program.cs(1331)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp  [Program.cs(1959)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop  [Program.cs(822)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops  [Program.cs(1685)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput  [Program.cs(746)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest  [Program.cs(586)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks  [Program.cs(250)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods  [Program.cs(1023)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1  [Program.cs(714)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1  [ProductType.cs(139), Program.cs(2050)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product  [Product.cs(645), ProductCategory.cs(286), ProductModel.cs(280), Program.cs(5310)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile  [Program.cs(1069)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream  [Program.cs(471)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream.sln  |1616
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05  [Program.cs(600)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle  [Program.cs(249)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1  [Program.cs(250), rectangle.cs(189)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop  [Program.cs(794)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap  [Program.cs(599)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input  [Program.cs(766)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input.sln  |1144
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk  [Program.cs(917)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\tan  []
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task  [Program.cs(1183)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop  [Program.cs(660)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop.sln  |2100
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\test05  []
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills  [Program.cs(698)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee  [Eumn.cs(268), Interface1.cs(273), person.cs(597), Program.cs(1449), Traninee.cs(1055)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451  [Program.cs(825)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451.sln  |1129
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch  [Program.cs(1018)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC  [Program.cs(2144)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt  [Program.cs(845)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri  [Program.cs(245)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri.sln  |1108
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput  [Program.cs(1007)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari  [Program.cs(2948)]
+GRP E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible  [Program.cs(589)]
+    E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible.sln  |1120
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle  [Bike.cs(657), Car.cs(654), CarType.cs(241), Program.cs(308), vehicle.cs(894)]
+DIR E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops  [Program.cs(558)]
