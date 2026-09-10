@@ -1,2 +1,0 @@
-E:\IsDB\c#\C# LAB\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
-E:\IsDB\c#\C# LAB\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache

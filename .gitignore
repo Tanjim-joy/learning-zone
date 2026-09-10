@@ -1,0 +1,40 @@
+# ===== Visual Studio / VS Code =====
+.vs/
+.idea/
+*.code-workspace
+*.swp
+.DS_Store
+Thumbs.db
+
+# ===== C# / .NET build output =====
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+
+# ===== MSBuild / NuGet caches =====
+*.cache
+*.vsidx
+
+# ===== VS local databases / Copilot snapshots (normally inside .vs/) =====
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.ide
+*.ide-wal
+*.ide-shm
+*.mpack
+*.testlog
+*.lock
+*.manifest
+*.Up2Date
+*.resources
+
+# ===== Native binaries pulled in by build tools (sqlite runtimes, etc.) =====
+*.a
+*.so
+*.dylib
