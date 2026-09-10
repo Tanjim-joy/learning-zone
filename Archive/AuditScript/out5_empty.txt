@@ -1,0 +1,9 @@
+﻿=== EMPTY DIRECTORIES ===
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\bin\Debug\net8.0
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\ref
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\obj\Debug\net8.0\refint
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\age claculator
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\gyfytd
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\tan
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\test05
+TOTAL_EMPTY_DIRS|7

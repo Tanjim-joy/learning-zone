@@ -1,0 +1,11 @@
+﻿=== ANOMALY / BINARY / HEAVY FILES (excluding .git, bin, obj) ===
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623.zip|49695
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623.zip|49695
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Settings.settings|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Settings.settings|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\class7.2.csproj.user|147
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\Tags.pdf|272714
+
+=== FILES > 1 MB (excluding .git/bin/obj) ===
+
+=== .git dir size and status ===

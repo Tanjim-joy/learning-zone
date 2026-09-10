@@ -1,0 +1,694 @@
+﻿=== ALL NON-BUILD FILES (relative path|size bytes) ===
+E:\Ply_ground\Learing Zone Notes\Algorithm_learing.md|7045
+E:\Ply_ground\Learing Zone Notes\docker_tutorial_bangla.md|69384
+E:\Ply_ground\Learing Zone Notes\Git.md|10074
+E:\Ply_ground\Learing Zone Notes\README.md|3665
+E:\Ply_ground\Learing Zone Notes\WPF-Tutorial.md|28016
+E:\Ply_ground\Learing Zone Notes\%V%\%V%.csproj|293
+E:\Ply_ground\Learing Zone Notes\%V%\Program.cs|40
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals.sln|4315
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals.csproj|323
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Program.cs|7572
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\LeetCode_Learning.csproj|357
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\ProblemSol.cs|12088
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\Program.cs|728
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\Module - 1.csproj|299
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\Program.cs|5847
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\LearnQueue.cs|2928
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\LearnStack.cs|11815
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\Module - 2 Linear Data Structures.csproj|416
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\Program.cs|13401
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\ConcurrentDictionary_ImmutableDictionary.cs|7570
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\Module - 3 Searching & Hashing.csproj|417
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\Program.cs|8743
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\SearchingAlgorithms.cs|24046
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\Marge_Quick_HipSort.cs|1569
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\Module - 4 Sorting Algorithms.csproj|319
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\Program.cs|5076
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\Sorting_Algo.cs|10876
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\Program.cs|3156
+E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\Synthesis.csproj|252
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork.sln|1623
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\App.config|189
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\Hw19_02.csproj|2409
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\Program.cs|3633
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\Models\product.cs|498
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\App.config|189
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\Hw19_ClassWork.csproj|2421
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\Program.cs|4507
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\Models\Books.cs|375
+E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623.zip|49695
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\000022222.csproj|2369
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\Program.cs|1058
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\1264623.csproj|2365
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\1264623.sln|3527
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\Program.cs|2631
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Car.cs|670
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\EvidanceXm.csproj|3200
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\EvidanceXm.sln|1125
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\FourWheeler.cs|521
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\IExteriorFeature.cs|281
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\IInteriorFeature.cs|281
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.cs|3479
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.Designer.cs|10470
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.resx|49529
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle1.cs|672
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Program.cs|2142
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\TwoWheeler.cs|476
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Vehicle.cs|1616
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\VehicleType.cs|73
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\VehicleType1.cs|255
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\1264623_01.csproj|2371
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\Program.cs|654
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\1264623_2.csproj|2369
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\Program.cs|727
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\abstract.csproj|2367
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\Program.cs|273
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\.editorconfig|137
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\Async.csproj|2398
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\Async.sln|2311
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\Program.cs|1219
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\Properties\AssemblyInfo.cs|1417
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623.zip|49695
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Car.cs|670
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\EvidanceXm.csproj|3200
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\EvidanceXm.sln|1125
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\FourWheeler.cs|521
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\IExteriorFeature.cs|281
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\IInteriorFeature.cs|281
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.cs|3479
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.Designer.cs|10470
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.resx|49529
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle1.cs|672
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Program.cs|2142
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\TwoWheeler.cs|476
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Vehicle.cs|1616
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\VehicleType.cs|73
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\VehicleType1.cs|255
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\ccccls.csproj|2399
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\ccccls.sln|1117
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\Class1.cs|1182
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\Program.cs|1090
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\clasAges.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\Program.cs|963
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\Age claculate.csproj|2380
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\Program.cs|1039
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\Properties\AssemblyInfo.cs|1437
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class13.csproj|2364
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class13.sln|1119
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Program.cs|1127
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\class122.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\Program.cs|248
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\class17clswork.csproj|2378
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\class17clswork.sln|2107
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\Program.cs|1157
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\class17_01.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\Program.cs|1691
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\Class17_03.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\Program.cs|589
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\Class19_quary.csproj|2412
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\Class19_quary.sln|1131
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\Program.cs|1029
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\quary.cs|463
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\Properties\AssemblyInfo.cs|1433
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\cls123.csproj|2362
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\Program.cs|1111
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\ConsoleClassssssss.csproj|2386
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\Program.cs|742
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\Properties\AssemblyInfo.cs|1443
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\lclass141.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\lclass141.sln|2629
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\Program.cs|792
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\Program.cs|715
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\PropertiesInheritance.csproj|2392
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\Properties\AssemblyInfo.cs|1449
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\Program.cs|1371
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\triangle.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\triangle.sln|1121
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Class1.cs|192
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Class2.cs|192
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Form1.cs|397
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Form1.Designer.cs|1248
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Form1.resx|5817
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Program.cs|539
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\WindowsFormsApp1.csproj|3503
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\WindowsFormsApp1.sln|1137
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Resources.Designer.cs|2860
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Resources.resx|5612
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Settings.Designer.cs|1101
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Settings.settings|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Form1.cs|398
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Form1.Designer.cs|4019
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Form1.resx|5817
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Program.cs|540
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\WindowsFormsApp23.csproj|3690
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\WindowsFormsApp23.sln|1139
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\AssemblyInfo.cs|1441
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Resources.Designer.cs|2862
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Resources.resx|5612
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Settings.Designer.cs|1102
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Settings.settings|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\class13works.csproj|2374
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\class13works.sln|1129
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\Program.cs|1067
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\Properties\AssemblyInfo.cs|1431
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\class14.csproj|2398
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\class14.sln|1119
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\pre.cs|918
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\Program.cs|490
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\class14classwork.csproj|2382
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\Program.cs|280
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\class16insterface.csproj|2384
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\class16insterface.sln|1139
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\Program.cs|257
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\Properties\AssemblyInfo.cs|1441
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\class7.2.csproj|2408
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\class7.2.csproj.user|147
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\class7.2.sln|1121
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\primeclass.cs|1630
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\Program.cs|1004
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\Class9.csproj|2362
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\Class9.sln|1117
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\Program.cs|841
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\classlran.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\classlran.sln|1123
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\Program.cs|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\abstrs.cs|1186
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\classoverloads.csproj|2451
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\classoverloads.sln|2092
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\Program.cs|646
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\shape.cs|1131
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\classs14worksss.csproj|2417
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\classs14worksss.sln|1135
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\cricle.cs|191
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\Program.cs|255
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\Properties\AssemblyInfo.cs|1437
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\classss16work.csproj|2376
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\classss16work.sln|1131
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\Program.cs|1861
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\Properties\AssemblyInfo.cs|1433
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\circle.cs|566
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\classwork.csproj|2405
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\classwork.sln|1123
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\Program.cs|550
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\Class1.cs|187
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\ClassWork14.csproj|2487
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\ClassWork14.sln|1632
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\person.cs|691
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\personBase.cs|75
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\Program.cs|508
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\Properties\AssemblyInfo.cs|1429
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\ClassWork7date.csproj|2378
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\ClassWork7date.sln|1602
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\Program.cs|1481
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\Circle.cs|843
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\classworksssss.csproj|2415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\classworksssss.sln|1133
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\Program.cs|964
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\class_.csproj|2362
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\class_.sln|1117
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\Program.cs|1024
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\Class_05WORKOUT.csproj|2380
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\Class_05WORKOUT.sln|1633
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\Program.cs|782
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\Properties\AssemblyInfo.cs|1437
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\class_06_class_work.csproj|2388
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\class_06_class_work.sln|1143
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\Program.cs|914
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\Properties\AssemblyInfo.cs|1445
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Class_20_Exc.csproj|2521
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Class_20_Exc.sln|1604
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Employee.cs|1173
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Enum.cs|211
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\iRole.cs|274
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\person.cs|468
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Program.cs|1146
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Properties\AssemblyInfo.cs|1431
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\Class_21_M3_02.csproj|2378
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\Program.cs|254
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Circle.cs|1225
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Class_22_m3.csproj|2838
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Class_22_m3.sln|1626
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Form1.cs|392
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Form1.Designer.cs|1410
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Form1.resx|5817
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Program.cs|739
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Properties\AssemblyInfo.cs|1429
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\class_6_03.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\class_6_03.sln|1125
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\Program.cs|325
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\cltask1.csproj|2403
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\employee.cs|501
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\Program.cs|247
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02.sln|1114
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\clw02.csproj|2360
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\Program.cs|245
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\Properties\AssemblyInfo.cs|1417
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\ConsoleApp1.csproj|2372
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\Program.cs|594
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\Properties\AssemblyInfo.cs|1429
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\ConsoleApp2.csproj|2372
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\Program.cs|858
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\Properties\AssemblyInfo.cs|1429
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\Book.cs|570
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\ConstructorFunction.csproj|2423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\ConstructorFunction.sln|1143
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\Program.cs|509
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\Properties\AssemblyInfo.cs|1445
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\divisonnumbe.csproj|2374
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\Program.cs|1516
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\Properties\AssemblyInfo.cs|1431
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\Designation.cs|359
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\emp.csproj|2433
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\emp.sln|1111
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\Enum.cs|211
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\Program.cs|3607
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\Properties\AssemblyInfo.cs|1413
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Employee.cs|1042
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\EmpolyeeTable.csproj|2524
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\EmpolyeeTable.sln|1131
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Enum1.cs|245
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\IRole.cs|268
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Person.cs|509
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Program.cs|1667
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Properties\AssemblyInfo.cs|1433
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\EmpForm.cs|518
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\EmpForm.Designer.cs|4310
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\EmpForm.resx|5817
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Employee.cs|392
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Encapsulation form.csproj|3168
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Encapsulation form.sln|1141
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Form1.cs|1297
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Form1.Designer.cs|6859
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Form1.resx|5817
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Program.cs|258
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Properties\AssemblyInfo.cs|1443
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\Evidance.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\Evidance.sln|1121
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\Program.cs|248
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Evidance11.csproj|2408
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Evidance11.sln|1125
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Product.cs|500
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Program.cs|2988
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\forl.csproj|2358
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\Program.cs|2875
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\Properties\AssemblyInfo.cs|1415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\forloops1.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\Program.cs|1177
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\forloopstring.csproj|2376
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\Program.cs|904
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\Properties\AssemblyInfo.cs|1433
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop.csproj|2382
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop.sln|1622
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\Program.cs|1985
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\for loop\Program.cs|1985
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\forloo_whileloop.csproj|2391
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\Program.cs|1985
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\for loop\Program.cs|1985
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\Game.csproj|2358
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\Game.sln|1113
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\Program.cs|1107
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\Properties\AssemblyInfo.cs|1415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Generic.csproj|2643
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Program.cs|667
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\Animal.cs|605
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\const.cs|337
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\GenericBehavior.cs|1036
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\Interface1.cs|257
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\ISpecificBehavior.cs|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\SpecificBehavior.cs|821
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\Getters_And_Setters.csproj|2424
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\Getters_And_Setters.sln|1143
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\Movie.cs|887
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\Program.cs|566
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\Properties\AssemblyInfo.cs|1445
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold\hlwwrold.sln|1130
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold\hlwwrold\hlwwrold.csproj|171
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold\hlwwrold\Program.cs|196
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops.sln|1129
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\hwforloops.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\Program.cs|2695
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\hworld.csproj|2362
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\hworld.sln|1117
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\Program.cs|336
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\item1variable.csproj|2376
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\Program.cs|1331
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\Properties\AssemblyInfo.cs|1433
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\lllooopppp.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\Program.cs|1959
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\loop.csproj|2358
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\Program.cs|822
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\Properties\AssemblyInfo.cs|1415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\loops.csproj|2360
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\Program.cs|1685
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\Properties\AssemblyInfo.cs|1417
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\loopsuserinput.csproj|2378
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\loopsuserinput.sln|1133
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\Program.cs|746
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\looptest.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\looptest.sln|1121
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\Program.cs|586
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\lopptricks.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\Program.cs|250
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\methods.csproj|2364
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\methods.sln|1119
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\Program.cs|1023
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\methods1.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\methods1.sln|1121
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\Program.cs|714
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\NewWorks1.csproj|2410
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\ProductType.cs|139
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\Program.cs|2050
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\Product.cs|645
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\Product.csproj|2491
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\ProductCategory.cs|286
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\ProductModel.cs|280
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\Program.cs|5310
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\Program.cs|1069
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\readlinetextfile.csproj|2382
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\readlinetextfile.sln|2105
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream.sln|1616
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\Program.cs|471
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\readstream.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\Tags.pdf|272714
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\Program.cs|600
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\readtextfileclass05.csproj|2388
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\readtextfileclass05.sln|1143
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\Properties\AssemblyInfo.cs|1445
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\Program.cs|249
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\rectangle.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\rectangle.sln|1123
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\Program.cs|250
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\rectangle.cs|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\Rectangle1.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\Rectangle1.sln|1125
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\Program.cs|794
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\reloop.csproj|2362
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\Program.cs|599
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\swap.csproj|2358
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\Properties\AssemblyInfo.cs|1415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input.sln|1144
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\Program.cs|766
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\take user input.csproj|2380
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\Properties\AssemblyInfo.cs|1437
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\Program.cs|917
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\taksjk.csproj|2362
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\Properties\AssemblyInfo.cs|1419
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\Program.cs|1183
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\Task.csproj|2358
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\Properties\AssemblyInfo.cs|1415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\Program.cs|698
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\testtttttskills.csproj|2380
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\testtttttskills.sln|3549
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\Properties\AssemblyInfo.cs|1437
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop.sln|2100
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\Program.cs|660
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\test_ioop.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Eumn.cs|268
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Interface1.cs|273
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\person.cs|597
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Program.cs|1449
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\trainee.csproj|2516
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\trainee.sln|1603
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Traninee.cs|1055
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451.sln|1129
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\Program.cs|825
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\try4141451.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\Program.cs|1018
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\tryCatch.csproj|2366
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\Properties\AssemblyInfo.cs|1423
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\Program.cs|2144
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\TryCatchC.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\TryCatchC.sln|1123
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\Program.cs|845
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\ttttttt.csproj|2364
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri.sln|1108
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\Program.cs|245
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\uri.csproj|2356
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\Properties\AssemblyInfo.cs|1413
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\Program.cs|1007
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\userinput.csproj|2368
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\Properties\AssemblyInfo.cs|1425
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\Program.cs|2948
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\vari.csproj|2358
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\Properties\AssemblyInfo.cs|1415
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible.sln|1120
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\Program.cs|589
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\varible.csproj|2364
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\Bike.cs|657
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\Car.cs|654
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\CarType.cs|241
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\Program.cs|308
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\vehicle.cs|894
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\vehicle.csproj|2509
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\vehicle.sln|1119
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\Properties\AssemblyInfo.cs|1421
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\App.config|189
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\Program.cs|558
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\whileloops.csproj|2370
+E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\Go-Lang\src\go-server\main.go|577
+E:\Ply_ground\Learing Zone Notes\Go-Lang\src\go-server\static\form.html|578
+E:\Ply_ground\Learing Zone Notes\Go-Lang\src\go-server\static\index.html|311
+E:\Ply_ground\Learing Zone Notes\interview-preparation\.gitattributes|2581
+E:\Ply_ground\Learing Zone Notes\interview-preparation\.gitignore|6585
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\Armstrong Number.csproj|2382
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\Program.cs|896
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\Calculator.csproj|2370
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\Program.cs|1326
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\Properties\AssemblyInfo.cs|1427
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\Factorial Number.csproj|2382
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\Program.cs|540
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\Fibonacci Series.csproj|2382
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\Program.cs|694
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\Palindrome Number.csproj|2384
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\Program.cs|924
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\Properties\AssemblyInfo.cs|1441
+E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\PrimeNumber.csproj|2372
+E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\Program.cs|798
+E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\Properties\AssemblyInfo.cs|1429
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\Program.cs|861
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\Reverse Number.csproj|2378
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\Properties\AssemblyInfo.cs|1435
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\Program.cs|4285
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\Star Pattern.csproj|2374
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\Properties\AssemblyInfo.cs|1431
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers.sln|2164
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\App.config|189
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\Program.cs|978
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\Swap Two Numbers.csproj|2382
+E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\Properties\AssemblyInfo.cs|1439
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\LeetCode C Sharp Problem.sln|10416
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\121BestTimetoBuyandSellStock\121BestTimetoBuyandSellStock.csproj|319
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\121BestTimetoBuyandSellStock\Program.cs|847
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\123BestTimetoBuySellStockIII.csproj|319
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\Program.cs|675
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\125ValidPalindrome\125ValidPalindrome.csproj|309
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\125ValidPalindrome\Program.cs|870
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\189.RotateArray.csproj|306
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\Program.cs|296
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189RotateArray\189RotateArray.csproj|305
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189RotateArray\Program.cs|2192
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242.ValidAnagram\242.ValidAnagram.csproj|307
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242.ValidAnagram\Program.cs|919
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\242ValidAnagram.csproj|306
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\Program.cs|3303
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\283MoveZeroes.csproj|252
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\Program.cs|1606
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\448.FindAllNumbersDisappearedinanArray\448_169.csproj|329
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\448.FindAllNumbersDisappearedinanArray\Program.cs|1886
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\6ZigzagConversion\6ZigzagConversion.csproj|308
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\6ZigzagConversion\Program.cs|863
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\88.MergeSortedArray\88.MergeSortedArray.csproj|310
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\88.MergeSortedArray\Program.cs|1569
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\BruteForce_Example.csproj|252
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\Program.cs|1639
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\C# Fundamentals.csproj|304
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\Program.cs|8458
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\CountAlphanumericCharacters\CountAlphanumericCharacters.csproj|252
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\CountAlphanumericCharacters\Program.cs|7310
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\Dictionary C#.csproj|302
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\Program.cs|2346
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\HeightChecker.csproj|252
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\Program.cs|1993
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\LeetCode C Sharp Problem\3. Longest Substring Without Repeating Characters.csproj|313
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Program.cs|3395
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\Median of Two Sorted Arrays.csproj|316
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\Program.cs|4762
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\Palindromic Number Checker.csproj|315
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\Program.cs|3101
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\Program.cs|2420
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\Sliding Window.csproj|303
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\ReadOnlyCMD\ReadOnlyCMD.sln|1145
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\ReadOnlyCMD\ReadOnlyCMD\Program.cs|17101
+E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\ReadOnlyCMD\ReadOnlyCMD\ReadOnlyCMD.csproj|858

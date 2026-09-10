@@ -1,0 +1,584 @@
+﻿=== SAME FILENAME ACROSS DIFFERENT PATHS ===
+NAME: program.cs  x143
+      E:\Ply_ground\Learing Zone Notes\%V%\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\LeetVode_Learning\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 2 Linear Data Structures\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 3 Searching & Hashing\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Module - 4 Sorting Algorithms\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\Program.cs
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\Program.cs
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\for loop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\for loop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hlwwrold\hlwwrold\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\Program.cs
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\121BestTimetoBuyandSellStock\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\123BestTimetoBuySellStockIII\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\125ValidPalindrome\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189.RotateArray\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\189RotateArray\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242.ValidAnagram\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\242ValidAnagram\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\448.FindAllNumbersDisappearedinanArray\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\6ZigzagConversion\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\88.MergeSortedArray\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\C# Fundamentals\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\CountAlphanumericCharacters\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Dictionary C#\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Median of Two Sorted Arrays\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Palindromic Number Checker\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\Sliding Window\Program.cs
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\ReadOnlyCMD\ReadOnlyCMD\Program.cs
+---
+NAME: app.config  x111
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\App.config
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\App.config
+---
+NAME: product.cs  x3
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\Models\product.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\Product.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\Product.cs
+---
+NAME: 1264623.zip  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623.zip
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623.zip
+---
+NAME: car.cs  x3
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Car.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Car.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\Car.cs
+---
+NAME: evidancexm.csproj  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\EvidanceXm.csproj
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\EvidanceXm.csproj
+---
+NAME: evidancexm.sln  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\EvidanceXm.sln
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\EvidanceXm.sln
+---
+NAME: fourwheeler.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\FourWheeler.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\FourWheeler.cs
+---
+NAME: iexteriorfeature.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\IExteriorFeature.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\IExteriorFeature.cs
+---
+NAME: iinteriorfeature.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\IInteriorFeature.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\IInteriorFeature.cs
+---
+NAME: motorcycle.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.cs
+---
+NAME: motorcycle.designer.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.Designer.cs
+---
+NAME: motorcycle.resx  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.resx
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.resx
+---
+NAME: motorcycle1.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle1.cs
+---
+NAME: twowheeler.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\TwoWheeler.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\TwoWheeler.cs
+---
+NAME: vehicle.cs  x3
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Vehicle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Vehicle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\vehicle.cs
+---
+NAME: vehicletype.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\VehicleType.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\VehicleType.cs
+---
+NAME: vehicletype1.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\VehicleType1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\VehicleType1.cs
+---
+NAME: class1.cs  x3
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\Class1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Class1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\Class1.cs
+---
+NAME: form1.cs  x4
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Form1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Form1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Form1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Form1.cs
+---
+NAME: form1.designer.cs  x4
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Form1.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Form1.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Form1.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Form1.Designer.cs
+---
+NAME: form1.resx  x4
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Form1.resx
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Form1.resx
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Form1.resx
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Form1.resx
+---
+NAME: resources.designer.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Resources.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Resources.Designer.cs
+---
+NAME: resources.resx  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Resources.resx
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Resources.resx
+---
+NAME: settings.designer.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Settings.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Settings.Designer.cs
+---
+NAME: settings.settings  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\Properties\Settings.settings
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\Properties\Settings.settings
+---
+NAME: circle.cs  x3
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\circle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\Circle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\Circle.cs
+---
+NAME: person.cs  x4
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\person.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\person.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Person.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\person.cs
+---
+NAME: employee.cs  x4
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Employee.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\employee.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\Employee.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\Employee.cs
+---
+NAME: enum.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\Enum.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\Enum.cs
+---
+NAME: irole.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\iRole.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\IRole.cs
+---
+NAME: forloo_whileloop.csproj  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop.csproj
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\forloo_whileloop.csproj
+---
+NAME: interface1.cs  x2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\Gen\Interface1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\Interface1.cs
+---
+
+=== EXACT CONTENT DUPLICATES (SHA-256 on .cs/.md/.txt/.sln/.csproj/.config) ===
+HASH 0E58B6A5DDC4
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\VehicleType.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\VehicleType.cs
+---
+HASH C7F29654DED1
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle1.cs
+---
+HASH 8F5F9FA27A39
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\EvidanceXm.sln
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\EvidanceXm.sln
+---
+HASH D9E2A31DF4A0
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Program.cs
+---
+HASH 6C7E50119673
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\IExteriorFeature.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\IExteriorFeature.cs
+---
+HASH 8D5BB1BF8634
+      E:\Ply_ground\Learing Zone Notes\Algorithms Notes for Professionals\Algorithms Notes for Professionals\Synthesis\Synthesis.csproj
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\283 Move Zeroes\283MoveZeroes.csproj
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\BruteForce_Example\BruteForce_Example.csproj
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\CountAlphanumericCharacters\CountAlphanumericCharacters.csproj
+      E:\Ply_ground\Learing Zone Notes\LeetCode C Sharp Problem\LeetCode C Sharp Problem\HeightChecker\HeightChecker.csproj
+---
+HASH AE5E7FA8373B
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\clasAges\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\clw02\clw02\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConsoleApp2\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\divisonnumbe\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forl\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hwforloops\hwforloops\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\lopptricks\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readstream\readstream\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\reloop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\take user input\take user input\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\test_ioop\test_ioop\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\try4141451\try4141451\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ttttttt\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\uri\uri\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\varible\varible\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\whileloops\App.config
+---
+HASH EFA47C43348E
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\VehicleType1.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\VehicleType1.cs
+---
+HASH 3987E5044493
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.Designer.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.Designer.cs
+---
+HASH 36A2B29701C3
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\FourWheeler.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\FourWheeler.cs
+---
+HASH 3C2D805A3F5D
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\TwoWheeler.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\TwoWheeler.cs
+---
+HASH 9E158D423963
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\for loop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\Program.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloo_whileloop\forloo_whileloop\for loop\Program.cs
+---
+HASH 3B9AC0137EF2
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Vehicle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Vehicle.cs
+---
+HASH 0389E2BBBF6B
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\motorcycle.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\motorcycle.cs
+---
+HASH 47E5A0F101AF
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_02\App.config
+      E:\Ply_ground\Learing Zone Notes\csharp-linq-practice\Hw19_ClassWork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\000022222\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\11\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_01\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623_2\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\abstract\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Async\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ccccls\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class05workout1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class122\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17clswork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\class17_01\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class17_03\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\Class19_quary\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\cls123\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\ConsoleClassssssss\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\lclass141\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\PropertiesInheritance\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\triangle\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13\WindowsFormsApp23\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class13works\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class14classwork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class16insterface\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class7.2\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class9\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classlran\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classoverloads\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classs14worksss\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classss16work\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classwork\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork14\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ClassWork7date\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\classworksssss\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_05WORKOUT\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_06_class_work\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_20_Exc\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_21_M3_02\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Class_22_m3\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\class_6_03\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\cltask1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\ConstructorFunction\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\emp\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\EmpolyeeTable\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Encapsulation form\Encapsulation form\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Evidance11\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloops1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\forloopstring\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Game\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Generic\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Getters_And_Setters\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\hworld\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\item1variable\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\lllooopppp\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loops\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\loopsuserinput\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\looptest\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\methods1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\NewWorks1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Product\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readlinetextfile\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\readtextfileclass05\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\rectangle\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Rectangle1\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\swap\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\taksjk\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\Task\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\testtttttskills\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\trainee\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\tryCatch\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\TryCatchC\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\userinput\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vari\App.config
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\vehicle\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Armstrong Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Calculator\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Factorial Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Fibonacci Series\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Palindrome Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\PrimeNumber\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Reverse Number\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Star Pattern\App.config
+      E:\Ply_ground\Learing Zone Notes\interview-preparation\Swap Two Numbers\Swap Two Numbers\App.config
+---
+HASH FF4DF65EA9EE
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\EvidanceXm.csproj
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\EvidanceXm.csproj
+---
+HASH 2CEC1BB39B10
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\Car.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\Car.cs
+---
+HASH 25526EA19004
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\1264623\EvidanceXm\IInteriorFeature.cs
+      E:\Ply_ground\Learing Zone Notes\Csharp-Work\C# Project\1264623\EvidanceXmC#\IInteriorFeature.cs
+---

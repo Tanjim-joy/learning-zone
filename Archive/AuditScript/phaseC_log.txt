@@ -1,0 +1,11 @@
+﻿OK|docker_tutorial_bangla.md => 07-Docker-DevOps/docker_tutorial_bangla.md
+OK|Git.md => 08-Git/Git.md
+OK|WPF-Tutorial.md => 02-WPF/WPF-Tutorial.md
+OK|Algorithm_learing.md => 03-Algorithms/Algorithm_learing.md
+OK|Go-Lang => 06-Go/Go-Lang
+OK|interview-preparation => 05-Interview-Prep/interview-preparation
+OK|csharp-linq-practice => 01-CSharp/LINQ/csharp-linq-practice
+OK|LeetCode C Sharp Problem/ReadOnlyCMD => 04-LeetCode/ReadOnlyCMD
+OK|LeetCode C Sharp Problem/LeetCode C Sharp Problem => 04-LeetCode/LeetCode-CSharp
+OK|Algorithms Notes for Professionals/Algorithms Notes for Professionals => 03-Algorithms/Algorithms-Notes
+OK|README.md => Archive/Old-README.md
