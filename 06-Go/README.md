@@ -1,24 +1,166 @@
-# 📘 README.md — Golang Complete Developer Reference Guide
-
-> **একটি Production-Ready, Beginner-Friendly Golang Tutorial ও Reference Guide**
-> 
-> এই README.md ফাইলটি এমনভাবে সাজানো যাতে আপনি Development, Coding, বা Tutorial এর সময় **দ্রুত reference** হিসেবে ব্যবহার করতে পারেন।
-
----
-
-```markdown
 # 🚀 Go Developer's Complete Handbook (বাংলা)
 
-> Beginner থেকে Production-Level — একটি সম্পূর্ণ Reference Guide
-> 
-> **Version:** 1.0.0  
-> **Last Updated:** 2025  
-> **Language:** বাংলা  
-> **Target Audience:** Beginner → Professional Backend Developer
+[![Go](https://img.shields.io/badge/Go-1.25%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
+[![Docs: Bangla](https://img.shields.io/badge/docs-Bangla-ff69b4?logo=google-translate)]()
+[![Contributions Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
+
+> **Beginner থেকে Production-Level পর্যন্ত — একটি সম্পূর্ণ Go Reference Guide**
+>
+> এই ফাইলটি এমনভাবে সাজানো যাতে Development, Coding বা পড়াশোনার সময় আপনি এটিকে **দ্রুত reference** হিসেবে ব্যবহার করতে পারেন।
+
+| Item | Details |
+|---|---|
+| **Version** | 2.0.0 |
+| **Go Version** | 1.25+ |
+| **Last Updated** | September 2026 |
+| **Language** | বাংলা (English technical terms) |
+| **Audience** | Beginner → Professional Backend Developer |
+| **License** | [MIT](#-license) |
 
 ---
 
+<a id="whats-inside"></a>
+
+## 📂 এই ফোল্ডারে কী আছে
+
+| Path | বিবরণ |
+|---|---|
+| `Go-Lang/src/go-server/main.go` | Mini HTTP server — static file serving + form handling (`net/http` stdlib) |
+| `Go-Lang/src/go-server/static/index.html` | Static landing page |
+| `Go-Lang/src/go-server/static/form.html` | HTML form → `POST /submit` |
+| `README.md` | এই handbook (নিজেই) |
+
+> ⚠️ **Note:** `go-server` এখনো **incomplete** — `formHandler` ও `submitHandler` implement করা হয়নি।
+> সঠিক ও চলমান সংস্করণের কোড [Quick Start](#quick-start) section-এ দেওয়া আছে।
+
+---
+
+<a id="prerequisites"></a>
+
+## ⚙️ Prerequisites
+
+| Tool | Version | প্রয়োজন |
+|---|---|---|
+| **Go** | `1.21+` (সুপারিশকৃত `1.25`) | বাধ্যতামূলক |
+| **Git** | যেকোনো আধুনিক version | source control |
+| **VS Code** + `golang.go` extension | latest | editor (optional) |
+| **Docker** | 24+ | শুধুমাত্র [Section ১৭](#১৭-docker) এর জন্য |
+| **MySQL** | 8.0+ | শুধুমাত্র [Section ১৫](#১৫-database-mysql--gorm) এর জন্য |
+
+Install করার পর যাচাই করুন:
+
+```bash
+go version   # go version go1.25.5 windows/amd64
+```
+
+---
+
+<a id="quick-start"></a>
+
+## 🚀 Quick Start
+
+### সবচেয়ে দ্রুত পথ — Hello World
+
+```bash
+mkdir hello-go && cd hello-go
+go mod init example.com/hello
+go run main.go
+```
+
+### এই ফোল্ডারের `go-server` চালানো
+
+```bash
+cd 06-Go/Go-Lang/src/go-server
+go mod init example.com/go-server   # প্রথমবার
+go run .                            # → http://localhost:8080
+```
+
+### চলমান সঠিক সংস্করণ (`main.go`)
+
+`formHandler` ও `submitHandler` সহ সম্পূর্ণ, compile-যোগ্য সার্ভার:
+
+```go
+package main
+
+import (
+	"fmt"
+	"log"
+	"net/http"
+)
+
+// formHandler renders a simple HTML form.
+func formHandler(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodGet {
+		http.Error(w, "method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+	w.Header().Set("Content-Type", "text/html; charset=utf-8")
+	fmt.Fprint(w, `
+		<h2>Form Page</h2>
+		<form action="/submit" method="post">
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" required>
+			<br><br>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email" required>
+			<br><br>
+			<input type="submit" value="Submit">
+		</form>`)
+}
+
+// submitHandler processes the posted form data.
+func submitHandler(w http.ResponseWriter, r *http.Request) {
+	if err := r.ParseForm(); err != nil {
+		http.Error(w, "bad request", http.StatusBadRequest)
+		return
+	}
+	name, email := r.PostFormValue("name"), r.PostFormValue("email")
+	if name == "" || email == "" {
+		http.Error(w, "name and email are required", http.StatusBadRequest)
+		return
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	// Raw string (backtick) এর ভিতরে backslash-escape কাজ করে না
+	fmt.Fprintf(w, `{"status":"ok","name":%q,"email":%q}`, name, email)
+}
+
+func main() {
+	mux := http.NewServeMux()
+	mux.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
+	mux.HandleFunc("/form", formHandler)
+	mux.HandleFunc("/submit", submitHandler)
+	mux.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		http.Redirect(w, r, "/static/index.html", http.StatusFound)
+	})
+
+	srv := &http.Server{Addr: ":8080", Handler: mux}
+	log.Println("server starting on :8080")
+	log.Fatal(srv.ListenAndServe())
+}
+```
+
+যাচাই করুন:
+
+```bash
+go vet ./...   # compile + vet যাচাই
+curl -X POST -d "name=Rahim&email=rahim@example.com" http://localhost:8080/submit
+```
+
+---
+
+<a id="সূচিপত্র-table-of-contents"></a>
+
 ## 📖 সূচিপত্র (Table of Contents)
+
+**🚀 শুরু করার জন্য**
+
+- [এই ফোল্ডারে কী আছে](#whats-inside)
+- [Prerequisites](#prerequisites)
+- [Quick Start](#quick-start)
+
+**📘 Core Language**
 
 1. [Go কী?](#১-go-কী)
 2. [Installation ও Setup](#২-installation-ও-setup)
@@ -29,18 +171,39 @@
 7. [Control Flow](#৭-control-flow)
 8. [Functions ও Methods](#৮-functions-ও-methods)
 9. [Structs ও Interfaces](#৯-structs-ও-interfaces)
+- [🧬 Generics](#generics)
+- [✨ Go 1.21–1.25 নতুন ফিচার](#go-121125-নতুন-ফিচার)
+
+**🧪 Quality ও Tooling**
+
 10. [Error Handling](#১০-error-handling)
 11. [Concurrency](#১১-concurrency)
 12. [Packages ও Modules](#১২-packages-ও-modules)
 13. [Testing](#১৩-testing)
+- [🤖 CI/CD (GitHub Actions)](#cicd-github-actions)
+
+**🚀 Backend / Production**
+
 14. [REST API Development](#১৪-rest-api-development)
 15. [Database (MySQL + GORM)](#১৫-database-mysql--gorm)
 16. [JWT Authentication](#১৬-jwt-authentication)
 17. [Docker](#১৭-docker)
 18. [Production Best Practices](#১৮-production-best-practices)
+
+**🛠️ Reference**
+
 19. [Common Errors ও Solutions](#১৯-common-errors-ও-solutions)
 20. [Debugging Techniques](#২০-debugging-techniques)
 21. [Useful Resources](#২১-useful-resources)
+- [🎯 Quick Reference Card](#quick-reference-card)
+- [❓ FAQ](#faq)
+
+**📄 Meta**
+
+- [এই Handbook কীভাবে ব্যবহার করবেন](#এই-handbook-কীভাবে-ব্যবহার-করবেন)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👨‍💻 Author](#-author)
 
 ---
 
@@ -55,7 +218,7 @@
 | ⚡ **Fast Compilation** | সেকেন্ডে compile |
 | 🚀 **High Performance** | C/C++ এর কাছাকাছি |
 | 🔄 **Built-in Concurrency** | Goroutines & Channels |
-| 📦 **Single Binary** | কোনো dependency নেই |
+| 📦 **Single Binary** | একটি ফাইল, ছড়ানো dependency নেই |
 | 🧹 **Simple Syntax** | মাত্র ২৫টি keyword |
 | 🛡️ **Strong Standard Library** | HTTP, JSON, Crypto built-in |
 | 🌍 **Cross-Platform** | সব OS এর জন্য build |
@@ -85,8 +248,10 @@ go version
 
 **Linux:**
 ```bash
-wget https://go.dev/dl/go1.22.0.linux-amd64.tar.gz
-sudo tar -C /usr/local -xzf go1.22.0.linux-amd64.tar.gz
+# Stable release ডাউনলোড করুন (https://go.dev/dl/ থেকে সর্বশেষ version দেখুন)
+wget https://go.dev/dl/go1.25.0.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go
+sudo tar -C /usr/local -xzf go1.25.0.linux-amd64.tar.gz
 
 # ~/.bashrc বা ~/.zshrc
 export PATH=$PATH:/usr/local/go/bin
@@ -116,7 +281,7 @@ go env GOARCH             # Current architecture
 # Set custom:
 export GOPATH=$HOME/go
 export GOBIN=$HOME/go/bin
-export GO111MODULE=on
+# GO111MODULE আর দরকার নেই — Go 1.16 থেকে module mode সবসময় ON
 ```
 
 ### 🔧 IDE Setup (VS Code — Recommended)
@@ -269,7 +434,7 @@ go mod tidy                            # Add missing, remove unused
 go mod download                        # Download dependencies
 go mod verify                          # Verify checksums
 go mod graph                           # Show dependency graph
-go mod why <package>                   # Why is this dependency needed
+go mod why -m <module>                 # Why is this dependency needed
 
 # 🏃 Run Code
 go run main.go                         # Run file
@@ -1027,6 +1192,145 @@ default:
 
 ---
 
+<a id="generics"></a>
+
+## 🧬 Generics (Go 1.18+)
+
+Go-তে type safety রক্ষা করে generic লেখা যায় — interface{} এর বদলে নিরাপদ alternative।
+
+### 🔹 Basic Generic Function
+
+```go
+// Type parameter T
+func Map[T, U any](items []T, fn func(T) U) []U {
+	result := make([]U, 0, len(items))
+	for _, item := range items {
+		result = append(result, fn(item))
+	}
+	return result
+}
+
+func Filter[T any](items []T, pred func(T) bool) []T {
+	var out []T
+	for _, item := range items {
+		if pred(item) {
+			out = append(out, item)
+		}
+	}
+	return out
+}
+
+// ব্যবহার — type inference স্বয়ংক্রিয়
+nums := []int{1, 2, 3, 4}
+strs := Map(nums, strconv.Itoa)   // []string
+evens := Filter(nums, func(n int) bool { return n%2 == 0 }) // []int
+```
+
+### 🔹 Generic Struct ও Constraint
+
+```go
+import "cmp"
+
+// Ordered — int, float, string সবগুলোর জন্য কাজ করে
+func Max[T cmp.Ordered](a, b T) T {
+	if a > b {
+		return a
+	}
+	return b
+}
+
+// Custom constraint
+type Stringer interface {
+	String() string
+}
+
+func JoinAll[T Stringer](items []T, sep string) string {
+	parts := make([]string, len(items))
+	for i, item := range items {
+		parts[i] = item.String()
+	}
+	return strings.Join(parts, sep)
+}
+```
+
+### 🔹 কখন ব্যবহার করবেন
+
+| ✅ করুন | ❌ করুন না |
+|---|---|
+| `map`, `filter`, `reduce` ধরনের utility | ব্যবহারের জায়গায় type অনিশ্চিত হলে |
+| Slice/Map-এর collection logic | শুধু একটা struct-এর জন্য method |
+| Performance (interface{} boxing এড়ায়) | Interface satisfied করলেই যথেষ্ট |
+
+> 💡 **মনে রাখবেন:** `any` = `interface{}` (Go 1.18+)। `comparable` constraint `map` key হিসেবে ব্যবহারের জন্য দরকার।
+
+---
+
+<a id="go-121125-নতুন-ফিচার"></a>
+
+## ✨ Go 1.21–1.25 নতুন ফিচার
+
+| Version | Feature | বিবরণ |
+|---|---|---|
+| 1.21 | `min()`, `max()`, `clear()` | builtin functions |
+| 1.21 | `log/slog` | structured logging (stdlib) |
+| 1.22 | `for range int` | integer range loop |
+| 1.22 | **Loop variable fix** | per-iteration variable — capture bug সমাধান |
+| 1.22 | `http.ServeMux` | method + wildcard routing |
+| 1.23 | `for range func` | range-over-function iterator |
+| 1.23 | `iter.Seq` | iterator protocol (stdlib) |
+| 1.24 | Generic type aliases | type alias-এ generic |
+| 1.25 | `sync.WaitGroup.Go` | goroutine সহজীকরণ |
+| 1.25 | `testing/synctest` | concurrency test |
+
+### 🔹 `for range int` (1.22+)
+
+```go
+for i := range 5 {
+    fmt.Println(i)   // 0 1 2 3 4
+}
+```
+
+### 🔹 Loop Variable Capture — এখন সমাধান হয়েছে (1.22+)
+
+```go
+// ✅ Go 1.22+ — প্রতিটি iteration-এ আলাদা i, আগের মতো bug নেই
+for i := 0; i < 3; i++ {
+    go func() { fmt.Println(i) }()   // 0, 1, 2 (সবসময়)
+}
+
+// ⚠️ Go 1.21 ও আগের version-এ লিখতে হতো
+for i := 0; i < 3; i++ {
+    i := i                              // shadow করে আলাদা করতে হতো
+    go func() { fmt.Println(i) }()
+}
+```
+
+### 🔹 `sync.WaitGroup.Go` (1.25+)
+
+```go
+var wg sync.WaitGroup
+for i := 1; i <= 5; i++ {
+    wg.Go(func() {           // Add(1) + go + Done() — তিনটিই একসাথে
+        fmt.Println("worker", i)
+    })
+}
+wg.Wait()
+```
+
+### 🔹 `log/slog` — Structured Logging (1.21+)
+
+```go
+logger := slog.New(slog.NewJSONHandler(os.Stdout, &slog.HandlerOptions{
+    Level: slog.LevelInfo,
+}))
+
+logger.Info("user created", "user_id", 1, "ip", c.ClientIP())
+// Output: {"time":"...","level":"INFO","msg":"user created","user_id":1,"ip":"..."}
+```
+
+---
+---
+
 ## ১০. Error Handling
 
 ### 🎯 Basic Pattern
@@ -1117,6 +1421,28 @@ if errors.As(err, &pathErr) {
 }
 ```
 
+### 🔗 Multiple Errors — `errors.Join` (Go 1.20+)
+
+একাধিক error একসাথে জোড়া লাগাতে `errors.Join` ব্যবহার করুন:
+
+```go
+func validate(u User) error {
+    var errs []error
+    if u.Name == "" {
+        errs = append(errs, errors.New("name required"))
+    }
+    if u.Email == "" {
+        errs = append(errs, errors.New("email required"))
+    }
+    return errors.Join(errs...)   // nil যদি slice খালি হয়
+}
+
+// ব্যবহার
+if err := validate(u); err != nil {
+    return err
+}
+```
+
 ### ⚠️ Panic vs Error
 
 | Error | Panic |
@@ -1136,12 +1462,12 @@ func getUser(id int) *User {
     return nil
 }
 
-// ✅ সঠিক
+// ✅ সঠিক — error ও value দুটোই ফেরত দেয়
 func getUser(id int) (*User, error) {
     if id <= 0 {
         return nil, errors.New("invalid id")
     }
-    return nil, nil
+    return lookupUser(id)   // (User, error) ফেরত দেয়
 }
 ```
 
@@ -1292,7 +1618,7 @@ func fetchUser(ctx context.Context, id int) (*User, error) {
 ```go
 func workerPool(jobs <-chan int, results chan<- int, workers int) {
     var wg sync.WaitGroup
-    
+
     for i := 0; i < workers; i++ {
         wg.Add(1)
         go func() {
@@ -1302,7 +1628,7 @@ func workerPool(jobs <-chan int, results chan<- int, workers int) {
             }
         }()
     }
-    
+
     go func() {
         wg.Wait()
         close(results)
@@ -1312,16 +1638,16 @@ func workerPool(jobs <-chan int, results chan<- int, workers int) {
 func main() {
     jobs := make(chan int, 100)
     results := make(chan int, 100)
-    
+
     go workerPool(jobs, results, 5)
-    
+
     go func() {
         for i := 1; i <= 20; i++ {
             jobs <- i
         }
         close(jobs)
     }()
-    
+
     for r := range results {
         fmt.Println(r)
     }
@@ -1374,7 +1700,7 @@ go mod edit -replace github.com/foo/bar=../bar
 ```go
 module github.com/yourname/my-api
 
-go 1.22
+go 1.25
 
 require (
     github.com/gin-gonic/gin v1.9.1
@@ -1432,7 +1758,7 @@ func TestAdd(t *testing.T) {
         {"zero", 0, 5, 5},
         {"mixed", -2, 3, 1},
     }
-    
+
     for _, tt := range tests {
         t.Run(tt.name, func(t *testing.T) {
             result := Add(tt.a, tt.b)
@@ -1482,7 +1808,7 @@ func TestGetUser(t *testing.T) {
         },
     }
     svc := &UserService{repo: mock}
-    
+
     user, err := svc.GetUser(1)
     if err != nil {
         t.Fatal(err)
@@ -1499,12 +1825,12 @@ func TestGetUser(t *testing.T) {
 func TestMain(m *testing.M) {
     // Setup (DB connection, etc.)
     setup()
-    
+
     code := m.Run()
-    
+
     // Teardown
     teardown()
-    
+
     os.Exit(code)
 }
 
@@ -1526,8 +1852,124 @@ go tool cover -html=coverage.out
 go tool cover -func=coverage.out
 ```
 
+### 🧬 Fuzz Testing (Go 1.18+)
+
+```go
+func FuzzDivide(f *testing.F) {
+    f.Add(10, 2)      // seed input
+    f.Fuzz(func(t *testing.T, a, b int) {
+        if b == 0 {
+            return   // zero division — skip
+        }
+        if divide(a, b)*b != a {
+            t.Errorf("divide(%d, %d) ভুল ফলাফল দিচ্ছে", a, b)
+        }
+    })
+}
+```
+
+```bash
+go test -run=FuzzDivide -fuzz=FuzzDivide -fuzztime=30s
+```
+
 ---
 
+<a id="cicd-github-actions"></a>
+
+## 🤖 CI/CD (GitHub Actions)
+
+প্রতিটি push ও PR-এ automated test, vet, lint ও build চালানোর জন্য নিচের workflow ব্যবহার করুন।
+
+`.github/workflows/go.yml`:
+
+```yaml
+name: Go CI
+
+on:
+  push:
+    branches: [main, modified]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        go: ['1.25']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: ${{ matrix.go }}
+          cache: true
+
+      - name: Download dependencies
+        run: go mod download
+
+      - name: Check formatting
+        if: runner.os == 'Linux'
+        run: |
+          test -z "$(gofmt -s -l .)" || (gofmt -s -l . && exit 1)
+
+      - name: Vet
+        run: go vet ./...
+
+      - name: Build
+        run: go build -v ./...
+
+      - name: Test with race detector & coverage
+        run: go test -race -coverprofile=coverage.out -covermode=atomic ./...
+
+      - name: Upload coverage
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage
+          path: coverage.out
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+      - uses: golangci/golangci-lint-action@v6
+        with:
+          version: latest
+```
+
+### 🔹 `.golangci.yml`
+
+```yaml
+run:
+  timeout: 5m
+
+linters:
+  enable:
+    - govet
+    - errcheck      # unchecked error ধরে
+    - staticcheck   # bug ও code smell
+    - ineffassign
+    - unused
+    - revive
+    - gocritic
+
+issues:
+  exclude-rules:
+    - path: _test\.go
+      linters: [errcheck]
+```
+
+> 💡 `errcheck` চালু করলে unchecked `err` ধরা পড়ে — production code-এ এটা অত্যন্ত কার্যকর।
+
+---
 ## ১৪. REST API Development
 
 ### 🚀 Gin Quick Start
@@ -1542,11 +1984,11 @@ import (
 
 func main() {
     r := gin.Default()
-    
+
     r.GET("/ping", func(c *gin.Context) {
         c.JSON(http.StatusOK, gin.H{"message": "pong"})
     })
-    
+
     r.Run(":8080")
 }
 ```
@@ -1575,13 +2017,13 @@ func (h *UserHandler) Create(c *gin.Context) {
         c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
         return
     }
-    
+
     user, err := h.service.Create(c.Request.Context(), &req)
     if err != nil {
         c.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
         return
     }
-    
+
     c.JSON(http.StatusCreated, user)
 }
 
@@ -1591,13 +2033,13 @@ func (h *UserHandler) GetByID(c *gin.Context) {
         c.JSON(http.StatusBadRequest, gin.H{"error": "invalid id"})
         return
     }
-    
+
     user, err := h.service.GetByID(c.Request.Context(), id)
     if err != nil {
         c.JSON(http.StatusNotFound, gin.H{"error": err.Error()})
         return
     }
-    
+
     c.JSON(http.StatusOK, user)
 }
 ```
@@ -1658,17 +2100,17 @@ func NewDB(dsn string) (*gorm.DB, error) {
     if err != nil {
         return nil, err
     }
-    
+
     sqlDB, err := db.DB()
     if err != nil {
         return nil, err
     }
-    
+
     // Connection pool
     sqlDB.SetMaxIdleConns(10)
     sqlDB.SetMaxOpenConns(100)
     sqlDB.SetConnMaxLifetime(time.Hour)
-    
+
     return db, nil
 }
 
@@ -1718,7 +2160,7 @@ db.Where("age > ?", 18).Find(&users)
 // Update
 db.Model(&user).Update("name", "করিম")
 db.Model(&user).Updates(User{Name: "করিম", Age: 30})
-db.Model(&User{}).Where("age < ?", 18).Update("status", "minor")
+db.Model(&User{}).Where("age < ?", 18).Update("age", 0)   // শুধু model-এ থাকা column
 
 // Delete (soft delete)
 db.Delete(&user, 1)
@@ -1848,7 +2290,7 @@ func GenerateToken(user *User, secret string, duration time.Duration) (string, e
             Subject:   strconv.FormatUint(uint64(user.ID), 10),
         },
     }
-    
+
     token := jwt.NewWithClaims(jwt.SigningMethodHS256, claims)
     return token.SignedString([]byte(secret))
 }
@@ -1871,12 +2313,12 @@ func ValidateToken(tokenString, secret string) (*Claims, error) {
     if err != nil {
         return nil, err
     }
-    
+
     claims, ok := token.Claims.(*Claims)
     if !ok || !token.Valid {
         return nil, errors.New("invalid token")
     }
-    
+
     return claims, nil
 }
 ```
@@ -1893,7 +2335,7 @@ func AuthMiddleware(secret string) gin.HandlerFunc {
             })
             return
         }
-        
+
         parts := strings.SplitN(authHeader, " ", 2)
         if len(parts) != 2 || parts[0] != "Bearer" {
             c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{
@@ -1901,7 +2343,7 @@ func AuthMiddleware(secret string) gin.HandlerFunc {
             })
             return
         }
-        
+
         claims, err := ValidateToken(parts[1], secret)
         if err != nil {
             c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{
@@ -1909,7 +2351,7 @@ func AuthMiddleware(secret string) gin.HandlerFunc {
             })
             return
         }
-        
+
         c.Set("user_id", claims.UserID)
         c.Set("email", claims.Email)
         c.Set("role", claims.Role)
@@ -1927,14 +2369,14 @@ func RequireRole(roles ...string) gin.HandlerFunc {
             })
             return
         }
-        
+
         for _, r := range roles {
             if role == r {
                 c.Next()
                 return
             }
         }
-        
+
         c.AbortWithStatusJSON(http.StatusForbidden, gin.H{
             "error": "insufficient permissions",
         })
@@ -1946,7 +2388,7 @@ api := r.Group("/api/v1")
 api.Use(AuthMiddleware(cfg.JWTSecret))
 {
     api.GET("/profile", getProfile)
-    
+
     admin := api.Group("/admin")
     admin.Use(RequireRole("admin"))
     {
@@ -1963,7 +2405,7 @@ api.Use(AuthMiddleware(cfg.JWTSecret))
 
 ```dockerfile
 # ============ Builder ============
-FROM golang:1.22-alpine AS builder
+FROM golang:1.25-alpine AS builder
 
 WORKDIR /build
 
@@ -1996,8 +2438,7 @@ ENTRYPOINT ["/app"]
 ### 🐳 docker-compose.yml
 
 ```yaml
-version: '3.9'
-
+# ⚠️ Compose v2 তে 'version' key অপ্রয়োজনীয় ও deprecated
 services:
   api:
     build:
@@ -2057,11 +2498,11 @@ docker build -t my-api:1.0.0 -f deployments/Dockerfile .
 docker run -d -p 8080:8080 --name api my-api:latest
 docker run --rm -it my-api:latest sh
 
-# Compose
-docker-compose up -d
-docker-compose logs -f api
-docker-compose down
-docker-compose down -v           # With volumes
+# Compose (v2 — 'docker compose', পুরনো 'docker-compose' deprecated)
+docker compose up -d
+docker compose logs -f api
+docker compose down
+docker compose down -v           # volumes সহ
 
 # Cleanup
 docker system prune -a
@@ -2087,10 +2528,10 @@ docker volume prune
 │          ▼ Port mapping                  │
 │      localhost:8080                       │
 └────────────────────────────────────────┘
-
-Note: Same network এ containers একে অপরকে 
-service name দিয়ে access করে (e.g., mysql:3306)
 ```
+
+> 💡 **Note:** একই network-এ থাকা containers একে অপরকে **service name** দিয়ে access করে
+> (যেমন `mysql:3306`) — IP বা port mapping লাগে না।
 
 ---
 
@@ -2146,25 +2587,25 @@ func main() {
         Addr:    ":8080",
         Handler: router,
     }
-    
+
     go func() {
         if err := srv.ListenAndServe(); err != nil && err != http.ErrServerClosed {
             log.Fatalf("listen: %s\n", err)
         }
     }()
-    
+
     quit := make(chan os.Signal, 1)
     signal.Notify(quit, syscall.SIGINT, syscall.SIGTERM)
     <-quit
     log.Println("Shutting down server...")
-    
+
     ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
     defer cancel()
-    
+
     if err := srv.Shutdown(ctx); err != nil {
         log.Fatal("Server forced to shutdown:", err)
     }
-    
+
     log.Println("Server exited")
 }
 ```
@@ -2211,17 +2652,17 @@ logger.Error("database error",
 ### 🐛 Common Go Pitfalls
 
 ```go
-// ❌ Bug 1: Loop variable capture (Go <1.22)
+// ❌ Bug 1: Loop variable capture (শুধু Go 1.21 ও আগের version-এ)
+// Go 1.22+ এ এই bug নেই — প্রতি iteration-এ আলাদা `i` তৈরি হয়
 for i := 0; i < 3; i++ {
-    go func() { fmt.Println(i) }()   // সবগুলো 3 print করতে পারে
+    go func() { fmt.Println(i) }()   // Go <1.22: সবগুলো 3 দেখাতে পারে
 }
 
-// ✅ Fix
+// ✅ Go 1.21-এ Fix — shadow করে আলাদা করতে হতো
 for i := 0; i < 3; i++ {
     i := i                            // Shadow
     go func() { fmt.Println(i) }()
 }
-// অথবা Go 1.22+ এ automatic fix
 
 // ❌ Bug 2: Slice append sharing
 a := []int{1, 2, 3}
@@ -2382,7 +2823,7 @@ func BenchmarkAdd(b *testing.B) {
 | Config | `github.com/spf13/viper` |
 | Logging | `log/slog`, `go.uber.org/zap` |
 | Testing | `github.com/stretchr/testify` |
-| Mocking | `github.com/golang/mock` |
+| Mocking | `go.uber.org/mock` (আগে `github.com/golang/mock`) |
 | Migration | `github.com/golang-migrate/migrate` |
 | Redis | `github.com/redis/go-redis/v9` |
 | Scheduler | `github.com/robfig/cron/v3` |
@@ -2397,6 +2838,8 @@ func BenchmarkAdd(b *testing.B) {
 - **Learning Go** — Jon Bodner
 
 ---
+
+<a id="quick-reference-card"></a>
 
 ## 🎯 Quick Reference Card
 
@@ -2424,39 +2867,240 @@ Init          : go mod init <path>
 Run           : go run .
 Build         : go build -o app .
 Test          : go test ./...
+Race          : go test -race ./...
 Coverage      : go test -cover ./...
+Fuzz          : go test -fuzz=FuzzX
 Format        : gofmt -w .
 Vet           : go vet ./...
 Tidy          : go mod tidy
+Docs          : go doc fmt.Println
 Cross-build   : GOOS=linux GOARCH=amd64 go build
+────────────────────────────────────────────
+
+🆕 Go 1.21 – 1.25
+────────────────────────────────────────────
+min / max     : min(a, b)          | max(a, b)
+clear         : clear(m)           // map/slice খালি
+for range int : for i := range 5 {}
+waitgroup    : wg.Go(func(){...}) // 1.25+
+slog          : slog.Info("msg", "k", v)
+any           : var x any           // = interface{}
 ────────────────────────────────────────────
 ```
 
+<a id="faq"></a>
+
+## ❓ FAQ
+
+<details>
+<summary><b>Go শিখতে কত সময় লাগে?</b></summary>
+
+Core language (syntax, structs, interfaces, error handling) মোটামুটি **2–4 সপ্তাহ**। Production-এ যাওয়া
+(concurrency, database, deployment) আরও **2–3 মাস** লাগে। তবে Go-এর মাত্র ২৫টি keyword আছে, তাই
+C# বা Java-র তুলনায় entry curve অনেক ছোট।
+
+</details>
+
+<details>
+<summary><b>Go-তে কী class/generics/OOP নেই?</b></summary>
+
+Go-তে `class` keyword নেই, কিন্তু `struct` + `method` দিয়ে একই কাজ হয়।
+OOP-এর যে ধারণাগুলো দরকার (encapsulation, inheritance, polymorphism) — সবই Go-এ আছে,
+শুধু syntax আলাদা:
+
+- **Encapsulation** → unexported field (`name` vs `Name`)
+- **Inheritance** → `struct embedding`
+- **Polymorphism** → `interface`
+
+</details>
+
+<details>
+<summary><b>Go-এ exception কেন নেই?</b></summary>
+
+Go-র মতামত: exception লুকানো থেকে বেশিরভাগ সময় bug ঢুকে যায়, আর compiler সেটা ধরতে পারে না।
+তাই `error` একটি সাধারণ return value — যা compiler দেখতে পারে এবং ভুলে যাওয়া যায় না।
+
+```go
+data, err := os.ReadFile("f.txt")
+if err != nil {
+    return fmt.Errorf("read file: %w", err)   // context যোগ করে
+}
+```
+
+`panic` শুধুমাত্র unrecoverable ব্যর্থতার জন্য (যেমন program initialization ব্যর্থ)।
+
+</details>
+
+<details>
+<summary><b>Goroutine leak কীভাবে হয়?</b></summary>
+
+যে goroutine আর কখনো শেষ হবে না। সাধারণ কারণ:
+
+- `ctx` cancel করা হয়নি
+- unbuffered channel-এ পাঠানো হয়েছে কিন্তু কেউ পড়ছে না
+- HTTP response body `Close()` করা হয়নি
+
+```go
+// ✅ সবসময় cancel করুন
+ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+defer cancel()
+
+// ✅ HTTP body সবসময় বন্ধ করুন
+resp, err := http.Get(url)
+if err != nil { return err }
+defer resp.Body.Close()
+```
+
+ধরতে `go vet`, `staticcheck` এবং `-race` ব্যবহার করুন।
+
+</details>
+
+<details>
+<summary><b>pointer receiver না value receiver — কোনটি?</b></summary>
+
+**সাধারণ নিয়ম: সবসময় pointer receiver ব্যবহার করুন।**
+
+একটি struct-এ কোনো method-এ pointer থাকলে অন্য সব method-ও pointer হওয়া উচিত — নইলে
+pointer ও value উভয়েই method set অসম্পূর্ণ হয়ে interface satisfaction ভেঙে যায়।
+
+ব্যতিক্রণ: ছোট, immutable, ও purely computational struct (যেমন `time.Time`)।
+
+</details>
+
+<details>
+<summary><b>`vendor/` directory কী জন্য?</b></summary>
+
+সব dependency আপনার কোডের সাথেই রাখে, যাতে build-এর সময় internet না লাগে।
+বড় বা air-gapped (network restricted) production environment-এ এটা common practice।
+
+```bash
+go mod vendor
+go build -mod=vendor ./...
+```
+
+</details>
+
+<details>
+<summary><b>এই repository-তে Go project কোথায়?</b></summary>
+
+`06-Go/Go-Lang/src/go-server/` — একটি ছোট `net/http` based server যা static file serve করে
+এবং HTML form handle করে। বিস্তারিত [এই ফোল্ডারে কী আছে](#whats-inside) section-এ।
+
+</details>
+
 ---
+
+<a id="এই-handbook-কীভাবে-ব্যবহার-করবেন"></a>
+
+## 📘 এই Handbook কীভাবে ব্যবহার করবেন
+
+### 🎯 কাজের সময় (Quick Lookup)
+
+| পরিস্থিতি | কোথায় যাবেন |
+|---|---|
+| Command মনে নেই | [Section ৪ — Commands](#৪-essential-commands-cheat-sheet) |
+| Syntax ভুলে গেছে | [Section ৫–৯](#৫-basic-syntax-quick-reference) |
+| Error message এসেছে | [Section ১৯ — Common Errors](#১৯-common-errors-ও-solutions) |
+| Bug ধরতে হবে | [Section ২০ — Debugging](#২০-debugging-techniques) |
+| নতুন API বানাতে হবে | [Section ১৪ — REST API](#১৪-rest-api-development) |
+| Deploy করতে হবে | [Section ১৭–১৮](#১৭-docker) |
+
+### 📚 শেখার সময়
+
+1. [Section ১](#১-go-কী) থেকে [Section ১৩](#১৩-testing) পর্যন্ত ধারাবাহিক পড়ুন
+2. প্রতিটি code block নিজে হাতে লিখে চালান
+3. [Common Go Pitfalls](#-common-go-pitfalls) section-এর উদাহরণগুলো নিজে ভাঙিয়ে দেখুন
+4. [Quick Reference Card](#quick-reference-card) ছাপিয়ে রাখুন
+
+### 🚀 নিজের project বানালে
+
+1. [Section ৩ — Project Structure](#৩-project-structure) follow করুন
+2. [Makefile Template](#-makefile-template) কপি করে `Makefile` হিসেবে রাখুন
+3. [CI/CD workflow](#cicd-github-actions) যোগ করুন
+4. [Section ১৭ — Docker](#১৭-docker) দিয়ে deploy করুন
+
+### 🎨 Team-এর সাথে share করতে
+
+1. `README.md` টি project root-এ রাখুন
+2. Team-কে এটিকে reference হিসেবে পরিচিত করান
+3. Project-specific তথ্য যোগ করুন
+
+---
+
+<a id="-contributing"></a>
 
 ## 🤝 Contributing
 
-এই README.md কে improve করতে চাইলে:
-1. Fork করুন
-2. Feature branch তৈরি করুন
-3. Commit করুন
-4. Push করুন
-5. Pull Request পাঠান
+এই handbook-এর উন্নতিতে অবদান রাখতে চান? স্বাগতম!
+
+1. **Fork** করুন এবং একটি feature branch তৈরি করুন
+   ```bash
+   git checkout -b docs/improve-readme
+   ```
+2. **Edit** করুন — ভাষা, উদাহরণ বা ব্যাখ্যা যেকোনো কিছু উন্নত করতে পারেন
+3. **Verify** করুন যে code block-গুলো সঠিক:
+   ```bash
+   gofmt -l .      # list unformatted files
+   go vet ./...
+   ```
+4. **Commit** করুন একটি স্পষ্ট message দিয়ে
+5. **Push** করুন এবং **Pull Request** খুলুন
+
+**যা যোগ করবেন স্বাগতভিত্তিক:**
+
+- নতুন section বা বিষয়
+- বাস্তবসম্মত উদাহরণ ও case study
+- ভুল ভাষা বা ভুল উদাহরণের সংশোধন
+- অনুবাদ (English ↔ বাংলা)
+
+> 📌 বড় পরিবর্তনের আগে একটি issue খুলে আলোচনা করে নিও।
 
 ---
+
+<a id="-license"></a>
 
 ## 📄 License
 
-MIT License — freely use, modify, and share.
+এই handbook ও repository-র কন্টেন্ট [MIT License](https://opensource.org/licenses/MIT) অনুযায়ী
+লাইসেন্সড।
+
+```
+MIT License
+
+Copyright (c) 2026 Tanjim-joy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+> ⚠️ **Note:** Repository-তে এখনো আলাদা `LICENSE` file যোগ করা হয়নি।
+> উপরের license text-টি অন্তর্ভুক্ত করার জন্য root-এ `LICENSE` file তৈরি করুন।
 
 ---
 
+<a id="-author"></a>
+
 ## 👨‍💻 Author
 
-**Your Name**  
-Senior Golang Engineer | Backend Architect  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/yourname)
+**Tanjim-joy** — Senior Golang Engineer & Backend Architect
+
+- 🔗 [GitHub](https://github.com/Tanjim-joy)
+- 📧 [learning-zone repo](https://github.com/Tanjim-joy/learning-zone)
 
 ---
 
@@ -2466,37 +3110,5 @@ Senior Golang Engineer | Backend Architect
 
 > **"Talk is cheap. Show me the code."** — Linus Torvalds
 
----
+**Happy Coding! 🚀**
 
-**Happy Coding! 🚀🐹**
-```
-
----
-
-## 📝 এই README.md কীভাবে ব্যবহার করবেন?
-
-### 🎯 Development এর সময়:
-1. **Quick Reference** — Section 4 (Commands), Section 5-9 (Syntax)
-2. **Error পড়লে** — Section 19 (Common Errors)
-3. **Bug ধরতে** — Section 20 (Debugging)
-
-### 📚 শেখার সময়:
-1. Sequential পড়ুন Section 1 → 21
-2. প্রতিটি Section এর code নিজে লিখুন
-3. Exercise নিজে করুন
-
-### 🚀 Project Setup এ:
-1. Section 3 (Project Structure) follow করুন
-2. Section 4 (Makefile) কপি করুন
-3. Section 17 (Docker) দিয়ে deploy করুন
-
-### 🎨 Team এ শেয়ার করতে:
-1. README.md কে project root এ রাখুন
-2. Team members কে reference হিসেবে বলুন
-3. Project specific info যোগ করুন
-
----
-
-> 💡 **Pro Tip:** এই README.md কে `docs/` folder এ রাখুন এবং `Makefile` এ একটি `make help` command যোগ করুন যা এই documentation এর path দেখাবে।
-
-**আরো specific কিছু চাইলে বলুন** — যেমন: خاص framework এর detail, specific pattern এর example, বা আপনার project specific customization! 🚀
